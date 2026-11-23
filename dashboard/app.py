@@ -1,4 +1,4 @@
-"""Pulse dashboard: customer issues from Swiggy app reviews, how they were merged,
+"""Dashboard: customer issues from Swiggy app reviews, how they were merged,
 and how well each stage of the pipeline works.
 
 It reads only the aggregated outputs committed to the repository; no review text.
@@ -22,7 +22,7 @@ MUTED = "#c3c2b7"
 INK_2 = "#52514e"
 GRID = "#e1e0d9"
 
-st.set_page_config(page_title="Pulse: customer issues from app reviews", layout="wide")
+st.set_page_config(page_title="Customer issues in Swiggy app reviews", layout="wide")
 
 
 def style(chart):
@@ -70,7 +70,7 @@ trends, days, totals, mapping, spikes, triage, position, stars, samples, topic_c
 day_labels = {d: f"{pd.Timestamp(d).day} {pd.Timestamp(d):%b}" for d in days}   # portable (no %-d on Windows)
 actionable = totals.set_index("day")["actionable"].reindex(days)
 
-st.title("Pulse")
+st.title("Customer issues in Swiggy app reviews")
 st.markdown(
     f"What customers complained about in Swiggy's Google Play reviews, 1–9 October 2025. "
     f"A local Llama 3.1 8B filters reviews, extracts specific issues and merges them into topics; "
