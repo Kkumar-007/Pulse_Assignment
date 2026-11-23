@@ -1,0 +1,4 @@
+system,labelled_reviews,tp,fp,fn,tn,precision,precision_lo,precision_hi,recall,recall_lo,recall_hi,accuracy
+v1,200,28,41,38,93,0.4058,0.2979,0.5236,0.4242,0.3124,0.5444,0.605
+v2 (model only),200,59,7,7,127,0.8939,0.7969,0.9477,0.8939,0.7969,0.9477,0.93
+v2 (with keyword rescue),200,61,7,5,127,0.8971,0.8024,0.9492,0.9242,0.8346,0.9672,0.94

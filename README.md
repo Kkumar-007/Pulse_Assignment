@@ -20,6 +20,20 @@ All figures come from hand labels: 200 randomly sampled reviews for triage, and 
 - **v1 triage was worse than doing nothing.** Its accuracy was 60%. Labelling every review "not actionable" would have scored 67%.
 - **v1 merge precision wasn't measured.** In v1's output, 322 of the 1,051 rows were raw model replies (quoted copies, the literal `NEW_TOPIC`, notes), not topics.
 
+## Dashboard
+
+`dashboard/app.py` is a Streamlit app with three tabs:
+- **Issues:** the topic table with a daily trend for each topic, and the flagged rises.
+- **How phrases were merged:** every merge decision behind each topic.
+- **How well it works:** the evaluation above, with charts.
+
+It reads only the aggregated files in this repository.
+
+```bash
+pip install -r dashboard/requirements.txt
+streamlit run dashboard/app.py
+```
+
 ## Pipeline (final version)
 
 | Stage | Script | What it does |
@@ -75,6 +89,7 @@ python analysis/triage_position_check.py "output_v2/triage/triage_*.csv" llm_lab
 python analysis/merge_sample.py output_v3/topic_mapping.csv   # scores the labelled sample in analysis/
 python analysis/make_label_sample.py                          # draw 200 reviews to label
 python analysis/score_triage.py                               # v1 vs v2 precision and recall
+python analysis/export_triage_summary.py                      # aggregate triage results for the dashboard
 ```
 
 `merge_sample.py` draws a sample to label the first time it's run on a mapping file and scores it the next time. The three labelled merge samples are included, so the merge figures above can be reproduced from this repository. The triage checks need the review-level files, which aren't published (see below).
@@ -86,7 +101,8 @@ Scripts/              v1 as originally submitted (kept for reference)
 output/               v1 output
 Scripts_v2/           scraper and triage (final), plus v2 extraction and consolidation
 Scripts_v3/           final extraction, consolidation and spike detection
-analysis/             evaluation scripts and the labelled merge samples
+analysis/             evaluation scripts, the labelled merge samples and aggregate triage results
+dashboard/            Streamlit dashboard (its own requirements.txt)
 output_v2/            v2 topic table, merge log, daily totals, spikes
 output_v3/            final topic table, merge log, spikes
 output_v3_floor070/   the 0.70-floor experiment
