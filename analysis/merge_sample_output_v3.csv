@@ -1,0 +1,101 @@
+﻿phrase,canonical,mentions,similarity,correct
+Poor Customer Response,Poor Customer Support,1,0.789,Y
+Lack of Customer Support,Poor Customer Support,7,0.866,Y
+Ineffective Customer Care,Poor Customer Support,3,0.718,Y
+Frozen Food Not Packed,Food Not Prepared,1,0.647,N
+Slow Delivery Speed,Delivery Time Increase,1,0.746,Y
+Long Delivery Time,Late Delivery,43,0.717,Y
+Call Connection Problem,Call Center No Response,1,0.607,N
+No Contact Number,No Customer Care Number,1,0.738,Y
+Undelivered Food,Food Not Prepared,1,0.609,N
+Non-Existent Restaurant,Difficulty Finding Restaurant,1,0.757,N
+Incorrect Distance Estimate,Incorrect Distance Display,1,0.668,Y
+Incorrect GST Calculation,GST Charges,1,0.669,N
+Customer Support Removed,Customer Contact Removed,1,0.739,Y
+Fake Delivery Assignment,Delivery Scam,1,0.66,Y
+Incorrect Food Items,Faulty Food Orders,1,0.755,Y
+Inability to Cancel Order,Order Cancellation,1,0.848,Y
+Missing Items Again,Missing Items,1,0.961,Y
+No Updates,Lack Of Updates,1,0.846,Y
+Food Eaten By Delivery,Delivery Boys Eat Food,1,0.666,Y
+Items Out of Stock,Food Out of Stock,1,0.771,Y
+Missing Payment Option,Payment Issues,3,0.621,N
+Incorrect Prices,Incorrect Price,3,0.958,Y
+Limited Service Availability,Incorrect Availability,1,0.61,N
+Cancellation Charge,Cancellation Fee Charged,2,0.866,N
+Order Cancellation Restrictions,Order Cancellation,1,0.926,Y
+Inconsistent Cancellation Policy,Order Cancellation,1,0.629,N
+Coupon Not Accepted,Coupon Not Applied,1,0.898,Y
+Missing Item,Missing Items,10,0.893,Y
+No Delivery Partner Assigned,Delivery Partner Issue,1,0.787,Y
+Wrong Gravy Received,Missing Gravy,1,0.783,Y
+Order Mistake,Incorrect Order,1,0.898,Y
+Incorrect Food Status,Faulty Food Orders,1,0.715,N
+Incorrect Weather Information,Incorrect Weather Forecast,1,0.829,Y
+Stolen Foods,Food Stolen,1,0.95,Y
+Incorrect Order Clustering,Clustering Orders,1,0.79,Y
+Expired Food,Stale Food,2,0.752,Y
+Cancellation Fee Policy,Cancellation Fee Charged,1,0.825,Y
+Misleading Coupons,Misleading Discounts,1,0.702,Y
+Unfulfilled Promise,Fake Promises,1,0.723,Y
+Automatic Coupon Reduction,Coupon Not Applied,1,0.627,N
+Missing Discounts,Missing Cash Discount,1,0.811,N
+Refund Process,No Refund,5,0.751,N
+Unordered Food,Faulty Food Orders,1,0.607,Y
+Unfair Charges,Hidden Charges,7,0.654,N
+Unauthorized Order,Fraudulent Order Listing,1,0.679,N
+No Replacement Offered,No Replacement,1,0.911,Y
+Rating Problem,Forced Rating,1,0.631,N
+Misleading Status Update,Incorrect Status Update,1,0.901,Y
+Slow Service,Delayed Service,3,0.712,Y
+Delivery Not Done,Delivery Issue,1,0.808,N
+Late Delivery Agent,Late Delivery,1,0.813,Y
+Unsuccessful Payment Refund,No Refund,1,0.674,Y
+Order Denial,Order Cancellation,1,0.709,N
+Unresponsive Delivery Team,Lack of Delivery Executives,1,0.659,N
+Late Delivery Times,Late Delivery,1,0.914,Y
+No Refund System,No Refund,1,0.823,Y
+Unexpected Charge,Extra Charge,1,0.633,Y
+High Delivery Price,High Delivery Charges,1,0.83,Y
+Money Not Refunded,No Refund,4,0.793,Y
+Timing Issues,Incorrect Restaurant Timings,1,0.677,N
+Lack of Customer Service,Customer Service Failure,1,0.771,Y
+Stale Breads,Stale Food,1,0.746,Y
+Lack of Coupon,Coupon Not Applied,1,0.652,N
+Cancelled Order Refund,Order Cancellation,2,0.729,N
+Unfair Platform Fee,Excessive Platform Fee,1,0.874,Y
+Missing Order Receipt,Order Not Delivered,1,0.633,N
+Slow Refund,No Refund,1,0.741,N
+Incorrect Payment Method,Payment Issues,1,0.754,N
+Delivery Guy Stops Calling,Delivery Guy Doesn't Pickup,1,0.676,N
+Customer Support Ineffective,Poor Customer Support,1,0.836,Y
+Fraudulent Charges,Fraudulent Practices,1,0.712,N
+Misleading Customer Support,Poor Customer Support,1,0.744,N
+Rain Fee Charged Twice,Rain Fee,1,0.795,Y
+Poor Delivery Condition,Delivery Issues,2,0.779,N
+Misleading Product Images,Incorrect Product Display,1,0.611,Y
+Misleading Consumers,False Advertising,1,0.617,Y
+Incorrect Orders,Incorrect Order,2,0.853,Y
+Unnecessary Order Acceptance,Forced Acceptance,1,0.642,Y
+Double Payment,Payment Issues,1,0.606,N
+Harassment For Refund,Unfair Refund Policy,1,0.624,N
+Restaurant Status Inconsistency,Restaurant Handling Issues,1,0.656,N
+Abusive Communication,Abusive Behaviour,1,0.819,Y
+No Returns Allowed,No Return Policy,1,0.735,Y
+Failed Refund,No Refund,1,0.785,Y
+Missing Cash Refund,Cash Back Not Received,1,0.741,Y
+False Refund Promise,No Refund,1,0.683,N
+Missing Food Items,Missing Items,1,0.76,Y
+Orders Clubbed Together,Multiple Deliveries Clubbed,1,0.673,Y
+Unhelpful Help Section,Broken Help Section,1,0.781,N
+Delivery Partner Failure to Locate Restaurant,Delivery Partner Issue,1,0.67,N
+Cancellation Scam,Cancellation Fee Charged,1,0.68,N
+Poor Customer Service,Poor Customer Support,34,0.882,Y
+Incorrect Contact Number,Incorrect Address,1,0.624,N
+Poor Quality,Poor Service Quality,1,0.711,N
+No Notification of Delay,Delayed Service,1,0.639,N
+Money Stolen,Money Theft,1,0.903,Y
+Unfair Advertising,False Advertising,1,0.781,Y
+Scam Sale,Delivery Scam,1,0.728,N
+Wrong Food Order,Incorrect Order,2,0.718,Y
+Incorrect GST Charge,GST Charges,1,0.874,Y

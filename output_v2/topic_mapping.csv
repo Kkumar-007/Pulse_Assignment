@@ -1,0 +1,1889 @@
+phrase,mentions,canonical,decision,top_similarity
+Late Delivery,515,Late Delivery,new,
+Refund Not Processed,172,Refund Not Processed,new,0.256
+Poor Customer Service,98,Refund Not Processed,merged,0.356
+Poor Customer Support,61,Refund Not Processed,merged,0.368
+Rude Delivery Partner,56,Rude Delivery Partner,new,0.522
+Poor Service,50,Rude Delivery Partner,merged,0.309
+Incorrect Delivery Time,30,Late Delivery,merged,0.699
+Missing Items,27,Rude Delivery Partner,merged,0.289
+App Crashes At Checkout,26,App Crashes At Checkout,new,0.245
+Cold Food,26,Late Delivery,merged,0.22
+Incorrect Order,26,Refund Not Processed,merged,0.256
+Rude Customer Service,24,Rude Delivery Partner,merged,0.639
+Long Delivery Time,20,Late Delivery,merged,0.717
+Long Wait Time,20,Late Delivery,merged,0.334
+No Response,20,Rude Delivery Partner,merged,0.329
+Poor Customer Care,20,Rude Delivery Partner,merged,0.438
+Rude Customer Support,19,Rude Delivery Partner,merged,0.644
+Hidden Charges,18,Refund Not Processed,merged,0.189
+No Refund,18,Refund Not Processed,merged,0.759
+Cancelled Order,17,Refund Not Processed,merged,0.443
+Bad Experience,16,Rude Delivery Partner,merged,0.251
+No Customer Support,16,Rude Delivery Partner,merged,0.332
+Bad Service,15,Rude Delivery Partner,merged,0.3
+Unresponsive Customer Support,15,Rude Delivery Partner,merged,0.395
+Worst Experience,15,Rude Delivery Partner,merged,0.215
+Cancellation Fee,13,Cancellation Fee,new,0.411
+Unreliable Service,13,App Crashes At Checkout,merged,0.362
+Bad Customer Service,12,Rude Delivery Partner,merged,0.383
+Order Cancellation,12,Refund Not Processed,merged,0.603
+Order Not Delivered,12,Late Delivery,merged,0.595
+Unfair Charges,12,Cancellation Fee,merged,0.292
+Unresponsive Delivery Partner,12,Rude Delivery Partner,merged,0.68
+Unresponsive Support,12,Rude Delivery Partner,merged,0.279
+Cancellation Fee Charged,11,Cancellation Fee,merged,0.946
+Order Cancelled,11,Refund Not Processed,merged,0.51
+Slow Delivery,11,Late Delivery,merged,0.724
+Waste Of Time,11,Rude Delivery Partner,merged,0.259
+Frustrating Experience,9,Rude Delivery Partner,merged,0.233
+High Prices,9,Cancellation Fee,merged,0.169
+Rude Customer Care,9,Rude Delivery Partner,merged,0.666
+Unhelpful Customer Support,9,Unhelpful Customer Support,new,0.447
+Worst Service,9,Rude Delivery Partner,merged,0.376
+Cancelled Orders,8,Refund Not Processed,merged,0.486
+Money Not Refunded,8,Refund Not Processed,merged,0.814
+No Response From Support,8,Unhelpful Customer Support,merged,0.479
+Food Not Delivered,7,Late Delivery,merged,0.55
+Fraudulent Practices,7,Refund Not Processed,merged,0.263
+Late Order Cancellation,7,Refund Not Processed,merged,0.535
+Missing Item,7,Refund Not Processed,merged,0.292
+Order Not Cancelled,7,Refund Not Processed,merged,0.538
+Unfair Cancellation Policy,7,Cancellation Fee,merged,0.605
+Unfair Pricing,7,Cancellation Fee,merged,0.382
+Unreliable App,7,App Crashes At Checkout,merged,0.502
+Waste of Money,7,Refund Not Processed,merged,0.38
+App Crashes,6,App Crashes At Checkout,merged,0.758
+App Not Recommended,6,App Crashes At Checkout,merged,0.372
+Cancellation Charges,6,Cancellation Fee,merged,0.849
+Cancellation Fees,6,Cancellation Fee,merged,0.965
+Customer Support Unhelpful,6,Unhelpful Customer Support,merged,0.978
+Delayed Order,6,Late Delivery,merged,0.576
+Delayed Orders,6,Late Delivery,merged,0.614
+Excessive Charges,6,Cancellation Fee,merged,0.276
+Extra Charges,6,Cancellation Fee,merged,0.361
+No Cancellation Option,6,Unhelpful Customer Support,merged,0.728
+No Compensation,6,Cancellation Fee,merged,0.368
+Order Cancellation Issue,6,Refund Not Processed,merged,0.579
+Poor Food Quality,6,Late Delivery,merged,0.211
+Poor Service Experience,6,Unhelpful Customer Support,merged,0.506
+Unresponsive Customer Care,6,Unhelpful Customer Support,merged,0.718
+Wrong Order,6,Rude Delivery Partner,merged,0.291
+Cancel Order Not Possible,5,Refund Not Processed,merged,0.541
+Cancellation Not Allowed,5,Cancellation Fee,merged,0.68
+Cheating Customers,5,Rude Delivery Partner,merged,0.575
+Delayed Delivery,5,Late Delivery,merged,0.878
+Food Stolen,5,Rude Delivery Partner,merged,0.176
+Inaccurate Delivery Time,5,Late Delivery,merged,0.683
+Incorrect Delivery Time Estimate,5,Late Delivery,merged,0.569
+Late Payment,5,Late Delivery,merged,0.578
+Late Refund,5,Refund Not Processed,merged,0.712
+Misleading Delivery Time,5,Late Delivery,merged,0.691
+No Customer Care Number,5,Unhelpful Customer Support,merged,0.462
+No Response From Customer Care,5,Unhelpful Customer Support,merged,0.562
+Order Cannot Be Cancelled,5,Refund Not Processed,merged,0.534
+Poor Support,5,Unhelpful Customer Support,merged,0.509
+Stale Food,5,Stale Food,new,0.201
+Useless App,5,Unhelpful Customer Support,merged,0.306
+Wrong Item Delivered,5,Wrong Item Delivered,new,0.513
+App Uninstallation Requested,4,Unhelpful Customer Support,merged,0.302
+Bad Food,4,Stale Food,merged,0.599
+Fraud App,4,Refund Not Processed,merged,0.325
+High Delivery Charges,4,Rude Delivery Partner,merged,0.482
+High Platform Fee,4,Cancellation Fee,merged,0.373
+High Price,4,Cancellation Fee,merged,0.221
+Incomplete Order,4,Wrong Item Delivered,merged,0.261
+Incorrect Order Status,4,Incorrect Order Status,new,0.501
+Login Issue,4,Incorrect Order Status,merged,0.243
+Missing Order,4,Incorrect Order Status,merged,0.678
+Missing Order Item,4,Wrong Item Delivered,merged,0.589
+No Action Taken,4,Incorrect Order Status,merged,0.288
+No Delivery Partner,4,Late Delivery,merged,0.665
+No Resolution,4,Incorrect Order Status,merged,0.179
+No Updates,4,Incorrect Order Status,merged,0.254
+Order Cancellation Issues,4,Incorrect Order Status,merged,0.569
+Order Not Fulfilled,4,Incorrect Order Status,merged,0.693
+Order Not Received,4,Incorrect Order Status,merged,0.663
+Pathetic Service,4,Unhelpful Customer Support,merged,0.444
+Poor Communication,4,Unhelpful Customer Support,merged,0.311
+Poor Delivery Partner,4,Rude Delivery Partner,merged,0.75
+Poor Delivery Service,4,Rude Delivery Partner,merged,0.624
+Poor Packaging,4,Poor Packaging,new,0.548
+Refund Delayed,4,Refund Not Processed,merged,0.795
+Slow Service,4,Late Delivery,merged,0.319
+Unprofessional Service,4,Rude Delivery Partner,merged,0.593
+Useless Customer Support,4,Unhelpful Customer Support,merged,0.802
+App Not Trustworthy,3,Unhelpful Customer Support,merged,0.428
+App Uninstallation,3,Unhelpful Customer Support,merged,0.319
+App Uninstalled,3,Refund Not Processed,merged,0.399
+Bad Customer Support,3,Unhelpful Customer Support,merged,0.803
+Bad Food Quality,3,Stale Food,merged,0.562
+Bad Quality Food,3,Stale Food,merged,0.608
+Boycott Swiggy,3,Rude Delivery Partner,merged,0.156
+Burnt Food,3,Wrong Item Delivered,merged,0.596
+Cancellation Charge,3,Cancellation Fee,merged,0.847
+Cancellation Issues,3,Refund Not Processed,merged,0.717
+Cancellation Policy,3,Cancellation Fee,merged,0.694
+Cash On Delivery,3,Wrong Item Delivered,merged,0.524
+Cash On Delivery Not Available,3,Cash On Delivery Not Available,new,0.48
+Coupon Not Applied,3,Refund Not Processed,merged,0.419
+Damaged Food,3,Poor Packaging,merged,0.552
+Damaged Product,3,Poor Packaging,merged,0.453
+Delayed Deliveries,3,Late Delivery,merged,0.834
+Expired Products,3,Wrong Item Delivered,merged,0.399
+Fake Offers,3,Refund Not Processed,merged,0.251
+False Advertising,3,Wrong Item Delivered,merged,0.252
+Food Not Received,3,Wrong Item Delivered,merged,0.456
+Fraud Company,3,Refund Not Processed,merged,0.328
+Fraudulent Company,3,Wrong Item Delivered,merged,0.335
+Fraudulent Service,3,Wrong Item Delivered,merged,0.427
+GST Charges,3,GST Charges,new,0.247
+Hidden Fees,3,GST Charges,merged,0.508
+High Charges,3,Cancellation Fee,merged,0.441
+High Cost,3,GST Charges,merged,0.26
+Incorrect Address,3,Wrong Item Delivered,merged,0.418
+Incorrect Delivery Status,3,Incorrect Order Status,merged,0.689
+Incorrect Distance,3,Incorrect Order Status,merged,0.326
+Incorrect Estimated Time,3,Incorrect Order Status,merged,0.288
+Lack Of Transparency,3,Unhelpful Customer Support,merged,0.311
+Late Cancellation Fee,3,Cancellation Fee,merged,0.88
+Late Deliveries,3,Late Delivery,merged,0.904
+Late Orders,3,Late Delivery,merged,0.699
+Late Response,3,Incorrect Order Status,merged,0.526
+Long Hold Time,3,Late Delivery,merged,0.223
+Long Wait Times,3,Late Delivery,merged,0.375
+Membership Not Beneficial,3,Membership Not Beneficial,new,0.279
+Misleading Information,3,Unhelpful Customer Support,merged,0.292
+No Customer Service,3,Unhelpful Customer Support,merged,0.568
+No Human Support,3,Unhelpful Customer Support,merged,0.428
+No Order Cancellation Option,3,Incorrect Order Status,merged,0.561
+No Refund Processed,3,Refund Not Processed,merged,0.928
+No Replacement,3,Wrong Item Delivered,merged,0.274
+No Solution Provided,3,Cash On Delivery Not Available,merged,0.277
+Not Recommended,3,Membership Not Beneficial,merged,0.269
+Pathetic Customer Care,3,Unhelpful Customer Support,merged,0.671
+Payment Issue,3,Refund Not Processed,merged,0.464
+Payment Not Refunded,3,Refund Not Processed,merged,0.816
+Poor App Experience,3,Unhelpful Customer Support,merged,0.486
+Poor Quality Food,3,Stale Food,merged,0.527
+Rude Service,3,Unhelpful Customer Support,merged,0.581
+Scam App,3,Cash On Delivery Not Available,merged,0.384
+Technical Issues,3,Wrong Item Delivered,merged,0.364
+Unassigned Delivery Partner,3,Cash On Delivery Not Available,merged,0.639
+Unfair Policy,3,Rude Delivery Partner,merged,0.338
+Unfair Refund Policy,3,Unhelpful Customer Support,merged,0.65
+Unhelpful Chat Support,3,Unhelpful Customer Support,merged,0.555
+Unhelpful Customer Care,3,Unhelpful Customer Support,merged,0.822
+Unreliable Delivery,3,Late Delivery,merged,0.681
+Unresponsive Customer Service,3,Unhelpful Customer Support,merged,0.691
+Unresponsive Restaurant,3,Stale Food,merged,0.369
+Unsatisfactory Experience,3,Rude Delivery Partner,merged,0.351
+Worse Than Zomato,3,Stale Food,merged,0.13
+Worst App Experience,3,Unhelpful Customer Support,merged,0.424
+Wrong Items,3,Wrong Item Delivered,merged,0.684
+Account Hacked,2,Account Hacked,new,0.224
+App Crashes Frequently,2,App Crashes At Checkout,merged,0.721
+App Deleted,2,Refund Not Processed,merged,0.457
+App Error,2,App Crashes At Checkout,merged,0.589
+App Glitch,2,App Crashes At Checkout,merged,0.544
+App Needs Improvement,2,App Crashes At Checkout,merged,0.403
+App Not Working,2,App Crashes At Checkout,merged,0.526
+App Performance Deteriorated,2,App Crashes At Checkout,merged,0.436
+App Uninstallation Request,2,Unhelpful Customer Support,merged,0.282
+Bad App Experience,2,Unhelpful Customer Support,merged,0.499
+Bad Customer Care,2,Unhelpful Customer Support,merged,0.658
+Bad Delivery Experience,2,Rude Delivery Partner,merged,0.644
+Bad User Experience,2,Membership Not Beneficial,merged,0.349
+Cancel Order Issue,2,Refund Not Processed,merged,0.594
+Cancellation Fee Deduction,2,Cancellation Fee,merged,0.837
+Cancellation Fee Unfair,2,Cancellation Fee,merged,0.885
+Cancellation Option Missing,2,Cash On Delivery Not Available,merged,0.653
+Cheaters,2,Account Hacked,merged,0.276
+Cheating,2,Account Hacked,merged,0.308
+Contaminated Food,2,Poor Packaging,merged,0.545
+Cut Off Call,2,Unhelpful Customer Support,merged,0.312
+Damaged Packaging,2,Poor Packaging,merged,0.776
+Delayed Refund,2,Refund Not Processed,merged,0.748
+Delayed Service,2,Late Delivery,merged,0.573
+Delivery Issue,2,Late Delivery,merged,0.711
+Delivery Partner Not Assigned,2,Late Delivery,merged,0.615
+Disappointing Experience,2,Unhelpful Customer Support,merged,0.308
+Disgusting Experience,2,Poor Packaging,merged,0.269
+Double Charging,2,GST Charges,merged,0.373
+Excessive Delivery Charge,2,Excessive Delivery Charge,new,0.501
+Exchange Not Offered,2,Cash On Delivery Not Available,merged,0.422
+Expensive Prices,2,Cancellation Fee,merged,0.222
+Expired Food,2,Stale Food,merged,0.752
+Extra Charge,2,Excessive Delivery Charge,merged,0.486
+False Discounts,2,GST Charges,merged,0.298
+Food Arrived Cold,2,Late Delivery,merged,0.45
+Food Gets Cold,2,Poor Packaging,merged,0.522
+Food Not Consumed,2,Stale Food,merged,0.52
+Food Safety Issue,2,Poor Packaging,merged,0.424
+Fraud Application,2,Account Hacked,merged,0.329
+Fraudulent App,2,Account Hacked,merged,0.404
+High Platform Fees,2,Excessive Delivery Charge,merged,0.342
+Inadequate Compensation,2,Excessive Delivery Charge,merged,0.41
+Inconsistent Service,2,Incorrect Order Status,merged,0.344
+Incorrect Delivery Address,2,Late Delivery,merged,0.638
+Incorrect Delivery Fee,2,Excessive Delivery Charge,merged,0.742
+Incorrect Delivery Location,2,Wrong Item Delivered,merged,0.613
+Incorrect Pricing,2,Cancellation Fee,merged,0.428
+Ineffective Support,2,Unhelpful Customer Support,merged,0.534
+Invalid Coupon,2,Refund Not Processed,merged,0.38
+Lack of Control,2,Account Hacked,merged,0.267
+Lack Of Professionalism,2,Unhelpful Customer Support,merged,0.285
+Lack Of Trust,2,Unhelpful Customer Support,merged,0.344
+Late Cancellation,2,Refund Not Processed,merged,0.693
+Login Issues,2,Account Hacked,merged,0.457
+Long Refund Process,2,Refund Not Processed,merged,0.708
+Long Response Time,2,Unhelpful Customer Support,merged,0.249
+Long Wait,2,Late Delivery,merged,0.314
+Looting People,2,Account Hacked,merged,0.253
+Loss of Trust,2,Unhelpful Customer Support,merged,0.347
+Lost Customer,2,Wrong Item Delivered,merged,0.572
+Misleading Offers,2,Excessive Delivery Charge,merged,0.317
+Misleading Pricing,2,Excessive Delivery Charge,merged,0.395
+Misleading Promotions,2,Membership Not Beneficial,merged,0.357
+Misleading Terms And Conditions,2,Incorrect Order Status,merged,0.21
+Missed Items,2,Wrong Item Delivered,merged,0.434
+Missing Food,2,Late Delivery,merged,0.534
+Money Wasted,2,Membership Not Beneficial,merged,0.31
+Multiple Orders Delivered At Once,2,Late Delivery,merged,0.519
+No Call Support,2,Unhelpful Customer Support,merged,0.41
+No Change Provided,2,Unhelpful Customer Support,merged,0.172
+No Complaint Option,2,Unhelpful Customer Support,merged,0.403
+No Coupon Applied,2,Refund Not Processed,merged,0.441
+No Customer Care,2,Unhelpful Customer Support,merged,0.612
+No Customer Care Support,2,Unhelpful Customer Support,merged,0.708
+No Customer Satisfaction,2,Rude Delivery Partner,merged,0.562
+No Delivery Partner Assigned,2,Late Delivery,merged,0.608
+No Direct Contact,2,Rude Delivery Partner,merged,0.361
+No Help Provided,2,Unhelpful Customer Support,merged,0.223
+No Notification,2,Incorrect Order Status,merged,0.274
+No Offers,2,Cash On Delivery Not Available,merged,0.271
+No Order Cancellation,2,Incorrect Order Status,merged,0.58
+No Order Update,2,Incorrect Order Status,merged,0.626
+No Refund After Cancellation,2,Cancellation Fee,merged,0.711
+No Refund Policy,2,Cancellation Fee,merged,0.685
+No Resolution Provided,2,Refund Not Processed,merged,0.334
+No Response From Swiggy,2,No Response From Swiggy,new,0.253
+No Return Policy,2,Refund Not Processed,merged,0.504
+No Support,2,Unhelpful Customer Support,merged,0.501
+No Value,2,Poor Packaging,merged,0.313
+Online Payment Issues,2,Refund Not Processed,merged,0.454
+Order Canceled,2,Incorrect Order Status,merged,0.583
+Order Cancelled Without Reason,2,Incorrect Order Status,merged,0.606
+Order Cancelled Without Refund,2,Incorrect Order Status,merged,0.65
+Order Clustering,2,Incorrect Order Status,merged,0.333
+Orders Canceled,2,Incorrect Order Status,merged,0.586
+Overcharging,2,Excessive Delivery Charge,merged,0.265
+Pathetic Experience,2,No Response From Swiggy,merged,0.253
+Poor Customer Care Response,2,Unhelpful Customer Support,merged,0.657
+Poor Delivery Experience,2,Poor Packaging,merged,0.639
+Poor Maintenance,2,Stale Food,merged,0.41
+Poor Quality,2,Poor Packaging,merged,0.655
+Poor Services,2,Rude Delivery Partner,merged,0.468
+Poor Support Staff,2,Unhelpful Customer Support,merged,0.622
+Price Difference,2,GST Charges,merged,0.229
+Rain Fee,2,Excessive Delivery Charge,merged,0.486
+Rain Fee Charged,2,GST Charges,merged,0.539
+Refund Issues,2,Refund Not Processed,merged,0.803
+Refund Not Provided,2,Refund Not Processed,merged,0.821
+Refund Policy,2,Refund Not Processed,merged,0.671
+Refund Processed,2,Refund Not Processed,merged,0.908
+Replacement Not Offered,2,Wrong Item Delivered,merged,0.358
+Restaurant Closed,2,Stale Food,merged,0.323
+Restaurant Unavailable,2,Cash On Delivery Not Available,merged,0.353
+Rude Delivery Agents,2,Rude Delivery Partner,merged,0.812
+Rude Support,2,Unhelpful Customer Support,merged,0.558
+Rude Support Staff,2,Unhelpful Customer Support,merged,0.619
+Rude Support Team,2,Unhelpful Customer Support,merged,0.491
+Safety Concerns,2,Rude Delivery Partner,merged,0.211
+Scam Allegation,2,Unhelpful Customer Support,merged,0.443
+Scam Attempt,2,Scam Attempt,new,0.471
+Slow Customer Care,2,Unhelpful Customer Support,merged,0.559
+Slow Delivery Service,2,Late Delivery,merged,0.615
+Spoiled Food,2,Poor Packaging,merged,0.71
+Support Unhelpful,2,Unhelpful Customer Support,merged,0.674
+Support Unresponsive,2,No Response From Swiggy,merged,0.577
+Too Many Ads,2,Excessive Delivery Charge,merged,0.27
+Unable To Order,2,Incorrect Order Status,merged,0.633
+Unacceptable Delay,2,Late Delivery,merged,0.503
+Unacceptable Service,2,Rude Delivery Partner,merged,0.513
+Unfair Billing,2,Excessive Delivery Charge,merged,0.48
+Unfair Cancellation Fee,2,Cancellation Fee,merged,0.88
+Unhealthy Food,2,Stale Food,merged,0.52
+Unhelpful Delivery Partner,2,Rude Delivery Partner,merged,0.812
+Unhelpful Support,2,Unhelpful Customer Support,merged,0.693
+Unhelpful Support Team,2,Unhelpful Customer Support,merged,0.633
+Uninstalling App,2,Unhelpful Customer Support,merged,0.307
+Unprofessional Behaviour,2,Rude Delivery Partner,merged,0.426
+Unprofessional Delivery Partner,2,Rude Delivery Partner,merged,0.746
+Unreliable Delivery Partner,2,Rude Delivery Partner,merged,0.648
+Unreliable Delivery Time,2,Late Delivery,merged,0.698
+Unresolved Problems,2,Wrong Item Delivered,merged,0.253
+Unresponsive Support Team,2,Unhelpful Customer Support,merged,0.571
+Untrustworthy Service,2,Unhelpful Customer Support,merged,0.408
+Useless Bot,2,Rude Delivery Partner,merged,0.232
+Waste Of Food,2,Stale Food,merged,0.6
+Wasted Time And Money,2,Membership Not Beneficial,merged,0.314
+Worst Customer Care,2,Unhelpful Customer Support,merged,0.598
+Worst Customer Support,2,Unhelpful Customer Support,merged,0.774
+Wrong Address,2,Wrong Item Delivered,merged,0.412
+Wrong Address Issue,2,Wrong Item Delivered,merged,0.395
+Wrong Delivery,2,Wrong Item Delivered,merged,0.769
+Wrong Order Delivered,2,Wrong Item Delivered,merged,0.845
+1 Hour Delay,1,Late Delivery,merged,0.432
+1 Star Rating Requested,1,Unhelpful Customer Support,merged,0.253
+3rd Class Service,1,Rude Delivery Partner,merged,0.341
+Abandoned Calls,1,Unhelpful Customer Support,merged,0.289
+Abuse of System,1,Scam Attempt,merged,0.382
+Abusive Delivery Partners,1,Rude Delivery Partner,merged,0.707
+Accidental Order,1,Wrong Item Delivered,merged,0.549
+Account Blocked,1,Account Hacked,merged,0.622
+Account Compromised,1,Account Hacked,merged,0.921
+Account Deletion Issue,1,Account Deletion Issue,new,0.509
+Account Deletion Requested,1,Account Deletion Issue,merged,0.837
+Account Problem,1,Account Hacked,merged,0.726
+Account Suspended,1,Account Deletion Issue,merged,0.577
+Add Amazon Paylater,1,App Crashes At Checkout,merged,0.254
+Add Restaurant Reviews,1,Add Restaurant Reviews,new,0.236
+Address Addition Time,1,Late Delivery,merged,0.203
+Address Selection Problem,1,Address Selection Problem,new,0.205
+Ads After Payment,1,Scam Attempt,merged,0.371
+Advance Ordering Feature,1,Late Delivery,merged,0.39
+Advance Payment Issues,1,Late Delivery,merged,0.397
+Advertisements Everywhere,1,Add Restaurant Reviews,merged,0.273
+Advertising on Packaging,1,Poor Packaging,merged,0.545
+AI Assistance Not Helpful,1,Unhelpful Customer Support,merged,0.263
+Alert for Long Delivery Time,1,Late Delivery,merged,0.628
+Allow Image Attachments,1,Allow Image Attachments,new,0.091
+Alternative Apps Suggested,1,Add Restaurant Reviews,merged,0.217
+Alternative Options Suggested,1,Add Restaurant Reviews,merged,0.226
+Alternative Options Wanted,1,Address Selection Problem,merged,0.22
+Alternative Service,1,Late Delivery,merged,0.438
+Amazing Discounts,1,Membership Not Beneficial,merged,0.272
+Ambiguity,1,Wrong Item Delivered,merged,0.225
+Amount Changed,1,Refund Not Processed,merged,0.311
+Amount Debited But Not Processed,1,Refund Not Processed,merged,0.536
+Annoying Ad Tricks,1,Scam Attempt,merged,0.259
+Annoying AI Chat,1,Scam Attempt,merged,0.167
+Annoying App Experience,1,App Crashes At Checkout,merged,0.391
+App Accepts Orders Without Delivery Capability,1,Cash On Delivery Not Available,merged,0.474
+App Becoming Worse,1,App Crashes At Checkout,merged,0.511
+App Becoming Worst,1,App Crashes At Checkout,merged,0.499
+App Charges Twice,1,Excessive Delivery Charge,merged,0.474
+App Cheats Customer,1,Scam Attempt,merged,0.459
+App Cheats Customers,1,Scam Attempt,merged,0.466
+App Comparison,1,Scam Attempt,merged,0.291
+App Crashes At Search,1,App Crashes At Checkout,merged,0.626
+App Crashes At Search Bar,1,App Crashes At Checkout,merged,0.597
+App Crashes During Scrolling,1,App Crashes At Checkout,merged,0.631
+App Crashes During Search,1,App Crashes At Checkout,merged,0.614
+App Creates Problems,1,App Crashes At Checkout,merged,0.634
+App Deletion,1,Account Deletion Issue,merged,0.45
+App Deletion Request,1,Account Deletion Issue,merged,0.41
+App Doesn't Login,1,Account Hacked,merged,0.459
+App Downfall,1,App Crashes At Checkout,merged,0.516
+App Executes Order Without Payment Method,1,App Crashes At Checkout,merged,0.42
+App Failure,1,App Crashes At Checkout,merged,0.667
+App Fraud,1,Scam Attempt,merged,0.495
+App Has Bug,1,App Crashes At Checkout,merged,0.603
+App Heating Phone,1,App Crashes At Checkout,merged,0.256
+App Ignores Saved Address,1,Address Selection Problem,merged,0.386
+App Inaccurate,1,Incorrect Order Status,merged,0.402
+App Inaccurate Delivery Time,1,Late Delivery,merged,0.563
+App Interface Needs Improvement,1,Unhelpful Customer Support,merged,0.298
+App Issue,1,App Crashes At Checkout,merged,0.589
+App Issue Not Acknowledged,1,Incorrect Order Status,merged,0.523
+App Issues,1,App Crashes At Checkout,merged,0.61
+App Lags A Lot,1,App Crashes At Checkout,merged,0.392
+App Lags Often,1,App Crashes At Checkout,merged,0.411
+App Misrepresentation,1,Wrong Item Delivered,merged,0.394
+App Name Change Request,1,App Name Change Request,new,0.233
+App Navigation Issues,1,Address Selection Problem,merged,0.37
+App Not Accepting Orders,1,Incorrect Order Status,merged,0.572
+App Not Allowing Review,1,App Crashes At Checkout,merged,0.523
+App Not Better,1,Membership Not Beneficial,merged,0.352
+App Not Customer Friendly,1,Unhelpful Customer Support,merged,0.481
+App Not Deleting Account,1,Account Deletion Issue,merged,0.769
+App Not Good,1,App Name Change Request,merged,0.486
+App Not Informing,1,Incorrect Order Status,merged,0.425
+App Not Installing,1,App Crashes At Checkout,merged,0.376
+App Not Opening,1,App Crashes At Checkout,merged,0.535
+App Not Preferred,1,Membership Not Beneficial,merged,0.391
+App Not Responding,1,App Crashes At Checkout,merged,0.561
+App Not Serving Purpose,1,App Crashes At Checkout,merged,0.515
+App Not Suitable,1,App Crashes At Checkout,merged,0.49
+App Not Taking Issues Seriously,1,App Not Taking Issues Seriously,new,0.591
+App Not Used,1,App Name Change Request,merged,0.567
+App Not Used Again,1,App Name Change Request,merged,0.54
+App Not User-Friendly,1,App Crashes At Checkout,merged,0.622
+App Overload,1,App Crashes At Checkout,merged,0.569
+App Performance Issue,1,App Crashes At Checkout,merged,0.547
+App Performance Worsening,1,App Crashes At Checkout,merged,0.527
+App Service Sucks,1,App Crashes At Checkout,merged,0.568
+App Should Be Closed,1,App Crashes At Checkout,merged,0.571
+App Shows Closed Shops,1,App Crashes At Checkout,merged,0.543
+App Shows Incorrect Info,1,App Crashes At Checkout,merged,0.538
+App Stutters Continuously,1,App Crashes At Checkout,merged,0.572
+App Switched To,1,App Crashes At Checkout,merged,0.532
+App Takes Orders,1,App Crashes At Checkout,merged,0.5
+App Timer Glitch,1,App Crashes At Checkout,merged,0.494
+App Timer Stuck,1,App Crashes At Checkout,merged,0.486
+App Tracking Issues,1,App Crashes At Checkout,merged,0.682
+App Uninstall,1,App Crashes At Checkout,merged,0.462
+App Update Issues,1,App Crashes At Checkout,merged,0.628
+App Updates Incorrect,1,App Crashes At Checkout,merged,0.556
+Applying 100% Cancellation Fees,1,Cancellation Fee,merged,0.789
+Applying Same Policy,1,Incorrect Order Status,merged,0.222
+Assigned Delivery Guy Delay,1,Late Delivery,merged,0.614
+Auto Refresh Issue,1,App Not Taking Issues Seriously,merged,0.244
+Automated Messages,1,Unhelpful Customer Support,merged,0.32
+Automated Response,1,Unhelpful Customer Support,merged,0.275
+Automatic Debit Without Confirmation,1,Scam Attempt,merged,0.292
+Automatic Order Cancellation,1,Incorrect Order Status,merged,0.544
+Avoid Swiggy,1,App Not Taking Issues Seriously,merged,0.709
+Avoid Using Services,1,Membership Not Beneficial,merged,0.38
+Avoid Using Swiggy,1,App Not Taking Issues Seriously,merged,0.681
+Avoid Using Swiggy App,1,App Not Taking Issues Seriously,merged,0.635
+Bad Agent Assignment,1,Rude Delivery Partner,merged,0.337
+Bad App,1,App Crashes At Checkout,merged,0.683
+Bad Attitude,1,Rude Delivery Partner,merged,0.383
+Bad Behaviour,1,Scam Attempt,merged,0.323
+Bad Burger,1,Stale Food,merged,0.383
+Bad Condition of Food,1,Stale Food,merged,0.604
+Bad Delivery,1,Poor Packaging,merged,0.698
+Bad Delivery Boy Behaviour,1,Rude Delivery Partner,merged,0.538
+Bad Delivery Charge,1,Excessive Delivery Charge,merged,0.877
+Bad Delivery Partner,1,Rude Delivery Partner,merged,0.761
+Bad Delivery Services,1,Rude Delivery Partner,merged,0.583
+Bad Delivery Staff,1,Rude Delivery Partner,merged,0.634
+Bad Driver Allocation Algorithm,1,Address Selection Problem,merged,0.353
+Bad Experience While Traveling,1,Bad Experience While Traveling,new,0.242
+Bad Experiences,1,Scam Attempt,merged,0.643
+Bad Food Not Noted,1,Stale Food,merged,0.569
+Bad Habit,1,Membership Not Beneficial,merged,0.331
+Bad Location Selection Process,1,Address Selection Problem,merged,0.496
+Bad Order Priority,1,Incorrect Order Status,merged,0.644
+Bad Quality Ice Cream,1,Stale Food,merged,0.378
+Bad Quality Product,1,Poor Packaging,merged,0.611
+Bad Quality Products,1,Poor Packaging,merged,0.553
+Bad Refund System,1,Refund Not Processed,merged,0.716
+Bad Return Policy,1,Unhelpful Customer Support,merged,0.453
+Bad SOPs,1,Poor Packaging,merged,0.317
+Bad Support,1,Unhelpful Customer Support,merged,0.479
+Bad Taste,1,Stale Food,merged,0.352
+Bad Taste Of Food,1,Stale Food,merged,0.558
+Bank Discount Issue,1,Refund Not Processed,merged,0.354
+Betrayal of Trust,1,Scam Attempt,merged,0.328
+Better Alternatives Available,1,Membership Not Beneficial,merged,0.261
+Better Offers,1,Membership Not Beneficial,merged,0.329
+Black Scheme Scam,1,Scam Attempt,merged,0.74
+Bloating Restaurant Prices,1,Excessive Delivery Charge,merged,0.389
+Block Screen,1,Scam Attempt,merged,0.126
+Bolt Feature Fraud,1,Scam Attempt,merged,0.32
+Bolt Not Working,1,Wrong Item Delivered,merged,0.242
+Bot Response,1,No Response From Swiggy,merged,0.352
+Breakdown In Quality Checks,1,Poor Packaging,merged,0.256
+Broken Help Section,1,Unhelpful Customer Support,merged,0.308
+Broken Product Received,1,Wrong Item Delivered,merged,0.586
+Bug Fix Request,1,Unhelpful Customer Support,merged,0.285
+Bug in App,1,App Crashes At Checkout,merged,0.686
+Call Centre Disconnects,1,App Not Taking Issues Seriously,merged,0.273
+Call Not Attended,1,App Not Taking Issues Seriously,merged,0.314
+Cancel Black Membership,1,Account Deletion Issue,merged,0.527
+Cancel Option Removed,1,Account Deletion Issue,merged,0.621
+Cancel Order Issues,1,Incorrect Order Status,merged,0.572
+Cancel Order Problem,1,Incorrect Order Status,merged,0.575
+Cancelation Charge,1,Cancellation Fee,merged,0.745
+Cancelation Fee Charged,1,Cancellation Fee,merged,0.902
+Canceling Credit Card,1,Account Deletion Issue,merged,0.666
+Canceling Order Without Consent,1,Incorrect Order Status,merged,0.574
+Cancellation Charges Applied,1,Cancellation Fee,merged,0.778
+Cancellation Fee Policy Issue,1,Cancellation Fee,merged,0.818
+Cancellation Fee Threat,1,Cancellation Fee,merged,0.858
+Cancellation Fees Applied,1,Cancellation Fee,merged,0.896
+Cancellation Fine Charged,1,Cancellation Fee,merged,0.745
+Cancellation Information,1,Refund Not Processed,merged,0.664
+Cancellation Not Available,1,Cash On Delivery Not Available,merged,0.698
+Cancellation Option,1,Cancellation Fee,merged,0.738
+Cancellation Option Removed,1,Cash On Delivery Not Available,merged,0.669
+Cancellation Problem,1,Refund Not Processed,merged,0.639
+Cancelled Fee Charged,1,Cancellation Fee,merged,0.848
+Cancelled Order Issue,1,Incorrect Order Status,merged,0.622
+Cancelled Order Payment,1,Incorrect Order Status,merged,0.562
+Cancelled Order Refund Issue,1,Refund Not Processed,merged,0.703
+Cannot Give Zero Stars,1,No Response From Swiggy,merged,0.272
+Careless Attitude,1,Rude Delivery Partner,merged,0.353
+Careless Customer Support,1,Unhelpful Customer Support,merged,0.765
+Careless Delivery,1,Rude Delivery Partner,merged,0.641
+Careless Design,1,Poor Packaging,merged,0.494
+Carelessness,1,Poor Packaging,merged,0.362
+Cart Weight Limit,1,Excessive Delivery Charge,merged,0.258
+Cash Back Not Received,1,Refund Not Processed,merged,0.677
+Cash Mode Not Deleted,1,Account Deletion Issue,merged,0.475
+Cash Not Available,1,Cash On Delivery Not Available,merged,0.844
+Cash Not Refunded,1,Refund Not Processed,merged,0.729
+Cash on Delivery Issue,1,Cash On Delivery Not Available,merged,0.852
+Cash On Delivery Issues,1,Cash On Delivery Not Available,merged,0.834
+Cash On Delivery Option,1,Cash On Delivery Not Available,merged,0.753
+Cash Payment Issue,1,Refund Not Processed,merged,0.632
+Changing Delivery Time,1,Late Delivery,merged,0.635
+Charged Despite Cancellation,1,Cancellation Fee,merged,0.738
+Charged Entire Amount,1,Excessive Delivery Charge,merged,0.459
+Charged for Cancelled Order,1,Cancellation Fee,merged,0.665
+Charged Full Amount,1,GST Charges,merged,0.494
+Charged Incorrect Amount,1,Excessive Delivery Charge,merged,0.532
+Charged Without Delivery,1,Excessive Delivery Charge,merged,0.708
+Chatbot Ineffective,1,App Not Taking Issues Seriously,merged,0.344
+Cheated By App,1,App Not Taking Issues Seriously,merged,0.483
+Cheated By Restaurant,1,Scam Attempt,merged,0.381
+Cheated Feeling,1,Scam Attempt,merged,0.283
+Cheaters Found,1,Scam Attempt,merged,0.29
+Cheating App,1,Scam Attempt,merged,0.401
+Cheating By Swiggy,1,Scam Attempt,merged,0.535
+Cheating Delivery Partner,1,Rude Delivery Partner,merged,0.681
+Cheating Peoples Money,1,Scam Attempt,merged,0.361
+Close App After 10 PM,1,Late Delivery,merged,0.325
+Close to Expire Products,1,Stale Food,merged,0.319
+Closed Helpline,1,Unhelpful Customer Support,merged,0.228
+Closed Issue Without Resolution,1,Incorrect Order Status,merged,0.293
+Closed Restaurants Shown Active,1,Stale Food,merged,0.413
+COD Issues,1,Address Selection Problem,merged,0.355
+Cold Food Received,1,Stale Food,merged,0.488
+Company Doesn't Help,1,Unhelpful Customer Support,merged,0.496
+Company Fraud,1,Scam Attempt,merged,0.534
+Comparison To Competitor,1,Unhelpful Customer Support,merged,0.185
+Comparison To Zomato,1,App Not Taking Issues Seriously,merged,0.131
+Compensation Offered,1,Cancellation Fee,merged,0.315
+Complaint Logging Issue,1,Incorrect Order Status,merged,0.363
+Complaint Not Actioned,1,Unhelpful Customer Support,merged,0.504
+Complaint Not Addressed,1,Unhelpful Customer Support,merged,0.44
+Complaint Not Received,1,Incorrect Order Status,merged,0.493
+Complaints Through Mail,1,Poor Packaging,merged,0.468
+Complex Billing,1,Excessive Delivery Charge,merged,0.308
+Confusing App Behavior,1,App Crashes At Checkout,merged,0.551
+Considering Alternative App,1,App Name Change Request,merged,0.427
+Contact Higher Official,1,Unhelpful Customer Support,merged,0.288
+Copy Paste Answers,1,Copy Paste Answers,new,0.143
+Copy-Paste Responses,1,Copy Paste Answers,merged,0.788
+Corrupt Service Provider,1,Excessive Delivery Charge,merged,0.491
+Coupon Cheats,1,Scam Attempt,merged,0.316
+Coupon Fraud,1,Scam Attempt,merged,0.496
+Coupon Not Accepted,1,Refund Not Processed,merged,0.417
+Coupon Not Processed,1,Refund Not Processed,merged,0.549
+Coupon Not Received,1,Refund Not Processed,merged,0.47
+Coupon Not Validated,1,Refund Not Processed,merged,0.379
+Coupon Reduction Problem,1,Excessive Delivery Charge,merged,0.278
+Cracked Eggs,1,Poor Packaging,merged,0.316
+Credit Card Offers,1,Cash On Delivery Not Available,merged,0.373
+Customer Care Not Responding,1,App Not Taking Issues Seriously,merged,0.572
+Customer Care Unhelpful,1,Unhelpful Customer Support,merged,0.791
+Customer Care Unresponsive,1,Unhelpful Customer Support,merged,0.667
+Customer Centric,1,Rude Delivery Partner,merged,0.533
+Customer Dissatisfaction,1,Rude Delivery Partner,merged,0.596
+Customer Frustration,1,Rude Delivery Partner,merged,0.623
+Customer Injustice,1,Rude Delivery Partner,merged,0.607
+Customer Restaurant Ratings,1,Add Restaurant Reviews,merged,0.725
+Customer Safety Compromised,1,Account Hacked,merged,0.535
+Customer Service Platform Required,1,Scam Attempt,merged,0.552
+Customer Service Unhelpful,1,Unhelpful Customer Support,merged,0.841
+Customer Support,1,Unhelpful Customer Support,merged,0.816
+Customer Support Delay,1,Late Delivery,merged,0.649
+Customer Support Lied,1,Unhelpful Customer Support,merged,0.683
+Customer Support Not Listening,1,Unhelpful Customer Support,merged,0.621
+Customer Support Unresponsive,1,Unhelpful Customer Support,merged,0.768
+Customers Treated As Fool,1,Unhelpful Customer Support,merged,0.565
+Cutting Customer Support,1,Unhelpful Customer Support,merged,0.726
+Damage to Reputation,1,Unhelpful Customer Support,merged,0.268
+Damaged Delivery,1,Wrong Item Delivered,merged,0.594
+Damaged Icecreams,1,Poor Packaging,merged,0.257
+Damaged Package,1,Poor Packaging,merged,0.624
+Damaged Packing,1,Poor Packaging,merged,0.654
+Damaged Products,1,Poor Packaging,merged,0.453
+Dangerous Food Delivered,1,Poor Packaging,merged,0.45
+Dark Mode Request,1,App Name Change Request,merged,0.206
+Dark Patterns,1,Dark Patterns,new,0.195
+Dark Theme Request,1,App Name Change Request,merged,0.572
+Dead Products Sent,1,Wrong Item Delivered,merged,0.484
+Deception,1,Dark Patterns,merged,0.357
+Deceptive Service,1,Scam Attempt,merged,0.498
+Declined Human Support,1,Unhelpful Customer Support,merged,0.44
+Decrease Delivery Charges,1,Excessive Delivery Charge,merged,0.782
+Decrease Delivery Time,1,Late Delivery,merged,0.636
+Decreased Service Quality,1,Unhelpful Customer Support,merged,0.44
+Deducted Order Price,1,Cancellation Fee,merged,0.328
+Defective Product,1,Wrong Item Delivered,merged,0.493
+Defective Product Issue,1,Poor Packaging,merged,0.463
+Delayed Delivery Time,1,Late Delivery,merged,0.845
+Delayed Food Delivery,1,Late Delivery,merged,0.713
+Delayed Orders Delivered Cold Items,1,Late Delivery,merged,0.545
+Delayed Payment,1,Refund Not Processed,merged,0.505
+Delayed Response,1,Incorrect Order Status,merged,0.429
+Delays,1,Late Delivery,merged,0.578
+Deleting App,1,Account Deletion Issue,merged,0.442
+Delivery Accuracy Issue,1,Wrong Item Delivered,merged,0.568
+Delivery Assigned Just To Show,1,Rude Delivery Partner,merged,0.547
+Delivery Boy Issue,1,Late Delivery,merged,0.545
+Delivery Boy Not Collecting,1,Late Delivery,merged,0.593
+Delivery Boy Ran Away,1,Late Delivery,merged,0.422
+Delivery Boy Response,1,Rude Delivery Partner,merged,0.571
+Delivery Boy Scammers,1,Scam Attempt,merged,0.598
+Delivery Boy Unhelpful,1,Rude Delivery Partner,merged,0.623
+Delivery Charge,1,Excessive Delivery Charge,merged,0.798
+Delivery Charges,1,Excessive Delivery Charge,merged,0.816
+Delivery Cost Expensive,1,Excessive Delivery Charge,merged,0.668
+Delivery Delay Due To Clubbing,1,Late Delivery,merged,0.579
+Delivery Fee Refund,1,Refund Not Processed,merged,0.642
+Delivery Fees,1,Excessive Delivery Charge,merged,0.705
+Delivery Guy Refused,1,Rude Delivery Partner,merged,0.564
+Delivery Guy Unhelpful,1,Rude Delivery Partner,merged,0.696
+Delivery Guy Without Change,1,Excessive Delivery Charge,merged,0.585
+Delivery Issues,1,Late Delivery,merged,0.711
+Delivery Location Issue,1,Late Delivery,merged,0.563
+Delivery Men Unresponsive,1,Rude Delivery Partner,merged,0.525
+Delivery Not Allowed,1,Excessive Delivery Charge,merged,0.619
+Delivery Partner,1,Rude Delivery Partner,merged,0.802
+Delivery Partner Absent,1,Cash On Delivery Not Available,merged,0.606
+Delivery Partner Assignment Issues,1,Rude Delivery Partner,merged,0.601
+Delivery Partner Bags,1,Wrong Item Delivered,merged,0.546
+Delivery Partner Behavior,1,Rude Delivery Partner,merged,0.738
+Delivery Partner Capacity,1,Late Delivery,merged,0.59
+Delivery Partner Issue,1,Rude Delivery Partner,merged,0.681
+Delivery Partner Issues,1,Late Delivery,merged,0.69
+Delivery Partner Neglect,1,Rude Delivery Partner,merged,0.615
+Delivery Partner Not Available,1,Late Delivery,merged,0.586
+Delivery Partner Not Receiving Call,1,Rude Delivery Partner,merged,0.555
+Delivery Partner Not Showing Up,1,Late Delivery,merged,0.551
+Delivery Partner's Behavior Problematic,1,Rude Delivery Partner,merged,0.719
+Delivery Partner's Problem,1,Late Delivery,merged,0.714
+Delivery Partner Scams,1,Scam Attempt,merged,0.635
+Delivery Partner Switching,1,Delivery Partner Switching,new,0.597
+Delivery Partner Uncooperative,1,Rude Delivery Partner,merged,0.733
+Delivery Partner Unhelpful,1,Rude Delivery Partner,merged,0.787
+Delivery Partner Unresponsive,1,Rude Delivery Partner,merged,0.641
+Delivery Partners Not Available,1,Delivery Partner Switching,merged,0.675
+Delivery Person Handling Second Order,1,Delivery Partner Switching,merged,0.639
+Delivery Person Lost,1,Delivery Person Lost,new,0.62
+Delivery Person's Behavior,1,Rude Delivery Partner,merged,0.713
+Delivery Price Too High,1,Excessive Delivery Charge,merged,0.725
+Delivery Responsibility,1,Delivery Responsibility,new,0.611
+Delivery Scammer Application,1,Scam Attempt,merged,0.605
+Delivery Scams,1,Scam Attempt,merged,0.7
+Delivery Status Issue,1,Late Delivery,merged,0.597
+Delivery Time Increased,1,Late Delivery,merged,0.678
+Demand Money Again,1,Scam Attempt,merged,0.329
+Different Charges For Same Address,1,Excessive Delivery Charge,merged,0.37
+Different Item Received,1,Wrong Item Delivered,merged,0.8
+Different Item Sent,1,Wrong Item Delivered,merged,0.562
+Different Pricing,1,GST Charges,merged,0.343
+Difficult Restaurant Search,1,Address Selection Problem,merged,0.525
+Direct Restaurant Delivery,1,Delivery Responsibility,merged,0.542
+Dirty Food,1,Poor Packaging,merged,0.614
+Dirty Package,1,Poor Packaging,merged,0.573
+Disabled Restaurant,1,Rude Delivery Partner,merged,0.442
+Disappointed Payment Experience,1,Refund Not Processed,merged,0.443
+Disappointed with Service,1,Unhelpful Customer Support,merged,0.473
+Disappointment,1,Delivery Person Lost,merged,0.328
+Disconnected Call,1,App Not Taking Issues Seriously,merged,0.267
+Disconnects Chat,1,App Not Taking Issues Seriously,merged,0.305
+Discontinued Order Without Notice,1,Incorrect Order Status,merged,0.547
+Discontinued Service,1,Cash On Delivery Not Available,merged,0.449
+Discount Could Be More,1,Membership Not Beneficial,merged,0.284
+Discount Coupon Issue,1,Discount Coupon Issue,new,0.348
+Disgraceful Service,1,Rude Delivery Partner,merged,0.444
+Disgusting Service,1,Rude Delivery Partner,merged,0.38
+Disregard for Customers,1,Rude Delivery Partner,merged,0.612
+Disregard for Genuine Mistakes,1,Unhelpful Customer Support,merged,0.352
+Disregard for Special Instructions,1,Poor Packaging,merged,0.26
+Disregard For User Input,1,Unhelpful Customer Support,merged,0.199
+Disrespectful Service,1,Rude Delivery Partner,merged,0.48
+Distracting Pop Ups,1,App Not Taking Issues Seriously,merged,0.19
+Don't Order From Swiggy,1,No Response From Swiggy,merged,0.654
+Double Charge,1,Excessive Delivery Charge,merged,0.379
+Double Charges,1,Excessive Delivery Charge,merged,0.391
+Double Delivery Charge,1,Excessive Delivery Charge,merged,0.74
+Double Order Received,1,Wrong Item Delivered,merged,0.605
+Double Pricing,1,Excessive Delivery Charge,merged,0.395
+Double Standard by Authorities,1,Rude Delivery Partner,merged,0.232
+Driver Assignment Issues,1,Address Selection Problem,merged,0.352
+Drunk Delivery Partner,1,Rude Delivery Partner,merged,0.664
+Drunk Riders,1,Bad Experience While Traveling,merged,0.215
+Duplicate Cart Options,1,Delivery Partner Switching,merged,0.217
+Duplicate Order,1,Address Selection Problem,merged,0.556
+Duplicate Payment,1,Refund Not Processed,merged,0.343
+Duplicate Payment Issue,1,Refund Not Processed,merged,0.362
+Easy to Order,1,Incorrect Order Status,merged,0.381
+Easy to Use App,1,App Crashes At Checkout,merged,0.423
+Edit Restaurant Timings,1,Stale Food,merged,0.458
+Email Id Not Updated,1,Account Hacked,merged,0.293
+Email Support Inefficient,1,Unhelpful Customer Support,merged,0.464
+Empty Stomach,1,Late Delivery,merged,0.337
+Enter Address Issue,1,Address Selection Problem,merged,0.576
+Eroding Customer Trust,1,Rude Delivery Partner,merged,0.555
+Error Message,1,App Not Taking Issues Seriously,merged,0.338
+Excessive Amount Charged,1,Excessive Delivery Charge,merged,0.706
+Excessive Cancellation Charges,1,Cancellation Fee,merged,0.73
+Excessive Fees,1,Excessive Delivery Charge,merged,0.656
+Excessive Platform Charges,1,Excessive Delivery Charge,merged,0.527
+Executive Not Helpful,1,Membership Not Beneficial,merged,0.359
+Expensive Delivery,1,Excessive Delivery Charge,merged,0.638
+Expensive Delivery Fees,1,Excessive Delivery Charge,merged,0.708
+Expensive Instamart Fees,1,Excessive Delivery Charge,merged,0.374
+Expensive Options,1,Cancellation Fee,merged,0.19
+Expired Bakery Items,1,Stale Food,merged,0.478
+Expired Food Products,1,Stale Food,merged,0.63
+Expired Item,1,Late Delivery,merged,0.46
+Expired Items Provided,1,Stale Food,merged,0.406
+Expired Items Received,1,Incorrect Order Status,merged,0.58
+Expired Meat,1,Stale Food,merged,0.56
+Expired Milk Received Five Times,1,Stale Food,merged,0.344
+Expired Product,1,Wrong Item Delivered,merged,0.375
+Expired Swiggy Money,1,Scam Attempt,merged,0.502
+Exploitation,1,Scam Attempt,merged,0.369
+Exploitative Pricing,1,Membership Not Beneficial,merged,0.254
+Express Scams,1,Scam Attempt,merged,0.665
+Extra Amount,1,Excessive Delivery Charge,merged,0.296
+Extra Charge For Fast Delivery,1,Excessive Delivery Charge,merged,0.726
+Extra Charge Not Honored,1,Excessive Delivery Charge,merged,0.54
+Extra Charge Not Honoured,1,Excessive Delivery Charge,merged,0.546
+Extra Charge on Cancellation,1,Cancellation Fee,merged,0.78
+Extra Charge On Delivery,1,Excessive Delivery Charge,merged,0.79
+Extra Charges Added,1,Excessive Delivery Charge,merged,0.519
+Extra Charges Apply,1,Excessive Delivery Charge,merged,0.524
+Extra Charges Taken,1,Excessive Delivery Charge,merged,0.556
+Extra Delivery Charge,1,Excessive Delivery Charge,merged,0.783
+Extra Delivery Charges,1,Excessive Delivery Charge,merged,0.796
+Extra Delivery Fee,1,Excessive Delivery Charge,merged,0.707
+Extra Fees,1,GST Charges,merged,0.481
+Extra Orders,1,Wrong Item Delivered,merged,0.448
+Extra Payment,1,Excessive Delivery Charge,merged,0.4
+Extra Surge Charge,1,Excessive Delivery Charge,merged,0.483
+Failed Customer Retention,1,Account Deletion Issue,merged,0.516
+Failed Delivery Promise,1,Late Delivery,merged,0.59
+Fake App,1,Scam Attempt,merged,0.492
+Fake Assurance,1,Scam Attempt,merged,0.375
+Fake Billing,1,Scam Attempt,merged,0.448
+Fake Charges,1,Scam Attempt,merged,0.397
+Fake Delivery Boy,1,Rude Delivery Partner,merged,0.551
+Fake Delivery Times,1,Late Delivery,merged,0.666
+Fake Estimate Time,1,Excessive Delivery Charge,merged,0.293
+Fake Food Partners,1,Delivery Partner Switching,merged,0.452
+Fake Food Quality,1,Stale Food,merged,0.482
+Fake Hotels,1,Scam Attempt,merged,0.336
+Fake Price,1,Scam Attempt,merged,0.398
+Fake Promise,1,Scam Attempt,merged,0.366
+Fake Refund ID Provided,1,Scam Attempt,merged,0.616
+Fake Restaurants,1,Scam Attempt,merged,0.448
+Fake Vouchers,1,Scam Attempt,merged,0.398
+False Commitment,1,Delivery Responsibility,merged,0.317
+False Delivery Information,1,Wrong Item Delivered,merged,0.573
+False Excuses,1,Scam Attempt,merged,0.227
+False Information,1,Incorrect Order Status,merged,0.26
+False Offer,1,Scam Attempt,merged,0.426
+False Promises,1,Scam Attempt,merged,0.296
+False Promotion,1,Scam Attempt,merged,0.398
+False Reasons Provided,1,Unhelpful Customer Support,merged,0.288
+False Updates,1,Incorrect Order Status,merged,0.359
+Falsely Marked Orders,1,Incorrect Order Status,merged,0.715
+Far Away Store Selected,1,Delivery Partner Switching,merged,0.328
+Far Outlet Location,1,Address Selection Problem,merged,0.175
+Fast Delivery,1,Late Delivery,merged,0.726
+Faulty App,1,App Crashes At Checkout,merged,0.788
+Faulty Food Order,1,Wrong Item Delivered,merged,0.571
+Feature Not Working As Expected,1,Incorrect Order Status,merged,0.266
+Feedback Evaluation,1,No Response From Swiggy,merged,0.375
+Feedback Not Taken,1,No Response From Swiggy,merged,0.355
+Felt Cheated,1,Scam Attempt,merged,0.265
+Fewer Delivery Partners,1,Delivery Responsibility,merged,0.725
+Filth Products,1,Poor Packaging,merged,0.275
+Financial Loss,1,Cancellation Fee,merged,0.324
+Financial Loss Adjustment,1,Cancellation Fee,merged,0.278
+Food Arrived After Guests Left,1,Late Delivery,merged,0.448
+Food Contamination,1,Poor Packaging,merged,0.529
+Food Freshness,1,Stale Food,merged,0.69
+Food Gets Cooled,1,Stale Food,merged,0.527
+Food Loss,1,Stale Food,merged,0.503
+Food Not Arranged,1,Incorrect Order Status,merged,0.468
+Food Not Available,1,Stale Food,merged,0.471
+Food Not Delivered Fast,1,Late Delivery,merged,0.526
+Food Not Delivered On Time,1,Late Delivery,merged,0.602
+Food Not On Time,1,Late Delivery,merged,0.524
+Food Out Of Stock,1,Late Delivery,merged,0.425
+Food Prices Too High,1,Excessive Delivery Charge,merged,0.336
+Food Quality Discrepancy,1,Stale Food,merged,0.405
+Food Quality Issue,1,Stale Food,merged,0.508
+Food Quality Issues,1,Stale Food,merged,0.497
+Food Reaches Cold,1,Late Delivery,merged,0.456
+Food Received Instead,1,Wrong Item Delivered,merged,0.587
+Food Spoiled,1,Stale Food,merged,0.698
+Food Stolen By Delivery Guy,1,Wrong Item Delivered,merged,0.54
+Food Wastage,1,Poor Packaging,merged,0.503
+Food Wasted,1,Stale Food,merged,0.528
+Forced Delivery,1,Late Delivery,merged,0.651
+Forced Purchase,1,Excessive Delivery Charge,merged,0.42
+Fraud Delivery Agents,1,Wrong Item Delivered,merged,0.511
+Fraudulent Activities,1,Scam Attempt,merged,0.48
+Fraudulent Activity,1,Scam Attempt,merged,0.536
+Fraudulent Deduction,1,Scam Attempt,merged,0.396
+Fraudulent Delivery,1,Wrong Item Delivered,merged,0.652
+Fraudulent Delivery Guys,1,Rude Delivery Partner,merged,0.587
+Fraudulent Order,1,Scam Attempt,merged,0.574
+Fraudulent Order Practices,1,Scam Attempt,merged,0.486
+Fraudulent Restaurant,1,Scam Attempt,merged,0.432
+Free Cash Not Added,1,Discount Coupon Issue,merged,0.654
+Free Cash Not Visible,1,Discount Coupon Issue,merged,0.666
+Free Cash Not Working,1,Discount Coupon Issue,merged,0.668
+Froud App,1,App Not Taking Issues Seriously,merged,0.33
+Frozen Food,1,Stale Food,merged,0.594
+Frustrating App,1,App Crashes At Checkout,merged,0.782
+Frustrating App Experience,1,Bad Experience While Traveling,merged,0.737
+Frustrating Service,1,Unhelpful Customer Support,merged,0.506
+Frustration,1,Unhelpful Customer Support,merged,0.304
+Frustration With App,1,App Not Taking Issues Seriously,merged,0.729
+FSSAI Complaint,1,Delivery Responsibility,merged,0.278
+Full Amount Deduction,1,Cancellation Fee,merged,0.308
+Fungal Growth,1,Poor Packaging,merged,0.237
+Fungus in Food,1,Poor Packaging,merged,0.499
+Glitch In Application,1,App Crashes At Checkout,merged,0.571
+Golden Membership Scam,1,Scam Attempt,merged,0.616
+Good Coupon Offers,1,Discount Coupon Issue,merged,0.657
+Good Customer Care,1,Rude Delivery Partner,merged,0.62
+Gravy Not Available,1,Cash On Delivery Not Available,merged,0.306
+Great Offers,1,Dark Patterns,merged,0.263
+Greedy App,1,Membership Not Beneficial,merged,0.287
+Green Fungus,1,Poor Packaging,merged,0.243
+Grocery Delivery Issues,1,Cash On Delivery Not Available,merged,0.539
+Group Order Button Issue,1,Incorrect Order Status,merged,0.408
+GST Charges Extra,1,GST Charges,merged,0.9
+GST Not Included,1,GST Charges,merged,0.723
+GST on Orders,1,GST Charges,merged,0.691
+GST on Rain Fee,1,Excessive Delivery Charge,merged,0.698
+Hang Ups,1,Bad Experience While Traveling,merged,0.223
+Harassing Customers,1,Rude Delivery Partner,merged,0.534
+Harassment,1,Scam Attempt,merged,0.394
+Harassment By Customer Service,1,Rude Delivery Partner,merged,0.557
+Hate Application,1,App Crashes At Checkout,merged,0.397
+Hate This App,1,App Not Taking Issues Seriously,merged,0.462
+Health Risk,1,Bad Experience While Traveling,merged,0.346
+Heavy Charges,1,Excessive Delivery Charge,merged,0.559
+Heavy Delay,1,Late Delivery,merged,0.399
+Heavy Delivery Charges,1,Excessive Delivery Charge,merged,0.888
+Help Chat Not Working,1,Unhelpful Customer Support,merged,0.315
+Help Desk Not Working,1,App Not Taking Issues Seriously,merged,0.255
+Helpless Support,1,Unhelpful Customer Support,merged,0.455
+Hidden Charges Added,1,Cancellation Fee,merged,0.404
+Hidden Costs,1,Excessive Delivery Charge,merged,0.269
+Hidden Favourites Button,1,Copy Paste Answers,merged,0.191
+High Delivery Charge,1,Excessive Delivery Charge,merged,0.837
+High Delivery Cost,1,Excessive Delivery Charge,merged,0.668
+High Demand,1,Excessive Delivery Charge,merged,0.316
+High GST,1,GST Charges,merged,0.688
+High GST Charges,1,GST Charges,merged,0.91
+High Order Amount Problem,1,Excessive Delivery Charge,merged,0.414
+High Packaging Charges,1,Excessive Delivery Charge,merged,0.638
+High Rates,1,Excessive Delivery Charge,merged,0.403
+High Service Rates,1,Excessive Delivery Charge,merged,0.388
+High Swiggy Prices,1,Excessive Delivery Charge,merged,0.523
+High Tax,1,GST Charges,merged,0.242
+Higher Delivery Price,1,Excessive Delivery Charge,merged,0.616
+Higher Menu Price,1,Excessive Delivery Charge,merged,0.213
+Highlight Different Outlet Locations,1,Address Selection Problem,merged,0.263
+Hopeless Support,1,Unhelpful Customer Support,merged,0.468
+Horrible Customer Service,1,Unhelpful Customer Support,merged,0.631
+Horrible Service,1,Unhelpful Customer Support,merged,0.447
+Hospitalized,1,Bad Experience While Traveling,merged,0.256
+Hungry Waiting,1,Stale Food,merged,0.429
+ice cream brick needed,1,Wrong Item Delivered,merged,0.246
+Ice Cream Preservation,1,Stale Food,merged,0.395
+Ignoring Pre-Cooking Instructions,1,Stale Food,merged,0.222
+Image Upload Issue,1,Allow Image Attachments,merged,0.515
+Impersonal Service,1,Unhelpful Customer Support,merged,0.293
+Improper Delivery Partner Assignment,1,Delivery Responsibility,merged,0.689
+Inaccessible Customer Support,1,Unhelpful Customer Support,merged,0.775
+Inaccessible Invoice,1,Inaccessible Invoice,new,0.377
+Inaccurate Delivery Estimates,1,Delivery Responsibility,merged,0.495
+Inaccurate Delivery Options,1,Wrong Item Delivered,merged,0.595
+Inaccurate Delivery Partner Location,1,Delivery Responsibility,merged,0.594
+Inaccurate Delivery Time Estimate,1,Late Delivery,merged,0.563
+Inaccurate Delivery Timings,1,Late Delivery,merged,0.642
+Inaccurate Estimated Time,1,Incorrect Order Status,merged,0.294
+Inaccurate Location,1,Address Selection Problem,merged,0.344
+Inaccurate Map,1,Dark Patterns,merged,0.302
+Inaccurate Wait Time,1,Incorrect Order Status,merged,0.436
+Inaction on Complaints,1,App Not Taking Issues Seriously,merged,0.432
+Inadequate Customer Support,1,Unhelpful Customer Support,merged,0.834
+Inadequate Delivery Partner,1,Rude Delivery Partner,merged,0.687
+Inadequate Delivery Partners,1,Delivery Responsibility,merged,0.663
+Inadequate Service,1,Unhelpful Customer Support,merged,0.505
+Inappropriate Language Used,1,Rude Delivery Partner,merged,0.261
+Incapable Support Team,1,Unhelpful Customer Support,merged,0.41
+Incompetent Company,1,Unhelpful Customer Support,merged,0.477
+Incompetent Delivery Partner,1,Rude Delivery Partner,merged,0.701
+Incompetent Manager,1,Incompetent Manager,new,0.402
+Incomplete Delivery,1,Delivery Person Lost,merged,0.688
+Incomplete Information,1,Incorrect Order Status,merged,0.278
+Incomplete Refunds,1,Refund Not Processed,merged,0.79
+Inconsiderate Company Policies,1,Rude Delivery Partner,merged,0.425
+Inconsiderate Delivery Policy,1,Rude Delivery Partner,merged,0.677
+Inconsistent Customer Support,1,Unhelpful Customer Support,merged,0.788
+Inconsistent Delivery Hours,1,Late Delivery,merged,0.561
+Inconsistent Delivery Speed,1,Late Delivery,merged,0.603
+Inconsistent Food Quantity,1,Wrong Item Delivered,merged,0.451
+Inconsistent Order Amount,1,Excessive Delivery Charge,merged,0.635
+Inconsistent Order Processing,1,Incorrect Order Status,merged,0.704
+Inconvenience Acknowledged,1,Rude Delivery Partner,merged,0.373
+Inconvenient App,1,App Crashes At Checkout,merged,0.536
+Inconvenient Customer Service,1,Unhelpful Customer Support,merged,0.712
+Inconvenient Delivery Process,1,Late Delivery,merged,0.703
+Incorrect Address Displayed,1,Address Selection Problem,merged,0.518
+Incorrect Branding,1,App Name Change Request,merged,0.433
+Incorrect Cake Delivery,1,Wrong Item Delivered,merged,0.584
+Incorrect Charges,1,Excessive Delivery Charge,merged,0.508
+Incorrect Coupon Display,1,Discount Coupon Issue,merged,0.756
+Incorrect Debit,1,Cash On Delivery Not Available,merged,0.391
+Incorrect Delivery,1,Wrong Item Delivered,merged,0.754
+Incorrect Delivery Charge,1,Excessive Delivery Charge,merged,0.816
+Incorrect Delivery Charges,1,Excessive Delivery Charge,merged,0.82
+Incorrect Delivery Date,1,Late Delivery,merged,0.647
+Incorrect Delivery Order,1,Wrong Item Delivered,merged,0.765
+Incorrect Delivery Partner Charges,1,Excessive Delivery Charge,merged,0.7
+Incorrect Delivery Time Display,1,Late Delivery,merged,0.53
+Incorrect Delivery Time Shown,1,Late Delivery,merged,0.615
+Incorrect Delivery Time Update,1,Late Delivery,merged,0.565
+Incorrect Distance Display,1,Incorrect Distance Display,new,0.264
+Incorrect Distance Shown,1,Incorrect Distance Display,merged,0.902
+Incorrect Estimated Delivery Time,1,Late Delivery,merged,0.576
+Incorrect Food Type,1,Wrong Item Delivered,merged,0.497
+Incorrect Information Provided,1,Wrong Item Delivered,merged,0.436
+Incorrect Item,1,Wrong Item Delivered,merged,0.705
+Incorrect Item Availability,1,Wrong Item Delivered,merged,0.498
+Incorrect Live Location,1,Bad Experience While Traveling,merged,0.417
+Incorrect Map Position,1,Address Selection Problem,merged,0.445
+Incorrect Order Address,1,Address Selection Problem,merged,0.662
+Incorrect Order Charged,1,Incorrect Order Status,merged,0.602
+Incorrect Order Correction,1,Wrong Item Delivered,merged,0.712
+Incorrect Order Distance,1,Incorrect Distance Display,merged,0.647
+Incorrect Order Processing,1,Incorrect Order Status,merged,0.752
+Incorrect Order Quantity,1,Incorrect Order Status,merged,0.672
+Incorrect Order Timing,1,Late Delivery,merged,0.657
+Incorrect Orders,1,Wrong Item Delivered,merged,0.808
+Incorrect Packaging,1,Poor Packaging,merged,0.818
+Incorrect Preparation,1,Wrong Item Delivered,merged,0.322
+Incorrect Price,1,Incorrect Order Status,merged,0.447
+Incorrect Prices,1,Incorrect Order Status,merged,0.392
+Incorrect Product Delivered,1,Wrong Item Delivered,merged,0.801
+Incorrect Restaurant Availability,1,Incorrect Order Status,merged,0.452
+Incorrect Restaurant Hours,1,Late Delivery,merged,0.377
+Incorrect Restaurant Information,1,Wrong Item Delivered,merged,0.472
+Incorrect Restaurant Listing,1,Wrong Item Delivered,merged,0.502
+Incorrect Restaurant Number,1,Wrong Item Delivered,merged,0.438
+Incorrect Route Taken,1,Incorrect Order Status,merged,0.378
+Incorrect Store Selection,1,Address Selection Problem,merged,0.355
+Incorrect Time Display,1,Incorrect Order Status,merged,0.497
+Incorrect Timing,1,Late Delivery,merged,0.444
+Incorrect Weather Forecast,1,Incorrect Distance Display,merged,0.331
+Incorrect Weather Update,1,Incorrect Distance Display,merged,0.369
+Increased Delivery Time,1,Late Delivery,merged,0.681
+Increased Food Item Rate,1,Excessive Delivery Charge,merged,0.395
+Ineffective Chatbot,1,No Response From Swiggy,merged,0.331
+Ineffective Complaint System,1,Unhelpful Customer Support,merged,0.489
+Ineffective Customer Care,1,Unhelpful Customer Support,merged,0.711
+Ineffective Penalty System,1,Excessive Delivery Charge,merged,0.221
+Ineffective Support Team,1,Unhelpful Customer Support,merged,0.521
+Inefficient Delivery Chain,1,Delivery Responsibility,merged,0.585
+Inefficient Delivery Partner,1,Delivery Responsibility,merged,0.739
+Inefficient Delivery Process,1,Late Delivery,merged,0.623
+Inefficient Delivery System,1,Late Delivery,merged,0.599
+Inefficient Refund Flow,1,Refund Not Processed,merged,0.611
+Inefficient Service,1,Unhelpful Customer Support,merged,0.448
+Inefficient Support Process,1,Unhelpful Customer Support,merged,0.519
+Infinite Refund Loop,1,Scam Attempt,merged,0.666
+Inoperable Functionality,1,Inaccessible Invoice,merged,0.29
+Insect Found,1,Poor Packaging,merged,0.214
+Insect in Food,1,Poor Packaging,merged,0.482
+Instamart Application Issue,1,App Crashes At Checkout,merged,0.435
+Instamart Down,1,No Response From Swiggy,merged,0.241
+Instamart Good,1,Poor Packaging,merged,0.208
+Instamart Store Unserviceable,1,Incompetent Manager,merged,0.371
+Insufficient Compensation,1,Refund Not Processed,merged,0.392
+Insufficient Delivery Executives,1,Delivery Responsibility,merged,0.629
+Insufficient Delivery Staff,1,Insufficient Delivery Staff,new,0.618
+Insufficient Manpower,1,Insufficient Delivery Staff,merged,0.652
+Insufficient Order Lead Time,1,Insufficient Delivery Staff,merged,0.455
+Insufficient Packaging,1,Poor Packaging,merged,0.805
+Insufficient Quantity,1,Insufficient Delivery Staff,merged,0.514
+Insufficient Refund,1,Refund Not Processed,merged,0.767
+Insufficient Refund Offered,1,Refund Not Processed,merged,0.697
+Insufficient Stock,1,Cash On Delivery Not Available,merged,0.455
+Invalid Reasons For Delaying Refund,1,Refund Not Processed,merged,0.622
+IPO Disappointment,1,Incorrect Order Status,merged,0.256
+Iron Piece In Order,1,Wrong Item Delivered,merged,0.266
+Irresponsible Service,1,Delivery Responsibility,merged,0.553
+Irritating Ads,1,Unhelpful Customer Support,merged,0.275
+Irritating App Changes,1,App Name Change Request,merged,0.546
+Irritating Experience,1,Rude Delivery Partner,merged,0.466
+Issue Cancelling Order,1,Incorrect Order Status,merged,0.6
+Item Missing,1,Wrong Item Delivered,merged,0.516
+Items Not In Stock,1,Wrong Item Delivered,merged,0.389
+Items Out of Stock,1,Items Out of Stock,new,0.399
+Kalyan Jewellery Scam,1,Scam Attempt,merged,0.569
+Lack of Cancellation Option,1,Refund Not Processed,merged,0.687
+Lack Of Care,1,Unhelpful Customer Support,merged,0.39
+Lack Of Communication,1,App Not Taking Issues Seriously,merged,0.381
+Lack Of Customer Communication,1,App Not Taking Issues Seriously,merged,0.585
+Lack of Customer Support,1,Unhelpful Customer Support,merged,0.808
+Lack Of Explanation,1,No Response From Swiggy,merged,0.386
+Lack of Fair Pricing,1,Excessive Delivery Charge,merged,0.404
+Lack of Fairness,1,Membership Not Beneficial,merged,0.262
+Lack of Flexibility,1,Insufficient Delivery Staff,merged,0.287
+Lack of Focus on Core Services,1,App Not Taking Issues Seriously,merged,0.362
+Lack Of Human Executive,1,Incompetent Manager,merged,0.323
+Lack Of Notification,1,No Response From Swiggy,merged,0.346
+Lack Of Privileges,1,Unhelpful Customer Support,merged,0.362
+Lack Of Proper Solution,1,App Not Taking Issues Seriously,merged,0.399
+Lack Of Quantity Details,1,Items Out of Stock,merged,0.321
+Lack Of Responsiveness,1,Unhelpful Customer Support,merged,0.431
+Lack of Safety Policy,1,Bad Experience While Traveling,merged,0.323
+Lack Of Service Improvement,1,Insufficient Delivery Staff,merged,0.504
+Lack Of Support,1,Unhelpful Customer Support,merged,0.51
+Lack of Training,1,Insufficient Delivery Staff,merged,0.389
+Lack of Verification,1,Incorrect Order Status,merged,0.429
+Language Issue,1,Wrong Item Delivered,merged,0.254
+Large Order Size,1,Items Out of Stock,merged,0.357
+Late App Updates,1,Late Delivery,merged,0.437
+Late Arrival,1,Late Delivery,merged,0.802
+Late Cancellation Request,1,Refund Not Processed,merged,0.686
+Late Cancellation Window,1,Late Delivery,merged,0.6
+Late Delivery Assignment,1,Late Delivery,merged,0.817
+Late Delivery Charge,1,Excessive Delivery Charge,merged,0.798
+Late Delivery Marked,1,Late Delivery,merged,0.837
+Late Delivery Partner,1,Late Delivery,merged,0.832
+Late Delivery Update,1,Late Delivery,merged,0.795
+Late Invoice,1,Late Delivery,merged,0.701
+Late Night Deliveries,1,Late Delivery,merged,0.762
+Late Night Delivery,1,Late Delivery,merged,0.852
+Late Night Fee,1,Late Delivery,merged,0.504
+Late Night Orders,1,Late Delivery,merged,0.572
+Late Night Service,1,Unhelpful Customer Support,merged,0.518
+Late Order,1,Late Delivery,merged,0.612
+Late Order Acceptance,1,Incorrect Order Status,merged,0.527
+Late Order Cancellation Policy,1,Incorrect Order Status,merged,0.524
+Late Order Changes,1,Late Delivery,merged,0.512
+Late Order Delivery,1,Late Delivery,merged,0.888
+Late Order Modification,1,Incorrect Order Status,merged,0.392
+Late Order Processing,1,Incorrect Order Status,merged,0.437
+Late Order Status,1,Late Delivery,merged,0.739
+Late Payment Confirmation,1,Refund Not Processed,merged,0.551
+Late Payment Conversion,1,Refund Not Processed,merged,0.46
+Late Resolution,1,Late Delivery,merged,0.385
+Late Response From Support,1,Unhelpful Customer Support,merged,0.512
+Late Service,1,Late Delivery,merged,0.704
+Late Services,1,Late Delivery,merged,0.673
+LazyPay Account Linking Issue,1,LazyPay Account Linking Issue,new,0.335
+Leaking Food Packages,1,Poor Packaging,merged,0.494
+Legal Action Followed,1,Scam Attempt,merged,0.413
+Legal Action Threatened,1,Scam Attempt,merged,0.369
+Less Discounts,1,Membership Not Beneficial,merged,0.525
+Lies Told,1,Scam Attempt,merged,0.276
+Limited Delivery Hours,1,Late Delivery,merged,0.595
+Linked Webpage Doesn't Work,1,LazyPay Account Linking Issue,merged,0.331
+Location Error,1,Incorrect Distance Display,merged,0.337
+Location Issue For Delivery Boy,1,Delivery Person Lost,merged,0.532
+Location Not Working,1,Address Selection Problem,merged,0.35
+Long Address Addition Time,1,Address Selection Problem,merged,0.449
+Long Call Center Wait,1,Unhelpful Customer Support,merged,0.307
+Long Call Waiting Time,1,App Not Taking Issues Seriously,merged,0.33
+Long Customer Service Wait,1,Late Delivery,merged,0.529
+Long Customer Support Wait,1,Late Delivery,merged,0.659
+Long Hold Time On Call,1,App Not Taking Issues Seriously,merged,0.236
+Long Order Preparation Time,1,Long Order Preparation Time,new,0.345
+Long Order Time,1,Long Order Preparation Time,merged,0.746
+Long Partner Assignment Time,1,Long Order Preparation Time,merged,0.374
+Long Wait For Support,1,Unhelpful Customer Support,merged,0.473
+Long Wait On Call,1,Long Order Preparation Time,merged,0.338
+Long Wait Time For Normal Delivery,1,Late Delivery,merged,0.653
+Looping Response,1,No Response From Swiggy,merged,0.252
+Losing Genuine Customers,1,Delivery Partner Switching,merged,0.533
+Lost Customers,1,Delivery Person Lost,merged,0.531
+Lost Eatlists,1,Stale Food,merged,0.421
+Lost Food,1,Delivery Person Lost,merged,0.555
+Lost Money,1,Refund Not Processed,merged,0.444
+Low Delivery Charge,1,Excessive Delivery Charge,merged,0.786
+Low Delivery Executive Pay,1,Insufficient Delivery Staff,merged,0.543
+Low Food Quality,1,Stale Food,merged,0.501
+Low Grade Food,1,Stale Food,merged,0.474
+Low Grade Service,1,Unhelpful Customer Support,merged,0.378
+Low Quality Product,1,Poor Packaging,merged,0.595
+Low Refund Offered,1,Refund Not Processed,merged,0.608
+Magicpin Alternative,1,Scam Attempt,merged,0.144
+Malpractice by Platform,1,Incompetent Manager,merged,0.27
+Malpractices,1,Bad Experience While Traveling,merged,0.293
+Manipulative Rating Request,1,Unhelpful Customer Support,merged,0.359
+Massive Delays,1,Late Delivery,merged,0.488
+Melted Ice Cream,1,Stale Food,merged,0.331
+Membership Benefits Not Honored,1,Membership Benefits Not Honored,new,0.634
+Membership Fees,1,Cancellation Fee,merged,0.581
+Membership Fees Charged,1,Cancellation Fee,merged,0.538
+Membership Free Delivery,1,Delivery Responsibility,merged,0.51
+Membership Not Refunded,1,Refund Not Processed,merged,0.693
+Membership Scam,1,Scam Attempt,merged,0.701
+Membership Scheme,1,Membership Benefits Not Honored,merged,0.614
+Menu Changes,1,App Name Change Request,merged,0.254
+Messy Food,1,Poor Packaging,merged,0.607
+Messy Items,1,Poor Packaging,merged,0.473
+Misbehaved Support,1,Unhelpful Customer Support,merged,0.579
+Misbehaviour Not Addressed,1,App Not Taking Issues Seriously,merged,0.389
+Miscommunication,1,Unhelpful Customer Support,merged,0.399
+Miscommunication Between Restaurant and App,1,App Not Taking Issues Seriously,merged,0.49
+Miscommunication With Delivery Agent,1,Rude Delivery Partner,merged,0.674
+Miscommunication With Delivery Partner,1,Rude Delivery Partner,merged,0.726
+Misdirected Blame,1,Incompetent Manager,merged,0.365
+Misleading Ads,1,Scam Attempt,merged,0.342
+Misleading App,1,App Crashes At Checkout,merged,0.563
+Misleading Billing,1,Cancellation Fee,merged,0.427
+Misleading Communication,1,Rude Delivery Partner,merged,0.299
+Misleading Consumer,1,Wrong Item Delivered,merged,0.394
+Misleading Coupon Codes,1,Discount Coupon Issue,merged,0.651
+Misleading Customers,1,Rude Delivery Partner,merged,0.558
+Misleading Deals,1,Scam Attempt,merged,0.386
+Misleading Delivery Time Promises,1,Late Delivery,merged,0.572
+Misleading Delivery Timelines,1,Late Delivery,merged,0.595
+Misleading Distance Calculation,1,Incorrect Distance Display,merged,0.713
+Misleading Distance Info,1,Incorrect Distance Display,merged,0.74
+Misleading Estimated Delivery Times,1,Late Delivery,merged,0.555
+Misleading On-Time Guarantee,1,Scam Attempt,merged,0.293
+Misleading Policy,1,Delivery Responsibility,merged,0.278
+Misleading Refund Policy,1,Unhelpful Customer Support,merged,0.645
+Misleading Response,1,Wrong Item Delivered,merged,0.383
+Misleading Restaurant Location,1,Incorrect Distance Display,merged,0.44
+Misleading Sale Offers,1,Scam Attempt,merged,0.414
+Misleading Success Metrics,1,Misleading Success Metrics,new,0.282
+Misleading Timing,1,Late Delivery,merged,0.373
+Misleading Tracking,1,Misleading Success Metrics,merged,0.385
+Mismatched Bills,1,Wrong Item Delivered,merged,0.365
+Misorder,1,Wrong Item Delivered,merged,0.387
+Missing Address,1,Address Selection Problem,merged,0.475
+Missing Burger,1,Stale Food,merged,0.355
+Missing Cashback,1,Refund Not Processed,merged,0.545
+Missing Coke 250 Ml,1,Items Out of Stock,merged,0.297
+Missing Coupon,1,Discount Coupon Issue,merged,0.782
+Missing Discounts,1,Membership Benefits Not Honored,merged,0.651
+Missing Feature,1,Items Out of Stock,merged,0.264
+Missing Food Item,1,Items Out of Stock,merged,0.484
+Missing Gift Card Details,1,Cash On Delivery Not Available,merged,0.348
+Missing Ice Cream,1,Items Out of Stock,merged,0.318
+Missing Ingredient List,1,Items Out of Stock,merged,0.375
+Missing Invoice,1,Inaccessible Invoice,merged,0.812
+Missing Item Refund,1,Refund Not Processed,merged,0.69
+Missing Items Found,1,Wrong Item Delivered,merged,0.502
+Missing Items Not Sent,1,Wrong Item Delivered,merged,0.533
+Missing Main Course,1,Incorrect Order Status,merged,0.228
+Missing Order Items,1,Wrong Item Delivered,merged,0.575
+Missing Order Receipt,1,Incorrect Order Status,merged,0.567
+Missing Orders,1,Incorrect Order Status,merged,0.633
+Missing Pancakes,1,Items Out of Stock,merged,0.248
+Missing Parcel,1,Wrong Item Delivered,merged,0.526
+Missing Photo Sharing Option,1,Allow Image Attachments,merged,0.362
+Missing Popcorn,1,Poor Packaging,merged,0.294
+Mistake in Order,1,Wrong Item Delivered,merged,0.633
+Misunderstood Order Status,1,Incorrect Order Status,merged,0.893
+Money Cheated,1,Scam Attempt,merged,0.426
+Money Deducted Without Service,1,Cancellation Fee,merged,0.444
+Money Grabbing,1,Scam Attempt,merged,0.362
+Money Hungry,1,Scam Attempt,merged,0.389
+Money Looting,1,Scam Attempt,merged,0.289
+Money Looting Practices,1,Scam Attempt,merged,0.275
+Money Lost,1,Refund Not Processed,merged,0.413
+Money Not Credited,1,Refund Not Processed,merged,0.504
+Money Not Received,1,Refund Not Processed,merged,0.653
+Money-Oriented Company,1,Unhelpful Customer Support,merged,0.29
+Money Ripped Off,1,Scam Attempt,merged,0.467
+Money Robbery,1,Scam Attempt,merged,0.443
+Money Taken Unfairly,1,Scam Attempt,merged,0.386
+Money Taken Without Consent,1,Scam Attempt,merged,0.381
+More Chutney Needed,1,More Chutney Needed,new,0.204
+Multi Cart Option Needed,1,Delivery Partner Switching,merged,0.253
+Multiple Accounts Detected,1,LazyPay Account Linking Issue,merged,0.556
+Multiple Address Issue,1,Address Selection Problem,merged,0.699
+Multiple Charges,1,Excessive Delivery Charge,merged,0.433
+Multiple Deliveries At Once,1,Delivery Partner Switching,merged,0.558
+Multiple Delivery Issues,1,Delivery Responsibility,merged,0.688
+Multiple Delivery Stops,1,Insufficient Delivery Staff,merged,0.59
+Multiple Issues,1,App Not Taking Issues Seriously,merged,0.488
+Multiple Order Cancellations,1,Incorrect Order Status,merged,0.477
+Multiple Orders At Once,1,Long Order Preparation Time,merged,0.426
+Nearby Stores Not Shown,1,Incorrect Distance Display,merged,0.376
+Need For Extra Benefits,1,Membership Benefits Not Honored,merged,0.419
+Negative Rating,1,Misleading Success Metrics,merged,0.369
+Negative Rating Request,1,Scam Attempt,merged,0.422
+Negative Reviews,1,App Not Taking Issues Seriously,merged,0.513
+Negative Support,1,Unhelpful Customer Support,merged,0.457
+Negligence,1,Delivery Responsibility,merged,0.391
+Never Using Swiggy Again,1,Bad Experience While Traveling,merged,0.694
+Night Delivery,1,Late Delivery,merged,0.692
+No Accountability,1,Unhelpful Customer Support,merged,0.344
+No Acknowledgment Given,1,No Response From Swiggy,merged,0.343
+No Action On Issue,1,No Response From Swiggy,merged,0.501
+No Agent Provided,1,Insufficient Delivery Staff,merged,0.268
+No Agent Support,1,Unhelpful Customer Support,merged,0.404
+No Bag Provided,1,Poor Packaging,merged,0.272
+No Black Invite,1,Dark Patterns,merged,0.255
+No Call from Delivery Partner,1,Insufficient Delivery Staff,merged,0.589
+No Cancelation Option,1,Refund Not Processed,merged,0.636
+No Cash Payment Option,1,Cash On Delivery Not Available,merged,0.674
+No Chance To Write,1,No Response From Swiggy,merged,0.295
+No Communication,1,No Response From Swiggy,merged,0.425
+No Compensation For Cancellation,1,Cancellation Fee,merged,0.722
+No Complaint Response,1,Unhelpful Customer Support,merged,0.487
+No Connection With Delivery Person,1,Delivery Person Lost,merged,0.708
+No Contact,1,No Response From Swiggy,merged,0.364
+No Contact Information,1,No Response From Swiggy,merged,0.376
+No Contact Number,1,No Response From Swiggy,merged,0.335
+No Control On Delivery Time,1,Late Delivery,merged,0.628
+No Cooking Request Status,1,Stale Food,merged,0.337
+No Coupon Available,1,Discount Coupon Issue,merged,0.723
+No Coupon Code Available,1,Discount Coupon Issue,merged,0.673
+No Coupon Code Working,1,Discount Coupon Issue,merged,0.765
+No Customer Care Access,1,Inaccessible Invoice,merged,0.586
+No Customer Compensation,1,Refund Not Processed,merged,0.578
+No Customer Contact,1,No Response From Swiggy,merged,0.481
+No Customer Service Option,1,Unhelpful Customer Support,merged,0.557
+No Delivery Agent Assigned,1,Insufficient Delivery Staff,merged,0.708
+No Delivery Partner Number,1,Insufficient Delivery Staff,merged,0.577
+No Delivery Partner Number Provided,1,Insufficient Delivery Staff,merged,0.546
+No Direct Number,1,No Response From Swiggy,merged,0.194
+No Discount Coupons,1,Discount Coupon Issue,merged,0.716
+No Discount For First Order,1,Discount Coupon Issue,merged,0.621
+No Discount For New Users,1,Discount Coupon Issue,merged,0.594
+No Email Support,1,No Response From Swiggy,merged,0.415
+No Express Delivery,1,Delivery Responsibility,merged,0.581
+No Extra Items Provided,1,More Chutney Needed,merged,0.355
+No Follow Up From Swiggy,1,No Response From Swiggy,merged,0.78
+No Food Prepared,1,Insufficient Delivery Staff,merged,0.453
+No Food Quality,1,Stale Food,merged,0.452
+No Food Received,1,Stale Food,merged,0.467
+No Free Delivery,1,Excessive Delivery Charge,merged,0.538
+No Help Available,1,Unhelpful Customer Support,merged,0.308
+No Help Features,1,Unhelpful Customer Support,merged,0.328
+No Help From Customer Service,1,Unhelpful Customer Support,merged,0.574
+No Help Option,1,Unhelpful Customer Support,merged,0.305
+No Helpline Support,1,Unhelpful Customer Support,merged,0.458
+No Human Agent,1,No Response From Swiggy,merged,0.246
+No Human Touch,1,No Response From Swiggy,merged,0.281
+No Immediate Help,1,No Response From Swiggy,merged,0.35
+No Inquiry Number,1,Inaccessible Invoice,merged,0.311
+No Instamart Option,1,No Response From Swiggy,merged,0.24
+No Instant Refund,1,Refund Not Processed,merged,0.651
+No Live Agent,1,No Response From Swiggy,merged,0.278
+No Live Update,1,No Response From Swiggy,merged,0.299
+No Minimum Cart Value,1,Cash On Delivery Not Available,merged,0.335
+No Money Back,1,Refund Not Processed,merged,0.533
+No MSG,1,No Response From Swiggy,merged,0.362
+No Non Veg Filter,1,Allow Image Attachments,merged,0.188
+No Offer Available,1,Items Out of Stock,merged,0.35
+No Offer On First Order,1,Incorrect Order Status,merged,0.346
+No Offers On App,1,Cash On Delivery Not Available,merged,0.438
+No One to Contact,1,Insufficient Delivery Staff,merged,0.404
+No Option For Zero Stars,1,Cash On Delivery Not Available,merged,0.209
+No Option To Cancel,1,Account Deletion Issue,merged,0.686
+No Option to Change Partner,1,Delivery Partner Switching,merged,0.501
+No Option To Talk,1,App Not Taking Issues Seriously,merged,0.317
+No Option To Use,1,Cash On Delivery Not Available,merged,0.26
+No Order After Payment,1,Incorrect Order Status,merged,0.553
+No Order Delivered,1,Late Delivery,merged,0.657
+No Order Received,1,Incorrect Order Status,merged,0.628
+No Order Updates,1,Incorrect Order Status,merged,0.6
+No Partner Assigned,1,Insufficient Delivery Staff,merged,0.385
+No Plastic Packaging,1,Poor Packaging,merged,0.592
+No Products Shown,1,No Response From Swiggy,merged,0.401
+No Proper Bill Received,1,Inaccessible Invoice,merged,0.464
+No Proper Customer Service,1,Unhelpful Customer Support,merged,0.635
+No Proper Customer Support,1,Unhelpful Customer Support,merged,0.803
+No Proper Help,1,No Response From Swiggy,merged,0.29
+No Proper Information,1,No Response From Swiggy,merged,0.39
+No Proper Reply,1,No Response From Swiggy,merged,0.426
+No Proper Resolution,1,App Not Taking Issues Seriously,merged,0.353
+No Proper Response,1,No Response From Swiggy,merged,0.549
+No Proper Support,1,Unhelpful Customer Support,merged,0.529
+No Quick Response,1,No Response From Swiggy,merged,0.492
+No Refund for Cancelled Order,1,Cancellation Fee,merged,0.711
+No Refund For Late Orders,1,Late Delivery,merged,0.691
+No Refund Option,1,Refund Not Processed,merged,0.729
+No Refund Provided,1,Refund Not Processed,merged,0.746
+No Refund System,1,Refund Not Processed,merged,0.762
+No Refunds,1,Refund Not Processed,merged,0.73
+No Response From Call Center,1,App Not Taking Issues Seriously,merged,0.362
+No Response From Helpline,1,Unhelpful Customer Support,merged,0.372
+No Response Given,1,No Response From Swiggy,merged,0.513
+No Response On Chat,1,No Response From Swiggy,merged,0.461
+No Response on Email,1,No Response From Swiggy,merged,0.472
+No Response to Complaint,1,Unhelpful Customer Support,merged,0.51
+No Response To Customers,1,No Response From Swiggy,merged,0.562
+No Response To Email,1,No Response From Swiggy,merged,0.472
+No Response To Emails,1,No Response From Swiggy,merged,0.477
+No Response To Mail,1,No Response From Swiggy,merged,0.476
+No Response To Mails,1,No Response From Swiggy,merged,0.477
+No Responses From Customer Support,1,No Response From Swiggy,merged,0.611
+No Responsibility Taken,1,Unhelpful Customer Support,merged,0.497
+No Restaurants Available,1,Insufficient Delivery Staff,merged,0.451
+No Return,1,Refund Not Processed,merged,0.49
+No Return Option,1,Refund Not Processed,merged,0.404
+No Returns Allowed,1,Refund Not Processed,merged,0.434
+No Rider Assignment,1,Insufficient Delivery Staff,merged,0.231
+No Rider Available,1,Insufficient Delivery Staff,merged,0.341
+No Service,1,No Response From Swiggy,merged,0.353
+No Stock Available,1,Items Out of Stock,merged,0.67
+No Support For Clients,1,Unhelpful Customer Support,merged,0.598
+No Support From Swiggy,1,No Response From Swiggy,merged,0.755
+No Support Team,1,No Response From Swiggy,merged,0.462
+No Time Limits Cancellation,1,Cancellation Fee,merged,0.455
+No Time Value,1,Late Delivery,merged,0.258
+No Timely Delivery,1,Late Delivery,merged,0.71
+No Urgency In Resolution,1,App Not Taking Issues Seriously,merged,0.332
+No Value Of Time,1,Late Delivery,merged,0.245
+No Warning Provided,1,No Warning Provided,new,0.318
+No Way to Complain,1,Unhelpful Customer Support,merged,0.35
+Non Competitive Rate,1,Membership Not Beneficial,merged,0.257
+Non-existent Customer Support,1,Unhelpful Customer Support,merged,0.808
+Non Functional Shops,1,Items Out of Stock,merged,0.312
+Non-Veg Item in Veg Order,1,Wrong Item Delivered,merged,0.309
+Non-Working Help Line,1,Unhelpful Customer Support,merged,0.277
+Not Available In My Area,1,Inaccessible Invoice,merged,0.426
+Not Expected,1,Incorrect Order Status,merged,0.448
+Not Getting Best Offer,1,Discount Coupon Issue,merged,0.441
+Not Worth Using,1,Membership Not Beneficial,merged,0.398
+Notification Overload,1,App Not Taking Issues Seriously,merged,0.321
+Notification Settings Problem,1,No Warning Provided,merged,0.311
+Offer Not Applied,1,Discount Coupon Issue,merged,0.412
+Offer Not Availble,1,Discount Coupon Issue,merged,0.379
+Offers Need Increase,1,More Chutney Needed,merged,0.329
+One-Sided Rules,1,Membership Not Beneficial,merged,0.208
+Online Payment Service,1,Scam Attempt,merged,0.367
+Open Menu Problem,1,Inaccessible Invoice,merged,0.309
+Order Accepted Without Verification,1,Incorrect Order Status,merged,0.643
+Order Cancellation Not Allowed,1,Incorrect Order Status,merged,0.544
+Order Cancellation Policy,1,Incorrect Order Status,merged,0.558
+Order Cancellation Without Consent,1,Incorrect Order Status,merged,0.617
+Order Cancellation Without Notice,1,Incorrect Order Status,merged,0.584
+Order Cancellation Without Reason,1,Incorrect Order Status,merged,0.562
+Order Cancelled After 45 Mins,1,Incorrect Order Status,merged,0.513
+Order Cancelled Unfairly,1,Incorrect Order Status,merged,0.637
+Order Cancelled Without Acceptance,1,Incorrect Order Status,merged,0.591
+Order Cancelled Without Notification,1,Incorrect Order Status,merged,0.55
+Order Clubbed,1,Incorrect Order Status,merged,0.305
+Order Collection Issues,1,Incorrect Order Status,merged,0.568
+Order Comparison,1,Address Selection Problem,merged,0.479
+Order Denied,1,Incorrect Order Status,merged,0.608
+Order Error,1,Incorrect Order Status,merged,0.724
+Order Got Cancelled,1,Incorrect Order Status,merged,0.571
+Order ID Provided,1,Incorrect Order Status,merged,0.47
+Order ID Required,1,Incorrect Order Status,merged,0.488
+Order Issues,1,Incorrect Order Status,merged,0.734
+Order Item Lost,1,Wrong Item Delivered,merged,0.612
+Order Mismatch,1,Wrong Item Delivered,merged,0.716
+Order Mix-Up,1,Incorrect Order Status,merged,0.442
+Order Not Allowed,1,Incorrect Order Status,merged,0.635
+Order Not Arrived,1,Late Delivery,merged,0.643
+Order Not Cancelable,1,Incorrect Order Status,merged,0.573
+Order Not Cancelling,1,Incorrect Order Status,merged,0.582
+Order Not Confirmed,1,Incorrect Order Status,merged,0.623
+Order Not Delivered As Ordered,1,Wrong Item Delivered,merged,0.712
+Order Not Delivered On Time,1,Late Delivery,merged,0.637
+Order Not Picked On Time,1,Late Delivery,merged,0.571
+Order Not Placed,1,Incorrect Order Status,merged,0.69
+Order Not Prioritized,1,Incorrect Order Status,merged,0.658
+Order Not Processed,1,Incorrect Order Status,merged,0.741
+Order Not Processed Correctly,1,Incorrect Order Status,merged,0.804
+Order Not Provided,1,Incorrect Order Status,merged,0.552
+Order Not Received On Time,1,Late Delivery,merged,0.589
+Order Not Replaced,1,Incorrect Order Status,merged,0.628
+Order Not Started,1,Incorrect Order Status,merged,0.603
+Order Placement Problem,1,Address Selection Problem,merged,0.597
+Order Placing Scams,1,Scam Attempt,merged,0.663
+Order Prices Update,1,Order Prices Update,new,0.432
+Order Proceeding Problem,1,Incorrect Order Status,merged,0.659
+Order Rejected,1,Incorrect Order Status,merged,0.645
+Order Showing,1,Incorrect Order Status,merged,0.636
+Ordering Process Problem,1,Incorrect Order Status,merged,0.616
+Orders Clubbed,1,Items Out of Stock,merged,0.327
+Orders Not Delivered,1,Incorrect Order Status,merged,0.677
+Orders Taken After Closure,1,Incorrect Order Status,merged,0.538
+Other Apps Better,1,App Crashes At Checkout,merged,0.538
+Overpriced Food,1,Excessive Delivery Charge,merged,0.373
+Overworked Delivery Partner,1,Insufficient Delivery Staff,merged,0.677
+Packaging Charges,1,Excessive Delivery Charge,merged,0.606
+Packaging Fee,1,Excessive Delivery Charge,merged,0.557
+Packaging Issues,1,Poor Packaging,merged,0.831
+Painful Experience,1,Bad Experience While Traveling,merged,0.428
+Panic Situation,1,Bad Experience While Traveling,merged,0.301
+Partner Assignment Delay,1,Delivery Partner Switching,merged,0.451
+Partner Bias,1,Misleading Success Metrics,merged,0.382
+Partner Restaurant Quality,1,Add Restaurant Reviews,merged,0.54
+Pathetic App Experience,1,App Crashes At Checkout,merged,0.572
+Pathetic Chat Option,1,Unhelpful Customer Support,merged,0.224
+Pathetic Customer Service,1,Unhelpful Customer Support,merged,0.649
+Pathetic Delivery,1,Rude Delivery Partner,merged,0.591
+Pathetic ETA,1,Late Delivery,merged,0.27
+Pathetic Tracking System,1,Dark Patterns,merged,0.238
+Pay Later App Issue,1,App Not Taking Issues Seriously,merged,0.438
+Pay Later Not Accepting,1,Refund Not Processed,merged,0.473
+Payment Already Made,1,Refund Not Processed,merged,0.432
+Payment App Not Working,1,App Crashes At Checkout,merged,0.584
+Payment Deduction Without Consent,1,Refund Not Processed,merged,0.359
+Payment Details Attached,1,Payment Details Attached,new,0.352
+Payment Failures,1,Payment Details Attached,merged,0.498
+Payment Issues,1,Refund Not Processed,merged,0.633
+Payment Late Issue,1,Late Delivery,merged,0.514
+Payment Method Blocked,1,Payment Details Attached,merged,0.443
+Payment Method Not Changed,1,Refund Not Processed,merged,0.489
+Payment Mistake,1,Refund Not Processed,merged,0.633
+Payment Modes Not Asked,1,Cash On Delivery Not Available,merged,0.453
+Payment Not Accepted,1,Cash On Delivery Not Available,merged,0.575
+Payment Not Completed,1,Refund Not Processed,merged,0.613
+Payment Not Reflected,1,Refund Not Processed,merged,0.609
+Payment Offer Not Applied,1,Refund Not Processed,merged,0.567
+Payment Screen Not Confirming,1,Refund Not Processed,merged,0.563
+Payment Success,1,Payment Details Attached,merged,0.596
+Payment Taken Immediately,1,Cash On Delivery Not Available,merged,0.597
+Penalty Charge,1,Cancellation Fee,merged,0.402
+Perishable Items Issue,1,Stale Food,merged,0.446
+Picking Now,1,No Warning Provided,merged,0.268
+Picks Current Location,1,Address Selection Problem,merged,0.419
+Platform Fee,1,Excessive Delivery Charge,merged,0.442
+Platform Fee Issue,1,Excessive Delivery Charge,merged,0.445
+Policy Not Fair,1,Membership Not Beneficial,merged,0.252
+Poor AI Support,1,Unhelpful Customer Support,merged,0.364
+Poor App Behaviour,1,App Crashes At Checkout,merged,0.765
+Poor App Design,1,App Crashes At Checkout,merged,0.61
+Poor App Layout,1,Poor Packaging,merged,0.501
+Poor App Navigation,1,App Crashes At Checkout,merged,0.524
+Poor App Quality,1,App Crashes At Checkout,merged,0.689
+Poor App Rating,1,App Not Taking Issues Seriously,merged,0.629
+Poor App Support,1,Unhelpful Customer Support,merged,0.699
+Poor Assistance,1,Unhelpful Customer Support,merged,0.428
+Poor Company,1,Incompetent Manager,merged,0.506
+Poor Comparison To Zomato,1,Misleading Success Metrics,merged,0.192
+Poor Customer Experience,1,Unhelpful Customer Support,merged,0.608
+Poor Customer Response,1,Unhelpful Customer Support,merged,0.562
+Poor Delivery,1,Delivery Responsibility,merged,0.693
+Poor Delivery Algorithm,1,Delivery Responsibility,merged,0.569
+Poor Delivery Associate,1,Rude Delivery Partner,merged,0.665
+Poor Delivery Boy,1,Rude Delivery Partner,merged,0.608
+Poor Delivery Condition,1,Late Delivery,merged,0.673
+Poor Delivery Partners,1,Rude Delivery Partner,merged,0.69
+Poor Delivery Quality,1,Poor Packaging,merged,0.73
+Poor Food Delivery System,1,Poor Packaging,merged,0.539
+Poor Handling of Frozen Food,1,Delivery Responsibility,merged,0.532
+Poor Ice Cream Service,1,Rude Delivery Partner,merged,0.381
+Poor Interface,1,App Not Taking Issues Seriously,merged,0.393
+Poor Logistics,1,Delivery Responsibility,merged,0.574
+Poor Navigation Skills,1,Address Selection Problem,merged,0.395
+Poor Order Cancellation Policy,1,Incorrect Order Status,merged,0.507
+Poor Packing,1,Poor Packaging,merged,0.781
+Poor Performance,1,Misleading Success Metrics,merged,0.393
+Poor Platform,1,App Not Taking Issues Seriously,merged,0.398
+Poor Presentation,1,Poor Packaging,merged,0.458
+Poor Quality Control,1,Poor Packaging,merged,0.472
+Poor Quality Item,1,Poor Packaging,merged,0.683
+Poor Quality Product,1,Poor Packaging,merged,0.683
+Poor Quality Service,1,Unhelpful Customer Support,merged,0.524
+Poor Refund Process,1,Refund Not Processed,merged,0.808
+Poor Resolution,1,App Not Taking Issues Seriously,merged,0.427
+Poor Response,1,No Response From Swiggy,merged,0.434
+Poor Restaurant Service,1,Insufficient Delivery Staff,merged,0.493
+Poor Service Compared To Zomato,1,Misleading Success Metrics,merged,0.352
+Poor Service Provider,1,Unhelpful Customer Support,merged,0.533
+Poor Support System,1,Unhelpful Customer Support,merged,0.607
+Poor Support Team,1,Unhelpful Customer Support,merged,0.488
+Poor Timing,1,Late Delivery,merged,0.407
+Poor Vendor Coordination,1,Insufficient Delivery Staff,merged,0.486
+Pop-up Ads,1,Scam Attempt,merged,0.219
+Pre Payment Issue,1,Discount Coupon Issue,merged,0.517
+Preferred Alternative,1,Membership Not Beneficial,merged,0.226
+Prepaid Order Issues,1,Incorrect Order Status,merged,0.486
+Price Changes After Adding,1,Order Prices Update,merged,0.62
+Price Differ,1,Order Prices Update,merged,0.456
+Price Hike,1,Excessive Delivery Charge,merged,0.519
+Price Hike At Payment Time,1,Order Prices Update,merged,0.496
+Price Increase,1,Excessive Delivery Charge,merged,0.61
+Price Inflation,1,Excessive Delivery Charge,merged,0.424
+Prices Gone Too High,1,Excessive Delivery Charge,merged,0.55
+Pricing Difference Between Platforms,1,GST Charges,merged,0.241
+Priority Mode Not Working,1,App Not Taking Issues Seriously,merged,0.393
+Problem Not Resolved,1,App Not Taking Issues Seriously,merged,0.415
+Problems Not Resolved,1,App Not Taking Issues Seriously,merged,0.445
+Product Damage,1,Poor Packaging,merged,0.347
+Product Not Delivered,1,Late Delivery,merged,0.748
+Product Not Returned,1,Refund Not Processed,merged,0.484
+Product Out Of Stock,1,Items Out of Stock,merged,0.857
+Promise Not Fulfilled,1,Scam Attempt,merged,0.348
+Promotional Notifications Problem,1,No Warning Provided,merged,0.451
+Provide Coupons On Every Order,1,Discount Coupon Issue,merged,0.615
+Public Review Section,1,Add Restaurant Reviews,merged,0.455
+Pungent Smell,1,Stale Food,merged,0.365
+Quality Check Failure,1,Poor Packaging,merged,0.418
+Quality Dropped,1,Misleading Success Metrics,merged,0.489
+Quantity Issues,1,Items Out of Stock,merged,0.486
+Quitting The Service,1,Account Deletion Issue,merged,0.458
+Rain Charges,1,GST Charges,merged,0.357
+Rancid Eggs,1,Stale Food,merged,0.253
+Random Charges,1,Excessive Delivery Charge,merged,0.388
+Rating Manipulation Attempt,1,Misleading Success Metrics,merged,0.367
+Rating Not Possible,1,App Not Taking Issues Seriously,merged,0.384
+Ratings Manipulation Request,1,Misleading Success Metrics,merged,0.399
+Recording Not Allowed,1,App Not Taking Issues Seriously,merged,0.299
+Referral Code Not Visible,1,Inaccessible Invoice,merged,0.255
+Refund Amount Too Less,1,Discount Coupon Issue,merged,0.635
+Refund Delay,1,Refund Not Processed,merged,0.741
+Refund Issue,1,Refund Not Processed,merged,0.829
+Refund Needed,1,Refund Not Processed,merged,0.706
+Refund Not Available,1,Refund Not Processed,merged,0.835
+Refund Not Credited,1,Refund Not Processed,merged,0.798
+Refund Not Full,1,Refund Not Processed,merged,0.769
+Refund Not Given,1,Refund Not Processed,merged,0.854
+Refund Not Instant,1,Refund Not Processed,merged,0.764
+Refund Not Sufficient,1,Refund Not Processed,merged,0.797
+Refund Offered,1,Refund Not Processed,merged,0.674
+Refund Policy Not Provided,1,Cash On Delivery Not Available,merged,0.725
+Refund Process,1,Refund Not Processed,merged,0.834
+Refund Process Delayed,1,Refund Not Processed,merged,0.814
+Refund Process Slow,1,Refund Not Processed,merged,0.769
+Refund Processed After Cancellation,1,Refund Not Processed,merged,0.789
+Refund Promises,1,Refund Not Processed,merged,0.644
+Refund Request,1,Refund Not Processed,merged,0.749
+Refund Requested,1,Refund Not Processed,merged,0.705
+Refund Requested ASAP,1,Refund Not Processed,merged,0.696
+Refund Scam,1,Scam Attempt,merged,0.695
+Refund Status Unknown,1,Refund Not Processed,merged,0.763
+Refund Stuck,1,Refund Not Processed,merged,0.777
+Refunds Pending,1,Refund Not Processed,merged,0.751
+Refusal To Accept Mistake,1,Incorrect Order Status,merged,0.385
+Refusal To Cancel Order,1,Incorrect Order Status,merged,0.546
+Refusal To Refund,1,Refund Not Processed,merged,0.749
+Refusal To Replace,1,Scam Attempt,merged,0.375
+Refused Call Back,1,No Response From Swiggy,merged,0.396
+Reliability Issues,1,Insufficient Delivery Staff,merged,0.358
+Remove Simpl,1,More Chutney Needed,merged,0.162
+Removed Chat Feature,1,No Response From Swiggy,merged,0.175
+Removed Customer Support,1,Account Deletion Issue,merged,0.726
+Repeated Issues,1,App Not Taking Issues Seriously,merged,0.475
+Request for Correction,1,Incorrect Order Status,merged,0.396
+Request for Faster Delivery,1,Late Delivery,merged,0.624
+Responsibility Not Taken,1,Delivery Responsibility,merged,0.588
+Restaurant Better,1,Add Restaurant Reviews,merged,0.537
+Restaurant Cheats Customers,1,Rude Delivery Partner,merged,0.488
+Restaurant Cooperation Problem,1,Delivery Partner Switching,merged,0.476
+Restaurant Details,1,Stale Food,merged,0.578
+Restaurant Fault,1,Stale Food,merged,0.446
+Restaurant Food Quality,1,Stale Food,merged,0.617
+Restaurant Gets Low Rating,1,Add Restaurant Reviews,merged,0.604
+Restaurant Liability Issue,1,Inaccessible Invoice,merged,0.385
+Restaurant Not Available,1,Cash On Delivery Not Available,merged,0.525
+Restaurant Phone Switches Off,1,Delivery Partner Switching,merged,0.374
+Restaurant Policy Issue,1,Discount Coupon Issue,merged,0.507
+Restaurant Shows Closed,1,Stale Food,merged,0.451
+Return Order To Restaurant,1,Incorrect Order Status,merged,0.5
+Return Pickup Denied,1,Scam Attempt,merged,0.439
+Riders Close Radar,1,Incorrect Distance Display,merged,0.178
+Riders Keep Food,1,Stale Food,merged,0.423
+Ridiculous Charges,1,Excessive Delivery Charge,merged,0.459
+Ridiculous Notifications,1,App Not Taking Issues Seriously,merged,0.422
+Ridiculous Pricing,1,Excessive Delivery Charge,merged,0.442
+Rip Off Users,1,Scam Attempt,merged,0.387
+Robotic Customer Support,1,Unhelpful Customer Support,merged,0.621
+Robotic Support,1,Unhelpful Customer Support,merged,0.268
+Rotten Chicken,1,Stale Food,merged,0.487
+Rotten Onions,1,Stale Food,merged,0.428
+Rotten Vegetables,1,Stale Food,merged,0.53
+Rude Bot,1,Rude Delivery Partner,merged,0.418
+Rude Call Center Staff,1,Unhelpful Customer Support,merged,0.535
+Rude Customer Care Team,1,Unhelpful Customer Support,merged,0.607
+Rude Customer Executive,1,Unhelpful Customer Support,merged,0.666
+Rude Customer Policies,1,Rude Delivery Partner,merged,0.568
+Rude Customer Treatment,1,Unhelpful Customer Support,merged,0.618
+Rude Executive,1,Incompetent Manager,merged,0.586
+Rude Helpline Agents,1,Unhelpful Customer Support,merged,0.531
+Rude Policy Makers,1,Unhelpful Customer Support,merged,0.491
+Rude Staff,1,Rude Delivery Partner,merged,0.577
+Rude Support Agent,1,Unhelpful Customer Support,merged,0.601
+Rude User Experience,1,Unhelpful Customer Support,merged,0.481
+Safety Concern,1,Bad Experience While Traveling,merged,0.48
+Safety Issue,1,Bad Experience While Traveling,merged,0.391
+Scam,1,Scam Attempt,merged,0.867
+Scam Charges,1,Scam Attempt,merged,0.709
+Scam Company,1,Scam Attempt,merged,0.804
+Scam Membership,1,Scam Attempt,merged,0.714
+Scam Policy,1,Scam Attempt,merged,0.743
+Scam Practices,1,Scam Attempt,merged,0.74
+Scammed By Support,1,Scam Attempt,merged,0.698
+Scammed Many Times,1,Scam Attempt,merged,0.706
+Scammers,1,Scam Attempt,merged,0.712
+Scamming Customers,1,Scam Attempt,merged,0.716
+Scamming People,1,Scam Attempt,merged,0.762
+Scams from Company,1,Scam Attempt,merged,0.779
+Scattered Food,1,Poor Packaging,merged,0.531
+Scripted Chatbot,1,Copy Paste Answers,merged,0.211
+Scripted Replies,1,Copy Paste Answers,merged,0.301
+Security Breach,1,Account Hacked,merged,0.57
+Security Concern,1,Account Hacked,merged,0.412
+Service Needs Update,1,Incorrect Order Status,merged,0.398
+Service Not Available,1,Inaccessible Invoice,merged,0.38
+Service Not Good,1,Unhelpful Customer Support,merged,0.444
+Shameful Business Practice,1,Rude Delivery Partner,merged,0.407
+Shared Deliveries,1,Delivery Responsibility,merged,0.632
+Shifting Blame,1,Incompetent Manager,merged,0.312
+Shortage Of Delivery Boys,1,Insufficient Delivery Staff,merged,0.551
+SIM Card Problem,1,Poor Packaging,merged,0.268
+Simpl Payment Option Removed,1,Cash On Delivery Not Available,merged,0.4
+Simple Issues Not Resolved,1,App Not Taking Issues Seriously,merged,0.489
+Simplify Amount Page,1,Order Prices Update,merged,0.315
+Slow App,1,App Crashes At Checkout,merged,0.608
+Slow Customer Service,1,Unhelpful Customer Support,merged,0.521
+Slow Delivery System,1,Late Delivery,merged,0.626
+Slow Delivery Times,1,Late Delivery,merged,0.698
+Slow Order,1,Long Order Preparation Time,merged,0.547
+Slow Order Processing,1,Long Order Preparation Time,merged,0.526
+Slow Orders,1,Long Order Preparation Time,merged,0.559
+Slow Partner Assignment,1,Delivery Partner Switching,merged,0.4
+Slow Process,1,Long Order Preparation Time,merged,0.423
+Small App Size,1,App Crashes At Checkout,merged,0.353
+Small Close Button,1,Copy Paste Answers,merged,0.189
+Small Quantity,1,More Chutney Needed,merged,0.344
+Some Vegetables Not Available,1,Items Out of Stock,merged,0.344
+Sorting Options Missing,1,Address Selection Problem,merged,0.414
+Spoiled Food Order,1,Stale Food,merged,0.618
+Spoiled Ice Cream,1,Poor Packaging,merged,0.44
+Spoiled Items,1,Wrong Item Delivered,merged,0.4
+Stable Internet Connection,1,App Crashes At Checkout,merged,0.179
+Stale Chicken,1,Stale Food,merged,0.755
+Stale Old Products,1,Items Out of Stock,merged,0.675
+Standard Answers,1,Copy Paste Answers,merged,0.43
+Stolen Foods,1,Delivery Person Lost,merged,0.39
+Stolen Money,1,Scam Attempt,merged,0.465
+Store Closure Not Communicated,1,Items Out of Stock,merged,0.273
+Stuck Order Status,1,Incorrect Order Status,merged,0.827
+Stupid App,1,App Crashes At Checkout,merged,0.483
+Stupid Logic,1,Membership Not Beneficial,merged,0.225
+Subscription Issue,1,Membership Benefits Not Honored,merged,0.39
+Sudden Cancellation,1,Scam Attempt,merged,0.65
+Super Fast Deliveries,1,Excessive Delivery Charge,merged,0.58
+Support Blames Customer,1,Unhelpful Customer Support,merged,0.782
+Support Needs Improvement,1,Unhelpful Customer Support,merged,0.582
+Support Team Ineffective,1,Unhelpful Customer Support,merged,0.482
+Support Team Unhelpful,1,Unhelpful Customer Support,merged,0.604
+Surge Charges,1,Excessive Delivery Charge,merged,0.467
+Surge Issue,1,Excessive Delivery Charge,merged,0.334
+Swiggy Cancels Order,1,No Response From Swiggy,merged,0.604
+Swiggy Cheater,1,No Response From Swiggy,merged,0.655
+Swiggy Not Responding,1,No Response From Swiggy,merged,0.86
+Swiggy One Membership Issues,1,Membership Benefits Not Honored,merged,0.569
+Swiggy One Scam,1,Scam Attempt,merged,0.639
+Swiggy Scam,1,Scam Attempt,merged,0.671
+Swiggy Wallet Issue,1,LazyPay Account Linking Issue,merged,0.622
+Switch to Other Apps,1,Delivery Partner Switching,merged,0.433
+Switch to Zomato,1,App Not Taking Issues Seriously,merged,0.196
+Switching to Competitor,1,Delivery Partner Switching,merged,0.388
+Switching To Zomato,1,Delivery Partner Switching,merged,0.173
+System Change Request,1,App Name Change Request,merged,0.452
+Taste Issues,1,Poor Packaging,merged,0.391
+Tax Deduction,1,Refund Not Processed,merged,0.256
+Tax Fluctuation,1,Order Prices Update,merged,0.231
+Technical Issue,1,App Not Taking Issues Seriously,merged,0.436
+Temporary Unserviceable,1,Inaccessible Invoice,merged,0.382
+Terrible Customer Support,1,Unhelpful Customer Support,merged,0.749
+Terrible Experience,1,Bad Experience While Traveling,merged,0.509
+Terrible Service,1,Unhelpful Customer Support,merged,0.405
+Thieving Service,1,Scam Attempt,merged,0.508
+Third Class Burger,1,Rude Delivery Partner,merged,0.285
+Third Class Business,1,Rude Delivery Partner,merged,0.293
+Third Class Service,1,Rude Delivery Partner,merged,0.341
+Threatening Behavior,1,Rude Delivery Partner,merged,0.338
+Ticket Not Processed,1,Incorrect Order Status,merged,0.57
+Time Wasted Has No Value,1,Misleading Success Metrics,merged,0.289
+Timeline Manipulation,1,Dark Patterns,merged,0.215
+Timely Deliveries,1,Delivery Responsibility,merged,0.722
+Tofu Not Available,1,Items Out of Stock,merged,0.285
+Too Expensive,1,Excessive Delivery Charge,merged,0.367
+Too Many Login Attempts,1,Scam Attempt,merged,0.478
+Too Much Ads,1,Excessive Delivery Charge,merged,0.325
+Too Much Price Display,1,Incorrect Distance Display,merged,0.47
+Traffic Not Considered,1,Bad Experience While Traveling,merged,0.239
+Train Delivery Issue,1,Delivery Responsibility,merged,0.559
+Unacceptable Charges,1,Excessive Delivery Charge,merged,0.518
+Unacceptable Delivery Experience,1,Unacceptable Delivery Experience,new,0.633
+Unacceptable User Experience,1,Unhelpful Customer Support,merged,0.605
+Unaccountable Delivery Agency,1,Delivery Responsibility,merged,0.64
+Unacknowledged Email,1,Scam Attempt,merged,0.392
+Unassigned Delivery Boy,1,Delivery Person Lost,merged,0.582
+Unauthorized Access,1,Account Hacked,merged,0.551
+Unauthorized Order,1,Scam Attempt,merged,0.555
+Unavailability Of Support,1,Unhelpful Customer Support,merged,0.526
+Unavailable Customer Support,1,Inaccessible Invoice,merged,0.764
+Unavailable Customer Support Agents,1,Unhelpful Customer Support,merged,0.686
+Unavailable Item,1,Items Out of Stock,merged,0.501
+Unclear Delivery Status,1,Delivery Responsibility,merged,0.686
+Unclear Menu,1,Unclear Menu,new,0.289
+Unconsiderate Customer Service,1,Unhelpful Customer Support,merged,0.628
+Uncooked Food,1,Stale Food,merged,0.597
+Uncooperative Help Team,1,Unhelpful Customer Support,merged,0.419
+Undercooked Pizza,1,Unacceptable Delivery Experience,merged,0.3
+Unethical Instamart Service,1,Unacceptable Delivery Experience,merged,0.438
+Unexpected Charge Increase,1,Excessive Delivery Charge,merged,0.472
+Unexpected Charges,1,Excessive Delivery Charge,merged,0.499
+Unexpected Error,1,No Warning Provided,merged,0.343
+Unexpected Payment Increase,1,Order Prices Update,merged,0.471
+Unfair Advantage,1,Misleading Success Metrics,merged,0.361
+Unfair Business Practices,1,Misleading Success Metrics,merged,0.441
+Unfair Cancel Fee Policy,1,Cancellation Fee,merged,0.793
+Unfair Cancellation Charges,1,Cancellation Fee,merged,0.69
+Unfair Cancellation Fees,1,Cancellation Fee,merged,0.842
+Unfair Coupon Policy,1,Discount Coupon Issue,merged,0.64
+Unfair Distance Charge,1,Excessive Delivery Charge,merged,0.47
+Unfair Earnings Adjustment,1,Membership Benefits Not Honored,merged,0.316
+Unfair Fee Charges,1,GST Charges,merged,0.571
+Unfair Fines,1,Excessive Delivery Charge,merged,0.36
+Unfair Penalty,1,Cancellation Fee,merged,0.276
+Unfair Platform,1,Misleading Success Metrics,merged,0.32
+Unfair Platform Fees,1,Excessive Delivery Charge,merged,0.414
+Unfair Practices,1,Misleading Success Metrics,merged,0.383
+Unfair Rating System,1,Misleading Success Metrics,merged,0.345
+Unfair Refund Offer,1,Discount Coupon Issue,merged,0.624
+Unfair Service,1,Unhelpful Customer Support,merged,0.467
+Unfair Subscription Plans,1,Membership Not Beneficial,merged,0.424
+Unfair Tax Charges,1,GST Charges,merged,0.405
+Unfair Treatment,1,Membership Benefits Not Honored,merged,0.353
+Unfulfilled Compensation,1,Membership Benefits Not Honored,merged,0.345
+Unfulfilled Order,1,Incorrect Order Status,merged,0.569
+Ungrateful Behaviour,1,Rude Delivery Partner,merged,0.367
+Unhappy Experience,1,Unacceptable Delivery Experience,merged,0.454
+Unhelpful Agent,1,Unhelpful Customer Support,merged,0.445
+Unhelpful AI Support,1,Unhelpful Customer Support,merged,0.439
+Unhelpful App,1,Unhelpful Customer Support,merged,0.547
+Unhelpful Bot,1,Unhelpful Customer Support,merged,0.372
+Unhelpful Customer Executive,1,Unhelpful Customer Support,merged,0.743
+Unhelpful Customer Service,1,Unhelpful Customer Support,merged,0.855
+Unhelpful Help Section,1,Unhelpful Customer Support,merged,0.457
+Unhygienic Delivery Practices,1,Delivery Responsibility,merged,0.521
+Unimportant Customer,1,Unacceptable Delivery Experience,merged,0.727
+Uninstall App Suggested,1,App Name Change Request,merged,0.488
+Uninstall Requested,1,Account Deletion Issue,merged,0.338
+Uninstalled App,1,App Crashes At Checkout,merged,0.461
+Unintentional Order,1,Incorrect Order Status,merged,0.58
+Unjustified Pricing,1,Excessive Delivery Charge,merged,0.406
+Unmatched Rates,1,Excessive Delivery Charge,merged,0.308
+Unnecessary Call,1,App Not Taking Issues Seriously,merged,0.315
+Unnecessary Charges,1,Excessive Delivery Charge,merged,0.567
+Unnecessary Order Acceptance,1,Incorrect Order Status,merged,0.556
+Unnecessary Rain Fee,1,Excessive Delivery Charge,merged,0.48
+Unofficial Attitude,1,Unacceptable Delivery Experience,merged,0.276
+Unpaid Order,1,Incorrect Order Status,merged,0.475
+Unpleasant Experience,1,Unacceptable Delivery Experience,merged,0.529
+Unpopular App,1,App Crashes At Checkout,merged,0.563
+Unprofessional Customer Service,1,Unhelpful Customer Support,merged,0.718
+Unprofessional Customer Support,1,Unhelpful Customer Support,merged,0.846
+Unprofessional Platform,1,App Not Taking Issues Seriously,merged,0.487
+Unprofessional Service Provider,1,Unacceptable Delivery Experience,merged,0.615
+Unprofessional Staff,1,Rude Delivery Partner,merged,0.486
+Unreachable Customer Service,1,Inaccessible Invoice,merged,0.713
+Unreachable Delivery Partner,1,Insufficient Delivery Staff,merged,0.689
+Unrealistic Delivery Expectations,1,Unacceptable Delivery Experience,merged,0.637
+Unrealistic Preparation Time,1,Long Order Preparation Time,merged,0.729
+Unreasonable Delivery Time,1,Unacceptable Delivery Experience,merged,0.712
+Unreliable App Status,1,Incorrect Order Status,merged,0.7
+Unreliable Delivery Partners,1,Unacceptable Delivery Experience,merged,0.665
+Unreliable Delivery Times,1,Unacceptable Delivery Experience,merged,0.691
+Unreliable Notifications,1,No Warning Provided,merged,0.367
+Unreliable Order Delivery,1,Unacceptable Delivery Experience,merged,0.637
+Unreliable Services,1,Unacceptable Delivery Experience,merged,0.489
+Unreliable Support Team,1,Unhelpful Customer Support,merged,0.564
+Unresolved Complaints,1,App Not Taking Issues Seriously,merged,0.484
+Unresolved Customer Issues,1,Unacceptable Delivery Experience,merged,0.623
+Unresolved Issue,1,App Not Taking Issues Seriously,merged,0.324
+Unresponsive App,1,App Crashes At Checkout,merged,0.743
+Unresponsive Chat Bot,1,Unhelpful Customer Support,merged,0.35
+Unresponsive Chat Support,1,Unhelpful Customer Support,merged,0.488
+Unresponsive Helpline,1,Unhelpful Customer Support,merged,0.399
+Unresponsive Staff,1,Unhelpful Customer Support,merged,0.557
+Unresponsive Team,1,App Not Taking Issues Seriously,merged,0.38
+Unsatisfactory Refund Offer,1,Cancellation Fee,merged,0.645
+Unsatisfactory Refund Responses,1,Unhelpful Customer Support,merged,0.702
+Unsatisfactory Service Experience,1,Unacceptable Delivery Experience,merged,0.562
+Unstable Pricing,1,Unstable Pricing,new,0.51
+Untransparent Pricing Policy,1,Unstable Pricing,merged,0.54
+Untrustworthy Partner,1,Scam Attempt,merged,0.422
+Unusable Coupon,1,Discount Coupon Issue,merged,0.728
+Upselling Subscription,1,Scam Attempt,merged,0.364
+Urgency Not Considered,1,Unacceptable Delivery Experience,merged,0.379
+Urgent Delivery Denied,1,Unacceptable Delivery Experience,merged,0.58
+Useless AI Bot,1,Scam Attempt,merged,0.195
+Useless AI Bots,1,Dark Patterns,merged,0.177
+Useless Chat Option,1,Unclear Menu,merged,0.223
+Useless Coupon,1,Discount Coupon Issue,merged,0.611
+Useless Customer Care,1,Unhelpful Customer Support,merged,0.651
+Useless Help Center,1,Unhelpful Customer Support,merged,0.371
+Useless Priority Mode,1,App Not Taking Issues Seriously,merged,0.336
+Useless Subscription,1,Membership Not Beneficial,merged,0.479
+Useless Support System,1,Unhelpful Customer Support,merged,0.526
+Useless Virtual Agent,1,Unhelpful Customer Support,merged,0.269
+User Complaints,1,Unacceptable Delivery Experience,merged,0.44
+User Experience Problem,1,Unclear Menu,merged,0.414
+Vague Customer Care,1,Unhelpful Customer Support,merged,0.59
+Varying Charges,1,Excessive Delivery Charge,merged,0.375
+Vast Ice Cream,1,Stale Food,merged,0.27
+Veg Option Simplification,1,Unclear Menu,merged,0.176
+Vehicle Problem,1,Insufficient Delivery Staff,merged,0.313
+Verify Current Location,1,Bad Experience While Traveling,merged,0.267
+Violation of Customer Rights,1,Unacceptable Delivery Experience,merged,0.567
+Want to File RTI,1,Refund Not Processed,merged,0.18
+Warranty Not Processed,1,Incorrect Order Status,merged,0.594
+Waste App,1,Stale Food,merged,0.345
+Waste Cancellation Policy,1,Cancellation Fee,merged,0.519
+Waste Customer Service,1,Unhelpful Customer Support,merged,0.505
+Waste Feature,1,Unclear Menu,merged,0.232
+Waste Food,1,Stale Food,merged,0.611
+Waste of Order,1,Stale Food,merged,0.365
+Waste of Time and Money,1,Membership Not Beneficial,merged,0.336
+Wasted Time,1,No Warning Provided,merged,0.254
+Wednesday Offer Scam,1,Scam Attempt,merged,0.701
+Weight Mismatch,1,Wrong Item Delivered,merged,0.322
+Will Not Order Again,1,Incorrect Order Status,merged,0.547
+Will Not Use Again,1,Scam Attempt,merged,0.335
+Worms In Eggs,1,Poor Packaging,merged,0.352
+Worse Timings,1,Late Delivery,merged,0.326
+Worsening Service,1,Unacceptable Delivery Experience,merged,0.427
+Worsening Services,1,Unacceptable Delivery Experience,merged,0.438
+Worst App,1,App Crashes At Checkout,merged,0.482
+Worst App To Order Food,1,App Crashes At Checkout,merged,0.4
+Worst Cancellation Policy,1,Unacceptable Delivery Experience,merged,0.575
+Worst Delivery Experience,1,Unacceptable Delivery Experience,merged,0.836
+Worst Delivery Partners,1,Unacceptable Delivery Experience,merged,0.706
+Worst Delivery Person,1,Unacceptable Delivery Experience,merged,0.668
+Worst Food Quality,1,Stale Food,merged,0.518
+Worst Support,1,Unhelpful Customer Support,merged,0.46
+Worst Support System,1,Unhelpful Customer Support,merged,0.53
+Wrong Address Selected,1,Address Selection Problem,merged,0.665
+Wrong Contact Number,1,Incorrect Distance Display,merged,0.408
+Wrong Delivery Address,1,Wrong Item Delivered,merged,0.645
+Wrong Delivery Driver,1,Wrong Item Delivered,merged,0.593
+Wrong Delivery Information,1,Wrong Item Delivered,merged,0.748
+Wrong Food Delivered,1,Wrong Item Delivered,merged,0.677
+Wrong Food Items,1,Wrong Item Delivered,merged,0.56
+Wrong Food Order,1,Wrong Item Delivered,merged,0.564
+Wrong Gravy,1,Wrong Item Delivered,merged,0.344
+Wrong Hotel Recommendation,1,Bad Experience While Traveling,merged,0.353
+Wrong ID Used,1,Scam Attempt,merged,0.446
+Wrong Item Sent,1,Wrong Item Delivered,merged,0.695
+Wrong Items Delivered,1,Wrong Item Delivered,merged,0.948
+Wrong Location,1,Wrong Item Delivered,merged,0.443
+Wrong Or Missing Items,1,Wrong Item Delivered,merged,0.567
+Wrong Order Not Cancelled,1,Incorrect Order Status,merged,0.695
+Wrong Order Received,1,Wrong Item Delivered,merged,0.751
+Wrong Orders Delivered,1,Wrong Item Delivered,merged,0.773
+Wrong Product,1,Wrong Item Delivered,merged,0.535
+Wrong Product Sent,1,Wrong Item Delivered,merged,0.678
+Zero Response,1,No Response From Swiggy,merged,0.477
+Zomato Accepting Orders,1,Incorrect Order Status,merged,0.479
+Zomato Preference,1,Membership Not Beneficial,merged,0.192

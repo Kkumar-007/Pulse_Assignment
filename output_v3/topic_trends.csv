@@ -1,0 +1,527 @@
+topic,2025-10-01,2025-10-02,2025-10-03,2025-10-04,2025-10-05,2025-10-06,2025-10-07,2025-10-08,2025-10-09,total
+Late Delivery,44,65,40,34,51,39,42,44,28,387
+Poor Customer Support,19,33,20,20,22,23,12,17,16,182
+No Refund,15,21,18,21,20,23,16,18,18,170
+Order Cancellation,12,19,19,17,23,21,20,10,14,155
+Incorrect Order,12,21,11,9,16,7,7,10,9,102
+Unresponsive Support,3,12,3,8,13,4,10,6,9,68
+Missing Items,4,11,6,10,11,4,4,2,2,54
+Order Not Delivered,3,12,0,8,8,7,4,4,3,49
+Cancellation Fee Charged,7,8,7,4,2,3,5,6,6,48
+Delivery Partner Issue,4,8,2,2,7,7,12,3,3,48
+Long Wait Time,3,7,6,3,2,3,7,5,8,44
+Hidden Charges,1,5,5,4,7,5,5,3,8,43
+High Delivery Charges,3,4,3,4,4,2,5,4,6,35
+Payment Issues,1,7,7,3,3,5,4,2,3,35
+Incorrect Delivery Time Estimate,3,3,3,4,5,2,7,1,3,31
+No Response,3,2,6,1,4,5,0,3,6,30
+High Prices,5,6,5,1,3,2,3,2,3,30
+Cold Food,1,5,5,1,1,6,3,5,3,30
+Bad Food,2,3,4,3,5,1,4,0,2,24
+Delayed Service,1,2,2,2,2,6,3,3,2,23
+Coupon Not Applied,2,2,2,1,6,1,1,3,4,22
+Incorrect Delivery Location,1,3,5,1,0,1,1,3,3,18
+Incorrect Price,2,1,2,4,3,2,1,1,0,16
+Incorrect Address,2,5,1,1,1,0,2,4,0,16
+Extra Charge,4,2,1,1,1,1,2,2,1,15
+Refund Policy,3,0,0,1,4,2,1,3,0,14
+Poor Delivery Service,2,3,0,2,3,0,3,0,0,13
+No Customer Care Number,3,2,3,0,1,2,1,0,1,13
+Expired Products,1,1,4,2,1,1,0,2,1,13
+Delivery Scam,3,1,3,2,2,2,0,0,0,13
+Stale Food,0,1,1,1,2,2,1,0,3,11
+Rude Delivery Agents,0,0,1,2,3,2,1,1,1,11
+Misleading Discounts,1,2,0,0,2,1,3,0,2,11
+Ineffective Chatbot,1,1,0,0,2,1,1,4,1,11
+App Crashes,2,1,1,1,2,0,1,2,1,11
+Delivery Issues,4,1,1,1,0,3,0,0,1,11
+Poor Packaging,0,3,0,1,2,2,0,2,0,10
+Excessive Platform Fee,1,3,2,1,0,0,1,2,0,10
+Poor Service Quality,3,1,2,1,0,0,2,0,1,10
+Delivery Issue,1,0,2,1,1,1,1,3,0,10
+Difficulty Finding Restaurant,1,1,2,1,2,0,3,0,0,10
+Lack of Offers,0,1,0,2,4,0,3,0,0,10
+Delivery Time Increase,4,0,0,0,0,3,1,2,0,10
+Lack Of Updates,0,4,0,0,1,1,2,0,1,9
+GST Charges,2,2,2,1,0,0,1,1,0,9
+Fake Offers,1,1,3,0,0,0,1,1,2,9
+Fraudulent Practices,1,2,2,0,1,2,0,1,0,9
+Money Theft,2,3,1,1,0,1,0,0,1,9
+Food Quality Not Noted,1,1,1,0,0,2,2,0,1,8
+Abusive Delivery Boy,2,1,0,1,1,0,2,0,1,8
+Missing Cancel Option,1,2,0,0,0,2,1,2,0,8
+Food Not Prepared,0,3,0,1,1,2,0,0,1,8
+Damaged Products,1,0,0,1,2,1,1,1,1,8
+Faulty Food Orders,0,1,1,3,0,1,1,0,1,8
+Unresolved Complaints,1,0,0,0,1,1,2,1,2,8
+Contaminated Food,1,2,0,0,0,2,2,0,0,7
+Missing Cash Discount,1,1,1,0,2,0,1,0,1,7
+Unfair Refund Policy,1,1,0,1,2,2,0,0,0,7
+No Resolution,0,1,1,1,0,1,1,1,1,7
+Login Problem,0,1,1,2,2,0,0,0,1,7
+No Compensation,1,1,1,1,0,0,1,2,0,7
+Incorrect Distance Display,1,2,0,1,1,0,1,1,0,7
+Food Stolen,1,0,2,0,0,2,0,1,0,6
+False Advertising,2,0,2,0,0,1,1,0,0,6
+Rain Fee,2,0,0,2,0,0,1,0,1,6
+Bad Location Selection,1,0,1,1,1,1,1,0,0,6
+Fake Promises,0,1,0,1,0,1,1,0,2,6
+Incompetent Delivery Person,0,1,0,1,1,1,2,0,0,6
+Cash on Delivery Option,0,1,1,0,2,0,2,0,0,6
+Price Inflation,0,0,2,1,0,0,0,0,2,5
+Delivery Boy Ran Away,0,2,0,0,1,1,0,1,0,5
+Incorrect Live Location,0,1,0,3,1,0,0,0,0,5
+App Lags,1,2,0,1,0,0,0,0,1,5
+Food Out of Stock,0,1,0,1,0,1,0,2,0,5
+Inconsistent Menu Option,0,2,0,2,1,0,0,0,0,5
+Long Order Processing Time,1,0,0,1,1,1,0,0,1,5
+Incorrect Billing,0,0,2,0,0,0,2,1,0,5
+Incorrect Product Display,0,1,1,0,0,1,1,0,1,5
+Lack of Coupons,0,1,1,1,0,0,1,0,1,5
+Incorrect Wait Time,0,0,1,0,0,2,1,1,0,5
+Incorrect Shop Status,1,1,0,1,0,0,1,0,1,5
+Overcharging,0,0,1,0,1,1,0,1,1,5
+Miscommunication,0,0,0,2,1,1,1,0,0,5
+Customer Service Failure,2,0,1,0,0,0,0,0,2,5
+Broken Commitment Promise,1,1,1,0,1,0,1,0,0,5
+Missing Ice Cream,0,0,0,0,0,0,1,1,3,5
+Call Center No Response,1,0,0,1,1,1,1,0,0,5
+Delayed Food,0,1,0,0,0,0,1,1,2,5
+Wasted Time,0,1,0,0,1,1,0,1,0,4
+Lack Of Solution,0,0,1,0,2,0,1,0,0,4
+Irresponsive Customer Care,0,0,2,1,1,0,0,0,0,4
+Broken Help Section,0,1,0,0,0,3,0,0,0,4
+Cash Back Not Received,0,2,0,0,0,0,2,0,0,4
+Food Delivery Issues,0,1,1,1,0,1,0,0,0,4
+Unresolved Complaint,0,0,0,1,0,2,0,0,1,4
+App Uninstallation,0,0,0,2,0,0,0,1,1,4
+No Replacement,0,0,1,0,1,1,0,0,1,4
+No Cash on Delivery,0,0,2,0,0,0,1,0,1,4
+Delivery Agent Unavailability,1,0,1,0,0,0,0,1,1,4
+Delivery Guy Doesn't Pickup,0,1,0,0,0,1,0,2,0,4
+Forced Rating,0,1,2,0,0,1,0,0,0,4
+Clustering Orders,0,0,1,0,0,2,0,0,1,4
+Restaurant Handling Issues,0,1,1,0,0,1,0,1,0,4
+Fraudulent Order Listing,1,0,1,0,1,0,0,1,0,4
+Lack of Quality Control,1,2,0,0,0,0,1,0,0,4
+Blame Shifting,1,0,0,0,1,0,0,0,2,4
+Unresolved Issues,1,1,1,1,0,0,0,0,0,4
+Delayed Resolution,1,1,0,1,0,0,1,0,0,4
+Lack of Tracking Facility,0,1,0,1,1,0,1,0,0,4
+Order Amount Error,0,0,0,1,1,0,0,2,0,4
+Pathetic Support Team,1,0,1,0,1,0,0,1,0,4
+Slow Delivery System,0,2,0,1,0,0,0,1,0,4
+Too Many Ads,0,1,1,1,0,0,0,1,0,4
+Non-Existent Support,2,0,0,0,1,0,1,0,0,4
+Lack of Human Support,1,0,0,1,0,0,1,0,0,3
+Surge Charges,0,0,1,0,1,1,0,0,0,3
+Misleading Membership Offer,0,1,0,1,0,0,0,1,0,3
+Incorrect Stock Listing,0,0,2,1,0,0,0,0,0,3
+Timely Delivery,0,0,1,0,0,1,0,1,0,3
+Late Night Fee,0,0,1,0,1,1,0,0,0,3
+Advance Payment Scam,0,1,0,0,1,0,0,1,0,3
+Customer Care,0,1,0,0,0,2,0,0,0,3
+Unfair Pricing,0,1,0,0,0,0,0,1,1,3
+Financial Loss,0,1,1,1,0,0,0,0,0,3
+Late Order Assignment,0,0,2,0,0,0,0,1,0,3
+Lack of Professionalism,0,1,0,0,1,1,0,0,0,3
+Wrong Item Sent,0,0,0,1,0,2,0,0,0,3
+Inconsistent Partner Policy,0,0,1,1,0,0,0,1,0,3
+Insufficient Quantity,0,2,0,0,1,0,0,0,0,3
+Abusive Behaviour,0,0,2,1,0,0,0,0,0,3
+Incorrect Restaurant Timings,0,0,1,0,0,0,1,1,0,3
+Rude Support Staff,0,0,0,1,0,0,1,1,0,3
+Exorbitant Prices,1,0,0,0,1,1,0,0,0,3
+Excessive Penalty Charge,0,0,0,0,0,1,1,1,0,3
+Abandoned Call,0,0,0,0,1,0,1,1,0,3
+Irritating Notifications,0,0,0,0,1,0,1,0,1,3
+App Cheats Customers,1,0,0,0,1,1,0,0,0,3
+Unresolved Issue,1,1,0,0,0,0,1,0,0,3
+False Information,0,0,0,2,0,0,1,0,0,3
+Lack of Action,1,1,0,0,0,0,0,0,1,3
+Forced Acceptance,1,0,1,0,0,0,0,1,0,3
+Cheating,2,0,0,0,0,0,1,0,0,3
+Unaccepted Payment Method,1,0,0,1,0,1,0,0,0,3
+Search Bar Bug,0,0,0,0,0,0,3,0,0,3
+Multiple Orders Delivered,1,0,1,0,0,0,0,1,0,3
+Membership Loss,0,0,0,0,0,0,2,0,1,3
+Closed Helpline,0,0,0,0,0,0,1,0,2,3
+Company Fraud,0,0,0,0,1,0,1,0,1,3
+Order Cancellation Policy,1,0,0,0,0,0,0,1,1,3
+Misleading Timeline,1,0,0,0,1,1,0,0,0,3
+No Return Policy,1,1,0,0,0,1,0,0,0,3
+Bad Language Used,0,0,0,0,0,0,0,2,0,2
+Multiple Unnecessary Calls,0,0,0,0,0,0,1,0,1,2
+Lost Food Value,1,0,0,0,1,0,0,0,0,2
+Lack of Responsibility,1,0,0,0,1,0,0,0,0,2
+Lack of Accountability,2,0,0,0,0,0,0,0,0,2
+Incorrect Delivery Prioritization,2,0,0,0,0,0,0,0,0,2
+Partner Assignment Delay,0,0,0,0,0,0,0,2,0,2
+Unfair Conditions,1,0,1,0,0,0,0,0,0,2
+Delivery Boy Response,0,0,0,0,0,0,1,0,1,2
+Inconsistent Charges Across Phones,1,0,0,0,0,0,0,0,1,2
+Unanswered Support Emails,1,1,0,0,0,0,0,0,0,2
+Duplicate Options,0,0,0,0,0,0,0,0,2,2
+Poor Service Experience,0,0,0,0,0,0,0,2,0,2
+Insect in Food,0,0,0,0,0,2,0,0,0,2
+Distracting Pop-Ups,0,0,0,0,1,0,1,0,0,2
+Incorrect Availability,0,0,0,0,0,1,1,0,0,2
+Lack of Delivery Executives,0,0,0,0,0,2,0,0,0,2
+Ignored Pre-Cooking Instructions,1,0,0,0,0,0,1,0,0,2
+Email System Fails,1,0,0,0,0,1,0,0,0,2
+Misstated Policy,2,0,0,0,0,0,0,0,0,2
+Scam App,0,0,0,0,1,0,1,0,0,2
+Delivery Boys Eat Food,1,0,0,1,0,0,0,0,0,2
+Compatibility Issues,0,0,0,0,1,0,0,0,1,2
+Lower Prices Offered,0,0,0,0,2,0,0,0,0,2
+Undelivered Orders,1,0,0,1,0,0,0,0,0,2
+Robotic Support,0,1,0,0,1,0,0,0,0,2
+Multiple Deliveries Clubbed,0,1,0,0,1,0,0,0,0,2
+Price Hike Surprise,0,1,0,1,0,0,0,0,0,2
+Miscommunication Between Partner And Restaurant,0,0,0,1,1,0,0,0,0,2
+Rotten Chicken,0,0,0,1,1,0,0,0,0,2
+Missing Pancakes,0,0,0,2,0,0,0,0,0,2
+Account Compromise,0,0,0,1,0,1,0,0,0,2
+No Agent Support,0,0,0,1,0,1,0,0,0,2
+Rider Misbehaviour,0,0,0,1,0,1,0,0,0,2
+Restaurant Phone Not Picked Up,0,0,0,0,1,1,0,0,0,2
+Customer Care Shouting,1,0,0,0,1,0,0,0,0,2
+Careless Attitude,1,0,0,0,0,0,1,0,0,2
+Advance Ordering Feature,1,0,0,0,0,0,0,0,1,2
+Bad Return Policy,1,1,0,0,0,0,0,0,0,2
+Lack of Transparency,0,0,0,0,1,0,0,0,1,2
+Insufficient Funds,0,0,0,0,2,0,0,0,0,2
+Agent Response,0,0,0,0,1,0,0,0,1,2
+App Not Downloading,0,0,0,0,1,1,0,0,0,2
+Missing Option,0,0,0,0,1,0,0,0,1,2
+Non-Functional Help Chat,0,0,0,0,1,0,0,0,1,2
+High Tax,0,0,0,1,0,0,1,0,0,2
+Double Deduction,0,0,0,1,0,1,0,0,0,2
+Money Wasted,0,0,0,2,0,0,0,0,0,2
+Early Payment Request,0,0,0,1,0,1,0,0,0,2
+False Priority Treatment,0,0,1,0,0,0,0,0,1,2
+Missing Gravy,0,0,1,0,0,1,0,0,0,2
+Partner Not Available,0,0,0,1,0,0,0,1,0,2
+Incorrect Change,0,0,0,1,1,0,0,0,0,2
+Glitch in Application,0,0,0,1,0,0,0,1,0,2
+Lack of Reasonable Preparation Time,0,0,1,0,0,0,0,0,1,2
+Lack Of Communication,0,0,1,1,0,0,0,0,0,2
+Copy Paste Answers,0,2,0,0,0,0,0,0,0,2
+Demand Money Again,0,1,0,0,1,0,0,0,0,2
+Fake App,0,1,0,0,0,1,0,0,0,2
+Stuck Timer,0,0,1,0,0,0,0,1,0,2
+Incorrect Cake,0,0,1,0,0,0,0,0,1,2
+Driver Assignment Delay,0,0,1,0,0,0,0,1,0,2
+Poor Interface,0,0,1,1,0,0,0,0,0,2
+Incorrect Status Update,0,0,1,1,0,0,0,0,0,2
+Poor AI,0,0,1,0,0,0,0,0,1,2
+Inaccurate Map,0,1,0,0,0,0,0,1,0,2
+No Direct Contact,0,1,0,1,0,0,0,0,0,2
+Poor Assistance,0,1,1,0,0,0,0,0,0,2
+Support Team Response,0,0,1,1,0,0,0,0,0,2
+Unexpected Error,0,0,1,1,0,0,0,0,0,2
+Unfair Cancellation Policy,0,1,0,0,0,0,0,0,1,2
+Incorrect Weather Forecast,0,0,2,0,0,0,0,0,0,2
+Infinite Loop of Delivery,0,2,0,0,0,0,0,0,0,2
+Order On Hold,0,1,0,0,0,0,0,1,0,2
+Multiple Orders,0,0,1,0,1,0,0,0,0,2
+Account Linking Problem,0,0,1,0,0,1,0,0,0,2
+Automatic Debit Issue,0,0,1,0,0,0,0,1,0,2
+No Complaint Mechanism,0,0,1,1,0,0,0,0,0,2
+Lack of Credible Notifications,0,0,1,0,0,0,0,0,1,2
+Customer Contact Removed,0,1,0,0,0,0,0,1,0,2
+Fraudulent Company,0,1,0,1,0,0,0,0,0,2
+Missing Bill,0,1,0,0,0,0,1,0,0,2
+Excuses Given,0,1,0,0,0,0,0,1,0,2
+Inefficient Support Process,0,1,0,0,0,0,0,1,0,2
+Distance-Based Charges,0,1,0,0,0,0,0,1,0,2
+Incorrect Store Selection,0,0,0,0,0,0,0,2,0,2
+No Service Provided,0,0,0,0,0,0,0,0,2,2
+Food Quantity,1,0,0,1,0,0,0,0,0,2
+Delivery Person Overload,1,0,0,0,0,0,0,0,1,2
+Ticket System Failure,0,0,0,0,0,0,0,0,1,1
+Incorrect Route Taken,1,0,0,0,0,0,0,0,0,1
+Automatic COD Conversion,1,0,0,0,0,0,0,0,0,1
+Worst Customer Care,1,0,0,0,0,0,0,0,0,1
+Working Webpage,0,0,0,0,0,0,0,1,0,1
+Abusive Agent,0,0,0,0,0,0,0,1,0,1
+Pay Later App Issue,0,0,0,0,0,0,0,1,0,1
+Multiple Orders Picked Up at Once,0,0,0,0,0,0,0,1,0,1
+Cost Cutting,0,0,0,0,0,0,0,1,0,1
+Lack Of Follow Up,0,0,0,0,0,0,0,1,0,1
+Missing Dosa,0,0,0,0,0,0,0,1,0,1
+Worst Cancellation Policy,0,0,0,0,0,0,0,1,0,1
+Scattered Food,0,0,0,0,0,0,0,1,0,1
+Order Price Updates,0,0,0,0,0,0,0,1,0,1
+Rapid Preparation Time,0,0,0,0,0,0,0,1,0,1
+Useless App,0,0,0,0,0,0,0,1,0,1
+Payment Options Limited,0,0,0,0,0,0,0,1,0,1
+Helpful Support,0,0,0,0,0,0,0,1,0,1
+Lack of Store Hours Update,0,0,0,0,0,0,0,1,0,1
+Unbothered Consaltancy Agents,0,0,0,0,0,0,0,1,0,1
+Unhelpful Swiggy Team,0,0,0,0,0,0,0,1,0,1
+No Customer Executive Available,0,0,0,0,0,0,0,1,0,1
+Time Extension,0,0,0,0,0,0,0,1,0,1
+Charging Full Amount,0,0,0,0,0,0,0,1,0,1
+Lack of Personalization,0,0,0,0,0,0,0,1,0,1
+Fake Service,0,0,0,0,0,0,0,0,1,1
+Lack of Courtesies,0,0,0,0,0,0,0,0,1,1
+Lack Of Design,0,0,0,0,0,0,0,0,1,1
+Ungrateful Behaviour,0,0,0,0,0,0,0,0,1,1
+Spoiled Biryani,0,0,0,0,0,0,0,0,1,1
+Ads on Delivery Status,0,0,0,0,0,0,1,0,0,1
+App Navigation Issues,0,0,0,0,0,0,1,0,0,1
+App Heating Issue,0,0,0,0,0,0,1,0,0,1
+Poor Management,0,0,0,0,0,0,1,0,0,1
+Missing Main Course,0,0,0,0,0,0,1,0,0,1
+Lack Of Variety,0,0,0,0,0,0,1,0,0,1
+Inadequate Change Facility,0,0,0,0,0,0,1,0,0,1
+System Change Requirement,0,0,0,0,0,0,1,0,0,1
+Security Concerns,1,0,0,0,0,0,0,0,0,1
+Prioritizing Profits Over Health,1,0,0,0,0,0,0,0,0,1
+Missing Chutney,1,0,0,0,0,0,0,0,0,1
+Area Coverage,1,0,0,0,0,0,0,0,0,1
+Unfair Membership Fees,1,0,0,0,0,0,0,0,0,1
+Poor Address Highlighting,1,0,0,0,0,0,0,0,0,1
+High GST Charges,1,0,0,0,0,0,0,0,0,1
+Inadequate Customer Compensation,0,0,0,0,0,0,1,0,0,1
+Cart Weight Limit,0,0,0,0,0,0,1,0,0,1
+Non-Received Invoice,0,0,0,0,0,0,1,0,0,1
+Misleading Demand Statement,0,0,0,0,0,0,1,0,0,1
+GST Fraud,0,0,0,0,0,0,1,0,0,1
+Missing Non-Veg Filter,0,0,0,0,0,0,1,0,0,1
+Referral Code Visibility,0,0,0,0,0,0,1,0,0,1
+Misleading App Name,0,0,0,0,0,0,1,0,0,1
+Greediness,0,0,0,0,0,0,1,0,0,1
+Session Closure,0,0,0,0,0,0,1,0,0,1
+Vehicle Problem,0,0,0,0,0,0,1,0,0,1
+Restaurant Service Quality,0,0,0,0,0,0,1,0,0,1
+Minimum Cart Value,0,0,0,0,0,0,1,0,0,1
+Incorrect Service Area,0,0,0,0,0,0,1,0,0,1
+Disregard for Customer,0,0,0,0,0,0,1,0,0,1
+Impossible Black Membership Cancellation,0,0,0,0,0,0,1,0,0,1
+Deception,0,0,0,0,0,0,1,0,0,1
+Trash Level Service,0,1,0,0,0,0,0,0,0,1
+Poor User Experience,0,1,0,0,0,0,0,0,0,1
+High Service Rates,0,1,0,0,0,0,0,0,0,1
+Temporary Service Issues,0,1,0,0,0,0,0,0,0,1
+Failed Issue Resolution,0,1,0,0,0,0,0,0,0,1
+Useless Subscription,0,0,1,0,0,0,0,0,0,1
+Customer Problem Resolution,0,0,1,0,0,0,0,0,0,1
+Poor Suggestion,0,0,1,0,0,0,0,0,0,1
+No Customer Satisfaction,0,1,0,0,0,0,0,0,0,1
+Offer Reduction,0,1,0,0,0,0,0,0,0,1
+Lack of Service Improvement,0,1,0,0,0,0,0,0,0,1
+No Waterproof Bags,0,1,0,0,0,0,0,0,0,1
+Price Fluctuation,0,1,0,0,0,0,0,0,0,1
+Store Unavailability,0,1,0,0,0,0,0,0,0,1
+Hidden Favourites Button,0,1,0,0,0,0,0,0,0,1
+Poor Quality App,0,1,0,0,0,0,0,0,0,1
+No Immediate Help,0,0,1,0,0,0,0,0,0,1
+Messy Items,0,0,1,0,0,0,0,0,0,1
+Uncompetitive Rates,0,1,0,0,0,0,0,0,0,1
+Fake Apology,0,1,0,0,0,0,0,0,0,1
+Aggressive Delivery,0,1,0,0,0,0,0,0,0,1
+Riders Keep Food,0,1,0,0,0,0,0,0,0,1
+Bad Food Taste,0,1,0,0,0,0,0,0,0,1
+Damaged Icecreams,0,1,0,0,0,0,0,0,0,1
+No Reason Given,0,0,1,0,0,0,0,0,0,1
+Ambiguity,0,0,1,0,0,0,0,0,0,1
+No Image Upload,0,0,1,0,0,0,0,0,0,1
+Poor Vendor Coordination,0,0,1,0,0,0,0,0,0,1
+Broken Bike,0,0,1,0,0,0,0,0,0,1
+Useless Bot,0,0,1,0,0,0,0,0,0,1
+Unexplained Removal,0,0,1,0,0,0,0,0,0,1
+Falsely Marked Delivered,0,0,1,0,0,0,0,0,0,1
+Demand and Delay,0,1,0,0,0,0,0,0,0,1
+Address Addition Delay,0,1,0,0,0,0,0,0,0,1
+Fake Vouchers,0,1,0,0,0,0,0,0,0,1
+Conning People,0,1,0,0,0,0,0,0,0,1
+Fake Restaurants,0,0,0,1,0,0,0,0,0,1
+No Stock,0,0,0,1,0,0,0,0,0,1
+Poor Customer Understanding,0,0,0,1,0,0,0,0,0,1
+Unfair Practices,0,0,0,1,0,0,0,0,0,1
+Money-Driven,0,1,0,0,0,0,0,0,0,1
+Inhuman Restaurant Owners,0,1,0,0,0,0,0,0,0,1
+Unrealistic Time Display,0,1,0,0,0,0,0,0,0,1
+Third Party Involvement,0,1,0,0,0,0,0,0,0,1
+Missing Photo Sharing Option,0,1,0,0,0,0,0,0,0,1
+One-Sided Rules,0,1,0,0,0,0,0,0,0,1
+Lack of Consideration for Travel Time,0,1,0,0,0,0,0,0,0,1
+Portal Order Status Inaccurate,0,1,0,0,0,0,0,0,0,1
+Fake Hotels,0,0,0,1,0,0,0,0,0,1
+Fake Price Display,0,0,0,1,0,0,0,0,0,1
+Lack of Customer Retention,0,0,0,1,0,0,0,0,0,1
+Refusal to Call Back,0,0,0,1,0,0,0,0,0,1
+Lack of Control,0,0,0,1,0,0,0,0,0,1
+No Meaning,1,0,0,0,0,0,0,0,0,1
+Poor Presentation,0,1,0,0,0,0,0,0,0,1
+Drunk Delivery People,0,1,0,0,0,0,0,0,0,1
+Fake Assurance,0,0,0,1,0,0,0,0,0,1
+Company Reputation,0,0,0,1,0,0,0,0,0,1
+Defective Power Bank,0,0,0,1,0,0,0,0,0,1
+Misrepresented Capacity,0,0,0,1,0,0,0,0,0,1
+Lack of Value,0,0,0,1,0,0,0,0,0,1
+Missing Cooking Request Status,0,0,0,1,0,0,0,0,0,1
+Cheating by Swiggy,0,0,0,1,0,0,0,0,0,1
+Repeated Problem,0,0,0,1,0,0,0,0,0,1
+Customer Suffering,0,0,0,0,1,0,0,0,0,1
+Vegetable Availability Issue,0,0,0,0,1,0,0,0,0,1
+Lack of Inquiry Numbers,0,0,0,0,1,0,0,0,0,1
+SIM Card Problem,0,0,0,0,1,0,0,0,0,1
+Lack of Halal Certification,0,0,0,0,1,0,0,0,0,1
+Packing Rate Varies,0,0,0,0,1,0,0,0,0,1
+Money Taken,0,0,0,0,1,0,0,0,0,1
+Promotional Notifications,0,0,0,0,1,0,0,0,0,1
+Scamming Customers,1,0,0,0,0,0,0,0,0,1
+Unaffordable for Workers,1,0,0,0,0,0,0,0,0,1
+Unused Gift Balance,1,0,0,0,0,0,0,0,0,1
+Long Wait Time for Nearby Restaurant,1,0,0,0,0,0,0,0,0,1
+Developer Logic,1,0,0,0,0,0,0,0,0,1
+Money Not Credited,1,0,0,0,0,0,0,0,0,1
+No Rider Available,1,0,0,0,0,0,0,0,0,1
+Exploitative,0,0,0,0,1,0,0,0,0,1
+Block Screen,0,0,0,1,0,0,0,0,0,1
+Recording Not Allowed,0,0,0,0,1,0,0,0,0,1
+Menu Not Opening,0,0,0,0,1,0,0,0,0,1
+Lack of Time Compensation,0,0,0,0,1,0,0,0,0,1
+Fungus in Cashew Nuts,0,0,0,0,1,0,0,0,0,1
+Zero Commitment for Delivery Time,0,0,0,0,1,0,0,0,0,1
+Late Night Restaurant Availability,0,0,0,0,1,0,0,0,0,1
+Missing Public Review Section,0,0,0,0,1,0,0,0,0,1
+Missing Gift Card Details,0,0,0,1,0,0,0,0,0,1
+Safety Concerns,0,0,0,1,0,0,0,0,0,1
+Weight Shortage,0,0,0,1,0,0,0,0,0,1
+Unauthorized Access,0,0,0,1,0,0,0,0,0,1
+Connection Error,0,0,0,1,0,0,0,0,0,1
+Missing Burger,0,0,0,1,0,0,0,0,0,1
+Long Hold Times,0,0,0,1,0,0,0,0,0,1
+Trick Users,0,0,0,1,0,0,0,0,0,1
+Scam,0,0,0,0,0,1,0,0,0,1
+Small Portion Size,0,0,0,0,0,1,0,0,0,1
+Spoiled Items,0,0,0,0,0,1,0,0,0,1
+Irresponsible Service,0,0,0,0,0,1,0,0,0,1
+Foreign Object,0,0,0,0,0,1,0,0,0,1
+Missing Balance,0,0,0,0,0,1,0,0,0,1
+Email Support,0,0,0,0,0,1,0,0,0,1
+Unstable GST,0,0,0,0,0,1,0,0,0,1
+Mixed Customer Service,0,0,0,0,1,0,0,0,0,1
+Return Pickup Denied,0,0,0,0,1,0,0,0,0,1
+Upselling Pressure,0,0,0,0,1,0,0,0,0,1
+Poor Acknowledgement,0,0,0,0,1,0,0,0,0,1
+Poor Staff,0,0,0,0,1,0,0,0,0,1
+Cut Off Call,0,0,0,0,1,0,0,0,0,1
+Predefined Answers,0,0,0,0,1,0,0,0,0,1
+Missing Customer Ratings,0,0,0,0,1,0,0,0,0,1
+Delivery Person's Behavior,0,0,0,0,1,0,0,0,0,1
+Lack of Training,0,0,0,0,1,0,0,0,0,1
+Bad Burger Quality,0,0,0,0,1,0,0,0,0,1
+Lack of Trust,0,0,0,0,1,0,0,0,0,1
+Waste of Express Service,0,0,0,0,1,0,0,0,0,1
+Safety Policy Lack,0,0,0,0,1,0,0,0,0,1
+Small App Size,0,0,0,0,1,0,0,0,0,1
+Lack of Privileges,0,0,0,0,1,0,0,0,0,1
+Damage to Order,0,0,0,0,1,0,0,0,0,1
+Reputation Damage,0,0,0,0,1,0,0,0,0,1
+Cracked Eggs,0,0,0,0,1,0,0,0,0,1
+Worms in Eggs,0,0,0,0,1,0,0,0,0,1
+App Not Showing Offers,0,0,0,0,1,0,0,0,0,1
+No Exchange,0,0,0,0,1,0,0,0,0,1
+Reduced Partners,0,0,0,0,1,0,0,0,0,1
+Poor AI Support,0,0,0,0,1,0,0,0,0,1
+Food Taken Without Payment,0,0,0,0,0,1,0,0,0,1
+Unfair Labor Practices,0,0,0,0,0,1,0,0,0,1
+Uncredited Payment,0,0,0,0,0,1,0,0,0,1
+Late Night Ordering,0,0,0,0,0,1,0,0,0,1
+Incorrect Preparation,0,0,0,0,0,1,0,0,0,1
+Hungry Delivery Partner,0,0,0,0,0,1,0,0,0,1
+Uncompetitive Service,0,0,0,0,0,1,0,0,0,1
+App Quality,0,0,0,0,0,1,0,0,0,1
+Unfair Earnings Adjustment,1,0,0,0,0,0,0,0,0,1
+Misleading Financial Information,1,0,0,0,0,0,0,0,0,1
+Broken On-Time Guarantee,1,0,0,0,0,0,0,0,0,1
+Ineffective Problem Solving,1,0,0,0,0,0,0,0,0,1
+Fraud Service,1,0,0,0,0,0,0,0,0,1
+No Time Limits Cancellation,0,0,0,0,0,1,0,0,0,1
+Swiggy Money Expired,0,0,0,0,0,1,0,0,0,1
+Dirty Package,0,0,0,0,0,1,0,0,0,1
+Removed Chat Feature,1,0,0,0,0,0,0,0,0,1
+Order ID Request,1,0,0,0,0,0,0,0,0,1
+High Instamart Fees,1,0,0,0,0,0,0,0,0,1
+Far Delivery Outlet,1,0,0,0,0,0,0,0,0,1
+Customer Non-Friendly Policies,1,0,0,0,0,0,0,0,0,1
+Adamant Attitude,1,0,0,0,0,0,0,0,0,1
+Auto Refresh Bug,1,0,0,0,0,0,0,0,0,1
+Restart Search Problem,1,0,0,0,0,0,0,0,0,1
+Fresh Food,0,0,0,0,0,1,0,0,0,1
+Incorrect Dispatch Information,0,0,0,0,0,1,0,0,0,1
+Account Blocked,0,0,0,0,0,1,0,0,0,1
+FSSAI Complaints,0,0,0,0,0,1,0,0,0,1
+Loss of Trust,0,0,0,0,0,1,0,0,0,1
+Train Delivery Option,0,0,0,0,0,1,0,0,0,1
+Station Exit Requirement,0,0,0,0,0,1,0,0,0,1
+Bolt Feature Fraud,0,0,0,0,0,1,0,0,0,1
+Account Suspension,0,0,0,0,0,0,0,0,1,1
+Slow Process,0,0,0,0,0,0,0,0,1,1
+Toy Not Working Properly,0,0,0,0,0,0,0,0,1,1
+Unhealthy Food Options,0,0,0,0,0,0,0,0,1,1
+No Provision of Extras,0,0,0,0,0,0,0,0,1,1
+Unfair Comparison,0,0,0,0,0,0,0,0,1,1
+No Rider Assignment Solution,0,0,0,0,0,0,0,0,1,1
+Unhelpful Response,0,0,0,0,0,0,0,0,1,1
+Lack of Human Touch,0,0,0,0,0,0,0,1,0,1
+Lack Of Responsibilities,0,0,0,0,0,0,0,1,0,1
+Proper Customer Service,0,0,0,0,0,0,0,1,0,1
+Insufficient Manpower,1,0,0,0,0,0,0,0,0,1
+Payment Deduction Without Consent,0,0,0,0,0,0,0,0,1,1
+Image Zooming Issue,0,0,0,0,0,0,0,0,1,1
+Missing Eatlists,0,0,0,0,0,0,0,0,1,1
+Frequent Updates,0,0,0,0,0,0,0,0,1,1
+Drunk Riders,0,0,0,0,0,0,1,0,0,1
+Dirty Delivery Associate,0,0,0,0,0,0,0,1,0,1
+Customer Support Jamming,0,0,0,0,0,0,0,1,0,1
+Worst Delivery Experience,0,0,0,0,0,0,0,1,0,1
+Incorrect Time Update,0,0,0,0,0,0,0,1,0,1
+Wrong Hotel Recommendation,0,0,0,0,0,0,0,1,0,1
+No Value,0,0,0,0,0,0,0,1,0,1
+Getting Lost,0,0,0,0,0,0,0,1,0,1
+Inconsiderate Policies,0,0,0,0,0,0,1,0,0,1
+Food Delivery,0,0,0,0,0,0,1,0,0,1
+Mismatched Rates,0,0,0,0,0,0,1,0,0,1
+Zomato Competitor Advantage,0,0,0,0,0,0,1,0,0,1
+Burnt Roti,0,0,0,0,0,0,1,0,0,1
+Lack of Trustworthiness,0,0,0,0,0,0,1,0,0,1
+Bad SOPs,0,0,0,0,0,0,1,0,0,1
+Ineffective Feedback Mechanism,0,0,0,0,0,0,1,0,0,1
+Deny Camera Footage,0,1,0,0,0,0,0,0,0,1
+Punctured Bike,0,1,0,0,0,0,0,0,0,1
+Defective Product Pickup,0,1,0,0,0,0,0,0,0,1
+Restaurant Details,0,0,1,0,0,0,0,0,0,1
+Order Modification Calls,0,0,1,0,0,0,0,0,0,1
+Unjustified Reasons,0,0,1,0,0,0,0,0,0,1
+Overpriced Food,0,0,1,0,0,0,0,0,0,1
+Fungal Contamination,0,0,1,0,0,0,0,0,0,1
+Inequitable Treatment of Loyal Customers,0,0,1,0,0,0,0,0,0,1
+Double Standard,0,1,0,0,0,0,0,0,0,1
+Multi Cart Option,0,1,0,0,0,0,0,0,0,1
+Every Order Has Issues,0,1,0,0,0,0,0,0,0,1
+No Black Invite,0,1,0,0,0,0,0,0,0,1
+Forced Add-Ons,0,1,0,0,0,0,0,0,0,1
+Excessive MSG,0,1,0,0,0,0,0,0,0,1
+Excessive Oiliness,0,1,0,0,0,0,0,0,0,1
+Overpriced Golden Membership,0,0,1,0,0,0,0,0,0,1
+Company Help,0,0,1,0,0,0,0,0,0,1
+Undercooked Pizza,0,0,1,0,0,0,0,0,0,1
+Incorrect Replies,0,0,1,0,0,0,0,0,0,1
+Old Number Requirement,0,0,1,0,0,0,0,0,0,1
+Refusal To Replace,0,0,1,0,0,0,0,0,0,1
+Alternate Dish Not Offered,0,0,1,0,0,0,0,0,0,1
+Pathetic Service,0,0,1,0,0,0,0,0,0,1
+Higher Total Bill,0,0,0,0,0,0,0,0,1,1
+Poor Application,0,0,0,0,0,0,0,0,1,1
+App Functionality,0,0,0,0,0,0,0,0,1,1
+Restaurant Closed,0,1,0,0,0,0,0,0,0,1
+Useless Virtual Agent,0,1,0,0,0,0,0,0,0,1
+API Improvement Needed,0,1,0,0,0,0,0,0,0,1
+Exploitative Pricing,0,1,0,0,0,0,0,0,0,1
+Order Details Ignored,0,0,1,0,0,0,0,0,0,1

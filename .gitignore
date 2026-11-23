@@ -1,0 +1,14 @@
+# Raw and per-review data: contains reviewers' names and profile links, kept out of the repo
+input_data/
+output_data/
+output_v2/triage/
+output_v2/actionable/
+output_v3/topics/
+output_v3/merge_cache_*.jsonl
+analysis/label_sample.csv
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
