@@ -14,7 +14,7 @@ import pandas as pd
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent.parent
-REPO_URL = "https://github.com/Kkumar-007/Pulse_Assignment"
+REPO_URL = "https://github.com/Kkumar-007/app-review-issue-tracker"
 
 # Colours: one accent, quiet greys (reference palette, light mode)
 ACCENT = "#2a78d6"

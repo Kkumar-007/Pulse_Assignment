@@ -1,6 +1,6 @@
-# Pulse: from app reviews to a daily table of customer issues
+# App Review Issue Tracker
 
-Pulse turns raw Google Play reviews into a table of specific customer issues counted per day, so a product manager can see what is going wrong and whether it is getting worse. It started as a take-home assignment for a product company whose client was a food-delivery app. It runs on Swiggy reviews (1–9 October 2025), with a local Llama 3.1 8B served by Ollama and `all-MiniLM-L6-v2` sentence embeddings.
+This project turns raw Google Play reviews into a table of specific customer issues counted per day, so a product manager can see what is going wrong and whether it is getting worse. It started as a take-home assignment for a product company whose client was a food-delivery app. It runs on Swiggy reviews (1–9 October 2025), with a local Llama 3.1 8B served by Ollama and `all-MiniLM-L6-v2` sentence embeddings.
 
 The first version (v1, `Scripts/`) ran end to end but had never been measured. When I evaluated it, two stages turned out not to work. This repository keeps v1 for reference, adds two rounds of fixes (v2, v3), and includes the hand-labelled evaluation behind every number below.
 
