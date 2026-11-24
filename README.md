@@ -1,6 +1,6 @@
 # App Review Issue Tracker
 
-**Live dashboard:** https://app-review-issue-tracker-ga9ja8y63f9ttae8fjv4aa.streamlit.app/
+**Live dashboard:** https://app-review-issue-tracker.streamlit.app/
 
 This project turns raw Google Play reviews into a table of specific customer issues counted per day, so a product manager can see what is going wrong and whether it is getting worse. It started as a take-home assignment for a product company whose client was a food-delivery app. It runs on Swiggy reviews (1–9 October 2025), with a local Llama 3.1 8B served by Ollama and `all-MiniLM-L6-v2` sentence embeddings.
 
@@ -29,7 +29,7 @@ All figures come from hand labels: 200 randomly sampled reviews for triage, and 
 - **How phrases were merged:** every merge decision behind each topic.
 - **How well it works:** the evaluation above, with charts.
 
-It reads only the aggregated files in this repository. It's deployed on Streamlit Community Cloud at https://app-review-issue-tracker-ga9ja8y63f9ttae8fjv4aa.streamlit.app/ and redeploys when `main` changes.
+It reads only the aggregated files in this repository. It's deployed on Streamlit Community Cloud at https://app-review-issue-tracker.streamlit.app/ and redeploys when `main` changes.
 
 ```bash
 pip install -r dashboard/requirements.txt
