@@ -1,0 +1,1552 @@
+phrase,mentions,canonical,decision,top_similarity,merged_similarity
+Late Delivery,160,Late Delivery,new: first topic,,
+Poor Customer Support,49,Poor Customer Support,new: below floor,0.368,
+Incorrect Delivery Time,45,Late Delivery,merged,0.699,0.699
+Long Delivery Time,43,Late Delivery,merged,0.717,0.717
+Long Wait Time,34,Long Wait Time,new: below floor,0.334,
+Poor Customer Service,34,Poor Customer Support,merged,0.882,0.882
+Delayed Delivery,33,Late Delivery,merged,0.878,0.878
+Order Cancellation,33,Order Cancellation,new: below floor,0.307,
+Missing Items,26,Missing Items,new: below floor,0.289,
+No Refund,26,No Refund,new: below floor,0.409,
+Delayed Orders,24,Late Delivery,merged,0.628,0.614
+Cold Food,23,Cold Food,new: below floor,0.181,
+Cancellation Fee,22,Order Cancellation,merged,0.603,0.603
+Cancelled Order,22,Order Cancellation,merged,0.84,0.84
+Incorrect Order,18,Incorrect Order,new: below floor,0.506,
+Unresponsive Support,18,Unresponsive Support,new: below floor,0.569,
+Delayed Order,16,Incorrect Order,merged,0.631,0.623
+Hidden Charges,15,Hidden Charges,new: below floor,0.223,
+High Prices,14,High Prices,new: below floor,0.341,
+Refund Issue,14,No Refund,merged,0.8,0.8
+Refund Policy,14,Refund Policy,new: rejected by LLM,0.714,
+Missing Order,13,Incorrect Order,merged,0.851,0.851
+Slow Delivery,13,Late Delivery,merged,0.724,0.724
+Late Deliveries,11,Late Delivery,merged,0.904,0.904
+Unresponsive Customer Support,11,Unresponsive Support,merged,0.809,0.809
+Lack of Support,10,Unresponsive Support,merged,0.677,0.677
+Missing Item,10,Missing Items,merged,0.893,0.893
+No Response,10,No Response,new: below floor,0.47,
+High Cost,9,High Prices,merged,0.84,0.84
+Refund Not Processed,9,No Refund,merged,0.759,0.759
+Refusal To Refund,9,No Refund,merged,0.741,0.741
+Unhelpful Support,9,Unresponsive Support,merged,0.652,0.652
+Delayed Refund,8,No Refund,merged,0.753,0.753
+High Delivery Charges,8,High Delivery Charges,new: below floor,0.562,
+Late Order Delivery,8,Late Delivery,merged,0.888,0.888
+Missing Refund,8,No Refund,merged,0.808,0.808
+Order Cancellation Issue,8,Order Cancellation,merged,0.936,0.936
+Poor Customer Care,8,Poor Customer Support,merged,0.853,0.853
+Unhelpful Customer Support,8,Poor Customer Support,merged,0.804,0.804
+Wrong Order,8,Incorrect Order,merged,0.968,0.968
+Extra Charges,7,Hidden Charges,merged,0.669,0.669
+Lack of Customer Support,7,Poor Customer Support,merged,0.866,0.866
+Missing Order Item,7,Missing Items,merged,0.761,0.761
+Order Not Delivered,7,Order Not Delivered,new: below floor,0.595,
+Poor Support,7,Poor Customer Support,merged,0.676,0.676
+Refund Delay,7,No Refund,merged,0.71,0.71
+Unfair Charges,7,Hidden Charges,merged,0.654,0.654
+Unresponsive Customer Care,7,Poor Customer Support,merged,0.695,0.695
+Cancellation Fee Charged,6,Cancellation Fee Charged,new: below floor,0.557,
+Cold Food Delivery,6,Cold Food,merged,0.773,0.773
+Ineffective Customer Support,6,Poor Customer Support,merged,0.857,0.857
+Late Food Delivery,6,Late Delivery,merged,0.775,0.775
+Poor Service Quality,6,Poor Service Quality,new: rejected by LLM,0.648,
+Refund Issues,6,No Refund,merged,0.794,0.779
+Unfair Cancellation Fee,6,Cancellation Fee Charged,merged,0.851,0.851
+Unhelpful Customer Care,6,Poor Customer Support,merged,0.648,0.648
+Unresponsive Customer Service,6,Unresponsive Support,merged,0.688,0.688
+Coupon Not Applied,5,Coupon Not Applied,new: below floor,0.344,
+Delivery Failure,5,Order Not Delivered,merged,0.672,0.672
+High Delivery Charge,5,High Delivery Charges,merged,0.964,0.964
+Incorrect Delivery Status,5,Order Not Delivered,merged,0.673,0.673
+Incorrect Delivery Time Estimate,5,Incorrect Delivery Time Estimate,new: below floor,0.569,
+No Refund Policy,5,No Refund,merged,0.915,0.787
+Overcharging,5,Overcharging,new: below floor,0.264,
+Refund Denial,5,No Refund,merged,0.744,0.701
+Refund Process,5,No Refund,merged,0.774,0.751
+Stale Food,5,Stale Food,new: below floor,0.561,
+App Crashes,4,App Crashes,new: below floor,0.334,
+Bad Customer Service,4,Poor Customer Support,merged,0.774,0.774
+Delayed Deliveries,4,Late Delivery,merged,0.834,0.834
+Delivery Partner Issue,4,Delivery Partner Issue,new: below floor,0.568,
+Expired Products,4,Expired Products,new: below floor,0.399,
+Fraudulent Practices,4,Fraudulent Practices,new: below floor,0.347,
+High Charges,4,High Delivery Charges,merged,0.666,0.666
+Incomplete Order,4,Incorrect Order,merged,0.77,0.77
+Incorrect Address,4,Incorrect Address,new: below floor,0.443,
+Incorrect Billing,4,Incorrect Billing,new: below floor,0.554,
+Incorrect Delivery Location,4,Incorrect Delivery Location,new: below floor,0.584,
+Incorrect Order Status,4,Incorrect Order,merged,0.737,0.737
+Lack of Customer Care,4,Poor Customer Support,merged,0.73,0.73
+Lack of Response,4,No Response,merged,0.766,0.766
+Lack Of Updates,4,Lack Of Updates,new: below floor,0.438,
+Long Hold Time,4,Long Wait Time,merged,0.713,0.713
+Missing Delivery,4,Late Delivery,merged,0.754,0.754
+Money Not Refunded,4,No Refund,merged,0.793,0.793
+Money Theft,4,Money Theft,new: below floor,0.449,
+No Customer Care Number,4,No Customer Care Number,new: below floor,0.515,
+No Resolution,4,No Resolution,new: below floor,0.41,
+Payment Issues,4,Payment Issues,new: below floor,0.592,
+Price Inflation,4,Price Inflation,new: below floor,0.515,
+Refund Denied,4,No Refund,merged,0.733,0.733
+Unfair Refund Policy,4,Unfair Refund Policy,new: rejected by LLM,0.884,
+Unresponsive Delivery Partner,4,Delivery Partner Issue,merged,0.763,0.763
+Wrong Item Delivered,4,Order Not Delivered,merged,0.736,0.736
+App Not Working,3,App Crashes,merged,0.658,0.658
+Bad Food,3,Bad Food,new: below floor,0.599,
+Bad Food Quality,3,Bad Food,merged,0.863,0.863
+Blame Shifting,3,Blame Shifting,new: below floor,0.275,
+Cancellation Charges,3,Cancellation Fee Charged,merged,0.882,0.882
+Cancellation Problem,3,Order Cancellation,merged,0.688,0.688
+Cancelled Orders,3,Order Cancellation,merged,0.818,0.818
+Cash on Delivery Option,3,Cash on Delivery Option,new: below floor,0.504,
+Clustering Orders,3,Clustering Orders,new: below floor,0.438,
+Damaged Products,3,Damaged Products,new: below floor,0.537,
+Delayed Delivery Times,3,Late Delivery,merged,0.832,0.832
+Delayed Service,3,Delayed Service,new: below floor,0.573,
+Delivery Delay,3,Late Delivery,merged,0.816,0.816
+Excessive Charges,3,Hidden Charges,merged,0.604,0.604
+Extra Charge,3,Extra Charge,new: below floor,0.55,
+Fake Offers,3,Fake Offers,new: below floor,0.381,
+Food Not Delivered,3,Order Not Delivered,merged,0.707,0.707
+Fraudulent Activity,3,Fraudulent Practices,merged,0.848,0.848
+Incorrect Charges,3,Hidden Charges,merged,0.65,0.65
+Incorrect Delivery,3,Incorrect Delivery Location,merged,0.77,0.77
+Incorrect Delivery Address,3,Incorrect Delivery Location,merged,0.885,0.885
+Incorrect Delivery Timing,3,Incorrect Delivery Time Estimate,merged,0.846,0.846
+Incorrect Distance Display,3,Incorrect Distance Display,new: below floor,0.382,
+Incorrect Estimated Time,3,Incorrect Delivery Time Estimate,merged,0.789,0.789
+Incorrect Payment,3,Payment Issues,merged,0.821,0.821
+Incorrect Price,3,Incorrect Price,new: below floor,0.538,
+Incorrect Prices,3,Incorrect Price,merged,0.958,0.958
+Incorrect Pricing,3,Incorrect Price,merged,0.89,0.89
+Incorrect Shop Status,3,Incorrect Shop Status,new: below floor,0.46,
+Ineffective Customer Care,3,Poor Customer Support,merged,0.718,0.718
+Insufficient Refund,3,No Refund,merged,0.749,0.749
+Lack of Professionalism,3,Lack of Professionalism,new: below floor,0.343,
+Late Order Cancellation,3,Order Cancellation,merged,0.881,0.881
+Login Problem,3,Login Problem,new: below floor,0.317,
+Long Wait Times,3,Long Wait Time,merged,0.932,0.932
+Miscommunication,3,Miscommunication,new: below floor,0.369,
+Missing Cancellation Option,3,Order Cancellation,merged,0.657,0.657
+Missing Delivery Partner,3,Delivery Partner Issue,merged,0.816,0.816
+Missing Food Item,3,Missing Items,merged,0.69,0.69
+Missing Order Items,3,Missing Items,merged,0.822,0.822
+Missing Payment Option,3,Payment Issues,merged,0.621,0.621
+No Cancellation Option,3,Order Cancellation,merged,0.682,0.682
+No Compensation,3,No Compensation,new: below floor,0.486,
+No Customer Support,3,Poor Customer Support,merged,0.809,0.809
+No Order Cancellation,3,Order Cancellation,merged,0.931,0.931
+No Refunds,3,No Refund,merged,0.931,0.931
+No Response to Complaint,3,No Response,merged,0.67,0.67
+No Response to Email,3,No Response,merged,0.717,0.717
+Order Not Cancelled,3,Order Cancellation,merged,0.819,0.819
+Order Not Received,3,Order Not Delivered,merged,0.904,0.904
+Poor Delivery Service,3,Poor Delivery Service,new: rejected by LLM,0.726,
+Poor Food Quality,3,Bad Food,merged,0.717,0.717
+Poor Packaging,3,Poor Packaging,new: rejected by LLM,0.602,
+Poor Quality Food,3,Bad Food,merged,0.741,0.741
+Refund Not Given,3,No Refund,merged,0.839,0.839
+Slow Service,3,Delayed Service,merged,0.712,0.712
+Unassigned Delivery Partner,3,Delivery Partner Issue,merged,0.814,0.814
+Unfair Cancellation Charges,3,Cancellation Fee Charged,merged,0.727,0.727
+Unresolved Complaints,3,Unresolved Complaints,new: below floor,0.483,
+Unresolved Issue,3,Unresolved Issue,new: below floor,0.396,
+Unresolved Issues,3,Unresolved Issues,new: rejected by LLM,0.921,
+Wasted Time,3,Wasted Time,new: below floor,0.384,
+Wrong Delivery,3,Incorrect Delivery Location,merged,0.746,0.746
+App Lags,2,App Lags,new: below floor,0.463,
+App Uninstallation,2,App Uninstallation,new: below floor,0.421,
+Bad Quality Food,2,Bad Food,merged,0.86,0.86
+Burnt Food,2,Bad Food,merged,0.641,0.641
+Cancellation Charge,2,Cancellation Fee Charged,merged,0.866,0.866
+Cancellation Fee Deduction,2,Cancellation Fee Charged,merged,0.799,0.799
+Cancellation Fee Threat,2,Cancellation Fee Charged,merged,0.826,0.826
+Cancellation Fees,2,Cancellation Fee Charged,merged,0.91,0.91
+Cancelled Order Fee,2,Cancellation Fee Charged,merged,0.781,0.781
+Cancelled Order Refund,2,Order Cancellation,merged,0.729,0.729
+Cheating,2,Cheating,new: below floor,0.371,
+Compatibility Issues,2,Compatibility Issues,new: below floor,0.546,
+Customer Care Response,2,Poor Customer Support,merged,0.633,0.633
+Customer Support Unavailable,2,Poor Customer Support,merged,0.739,0.739
+Damaged Food,2,Bad Food,merged,0.659,0.659
+Damaged Packaging,2,Poor Packaging,merged,0.776,0.776
+Delayed Delivery Partner Assignment,2,Delivery Partner Issue,merged,0.758,0.758
+Delayed Delivery Time,2,Late Delivery,merged,0.845,0.845
+Delayed Food,2,Delayed Food,new: below floor,0.594,
+Delayed Food Delivery,2,Late Delivery,merged,0.836,0.713
+Delays,2,Delayed Service,merged,0.717,0.717
+Delivery Issues,2,Delivery Issues,new: rejected by LLM,0.812,
+Delivery Partner Misbehavior,2,Delivery Partner Issue,merged,0.881,0.881
+Delivery Scam,2,Delivery Scam,new: rejected by LLM,0.668,
+Double Charging,2,Extra Charge,merged,0.719,0.719
+Duplicate Orders,2,Order Cancellation,merged,0.613,0.613
+Excessive Cancellation Fee,2,Cancellation Fee Charged,merged,0.87,0.87
+Excessive Delivery Charge,2,High Delivery Charges,merged,0.841,0.841
+Excessive Platform Fee,2,Excessive Platform Fee,new: below floor,0.446,
+Expired Food,2,Stale Food,merged,0.752,0.752
+Fake App,2,Fake App,new: below floor,0.429,
+Fake Delivery Confirmation,2,Delivery Scam,merged,0.721,0.721
+Fake Promises,2,Fake Promises,new: below floor,0.515,
+False Advertising,2,False Advertising,new: below floor,0.446,
+False Delivery Time Promises,2,Fake Promises,merged,0.668,0.668
+Food Mess,2,Bad Food,merged,0.676,0.676
+Food Not Prepared,2,Food Not Prepared,new: below floor,0.568,
+Food Stolen,2,Food Stolen,new: below floor,0.511,
+Food Theft,2,Food Stolen,merged,0.91,0.91
+Fraudulent Company,2,Fraudulent Company,new: rejected by LLM,0.741,
+GST Charges,2,GST Charges,new: below floor,0.43,
+Heavy Charges,2,Hidden Charges,merged,0.637,0.637
+Hidden Fees,2,Hidden Charges,merged,0.653,0.653
+High Platform Fees,2,Excessive Platform Fee,merged,0.882,0.882
+High Price,2,High Prices,merged,0.93,0.93
+Inadequate Refund,2,No Refund,merged,0.719,0.719
+Inadequate Refund Process,2,No Refund,merged,0.652,0.64
+Incomplete Orders,2,Incorrect Order,merged,0.705,0.705
+Incorrect Delivery Charge,2,High Delivery Charges,merged,0.727,0.727
+Incorrect Delivery Fee,2,High Delivery Charges,merged,0.675,0.675
+Incorrect Delivery Partner Assignment,2,Delivery Partner Issue,merged,0.843,0.843
+Incorrect Delivery Time Estimates,2,Incorrect Delivery Time Estimate,merged,0.976,0.976
+Incorrect Order Address,2,Incorrect Address,merged,0.827,0.827
+Incorrect Order Amount,2,Incorrect Order,merged,0.736,0.736
+Incorrect Order Quantity,2,Incorrect Order,merged,0.78,0.78
+Incorrect Orders,2,Incorrect Order,merged,0.853,0.853
+Incorrect Payment Amount,2,Payment Issues,merged,0.757,0.757
+Incorrect Refund Amount,2,No Refund,merged,0.706,0.698
+Incorrect Refund Process,2,No Refund,merged,0.727,0.716
+Incorrect Restaurant Status,2,Incorrect Shop Status,merged,0.662,0.662
+Ineffective Chatbot,2,Ineffective Chatbot,new: below floor,0.311,
+Ineffective Support,2,Unresponsive Support,merged,0.641,0.641
+Insect in Food,2,Insect in Food,new: below floor,0.482,
+Insufficient Delivery Staff,2,Poor Delivery Service,merged,0.758,0.71
+Invalid Coupon,2,Coupon Not Applied,merged,0.826,0.826
+Lack of Accountability,2,Lack of Accountability,new: below floor,0.563,
+Lack of Cancellation Option,2,Order Cancellation,merged,0.682,0.682
+Lack of Human Support,2,Lack of Human Support,new: rejected by LLM,0.624,
+Lack of Offers,2,Lack of Offers,new: rejected by LLM,0.634,
+Lack of Order Updates,2,Lack Of Updates,merged,0.729,0.729
+Lack of Responsibility,2,Lack of Responsibility,new: rejected by LLM,0.833,
+Lack of Transparency,2,Lack of Transparency,new: below floor,0.572,
+Late Orders,2,Late Delivery,merged,0.699,0.699
+Login Failure,2,Login Problem,merged,0.86,0.86
+Long Delay,2,Delayed Service,merged,0.658,0.658
+Low Quality Service,2,Poor Service Quality,merged,0.866,0.866
+Misleading Discounts,2,Misleading Discounts,new: below floor,0.528,
+Misleading Offers,2,Fake Offers,merged,0.77,0.77
+Misleading Pricing,2,Misleading Discounts,merged,0.774,0.774
+Missing Cancel Option,2,Missing Cancel Option,new: below floor,0.573,
+Missing Ice Cream,2,Missing Ice Cream,new: below floor,0.5,
+Money Cheating,2,Money Theft,merged,0.684,0.662
+Money Loss,2,Money Theft,merged,0.632,0.632
+No Customer Care,2,No Customer Care Number,merged,0.766,0.766
+No Customer Service,2,No Customer Care Number,merged,0.764,0.764
+No Delivery Partner,2,Delivery Partner Issue,merged,0.802,0.802
+No Delivery Partner Assignment,2,Delivery Partner Issue,merged,0.775,0.775
+No Offers,2,Lack of Offers,merged,0.718,0.718
+No Proper Response,2,No Response,merged,0.854,0.854
+No Refund After Cancellation,2,No Refund,merged,0.718,0.718
+No Refund Given,2,No Refund,merged,0.908,0.908
+No Refund Option,2,No Refund,merged,0.848,0.848
+No Refund Processed,2,No Refund,merged,0.832,0.832
+No Replacement,2,No Replacement,new: below floor,0.476,
+No Return Policy,2,No Return Policy,new: rejected by LLM,0.675,
+Order Cancellation Delay,2,Order Cancellation,merged,0.813,0.813
+Order Cancellation Option,2,Order Cancellation,merged,0.931,0.931
+Order Cancellation Policy,2,Order Cancellation Policy,new: rejected by LLM,0.89,
+Order Cancellation Problem,2,Order Cancellation,merged,0.93,0.93
+Order Cancellations,2,Order Cancellation,merged,0.979,0.979
+Payment Issue,2,Payment Issues,merged,0.965,0.965
+Payment Not Refunded,2,No Refund,merged,0.703,0.703
+Poor Delivery Condition,2,Delivery Issues,merged,0.779,0.779
+Poor Delivery Executive,2,Poor Delivery Service,merged,0.732,0.732
+Poor Response,2,No Response,merged,0.715,0.715
+Rain Fee,2,Rain Fee,new: below floor,0.44,
+Robotic Support,2,Robotic Support,new: below floor,0.427,
+Rude Delivery Agents,2,Rude Delivery Agents,new: below floor,0.55,
+Rude Delivery Boy,2,Rude Delivery Agents,merged,0.704,0.704
+Rude Delivery Partner,2,Rude Delivery Agents,merged,0.812,0.812
+Scam App,2,Scam App,new: rejected by LLM,0.653,
+Search Bar Bug,2,Search Bar Bug,new: below floor,0.264,
+Slow Customer Care,2,Poor Customer Support,merged,0.612,0.612
+Spoiled Food,2,Bad Food,merged,0.713,0.713
+Stuck Timer,2,Stuck Timer,new: below floor,0.37,
+Support Response,2,Unresponsive Support,merged,0.67,0.67
+Surge Charges,2,Surge Charges,new: below floor,0.468,
+Timely Delivery,2,Timely Delivery,new: rejected by LLM,0.781,
+Too Many Ads,2,Too Many Ads,new: below floor,0.52,
+Unauthorized Order Cancellation,2,Order Cancellation,merged,0.809,0.809
+Unfair Pricing,2,Unfair Pricing,new: rejected by LLM,0.624,
+Unhelpful Customer Service,2,Poor Customer Support,merged,0.671,0.671
+Unreliable Delivery Partner,2,Delivery Partner Issue,merged,0.799,0.799
+Unresolved Complaint,2,Unresolved Complaint,new: rejected by LLM,0.93,
+Unresponsive Helpline,2,Unresponsive Support,merged,0.695,0.695
+Useless Customer Care,2,Poor Customer Support,merged,0.68,0.68
+Useless Customer Support,2,Poor Customer Support,merged,0.811,0.811
+Wrong Delivery Address,2,Incorrect Delivery Location,merged,0.878,0.878
+Wrong Food Order,2,Incorrect Order,merged,0.718,0.718
+Wrong Items Delivered,2,Order Not Delivered,merged,0.7,0.7
+Wrong Order Delivered,2,Order Not Delivered,merged,0.867,0.867
+Abandoned Call,1,Abandoned Call,new: below floor,0.372,
+Abandoned Chat,1,Ineffective Chatbot,merged,0.603,0.603
+Abandoned Complaint,1,Unresolved Complaint,merged,0.741,0.741
+Abusive Agent,1,Abusive Agent,new: below floor,0.51,
+Abusive Behaviour,1,Abusive Behaviour,new: rejected by LLM,0.656,
+Abusive Chat System,1,Ineffective Chatbot,merged,0.627,0.627
+Abusive Communication,1,Abusive Behaviour,merged,0.819,0.819
+Abusive Delivery Boy,1,Abusive Delivery Boy,new: rejected by LLM,0.621,
+Accidental Group Order,1,Incorrect Order,merged,0.63,0.63
+Accidental Order,1,Incorrect Order,merged,0.701,0.701
+Account Blocked,1,Account Blocked,new: below floor,0.53,
+Account Compromise,1,Account Compromise,new: below floor,0.483,
+Account Hacking,1,Account Compromise,merged,0.637,0.637
+Account Linking Problem,1,Account Linking Problem,new: below floor,0.493,
+Account Suspension,1,Account Suspension,new: below floor,0.595,
+Adamant Attitude,1,Adamant Attitude,new: below floor,0.297,
+Address Addition Delay,1,Address Addition Delay,new: below floor,0.467,
+Address Entry Issue,1,Incorrect Address,merged,0.722,0.722
+Address Not Showing,1,Incorrect Address,merged,0.663,0.663
+Ads on Delivery Status,1,Ads on Delivery Status,new: below floor,0.531,
+Advance Ordering Feature,1,Advance Ordering Feature,new: below floor,0.489,
+Advance Payment Scam,1,Advance Payment Scam,new: below floor,0.596,
+Advertisements Everywhere,1,False Advertising,merged,0.649,0.649
+Agent Response,1,Agent Response,new: below floor,0.514,
+Aggressive Delivery,1,Aggressive Delivery,new: rejected by LLM,0.617,
+Alternate Dish Not Offered,1,Alternate Dish Not Offered,new: below floor,0.479,
+Alternative Ordering Option,1,Advance Ordering Feature,merged,0.738,0.738
+Ambiguity,1,Ambiguity,new: below floor,0.491,
+Amount Not Refunded,1,No Refund,merged,0.792,0.792
+Annoying AI Chat,1,Ineffective Chatbot,merged,0.651,0.651
+API Improvement Needed,1,API Improvement Needed,new: below floor,0.284,
+App Cheats Customers,1,App Cheats Customers,new: rejected by LLM,0.631,
+App Deletion,1,App Uninstallation,merged,0.794,0.794
+App Functionality,1,App Functionality,new: rejected by LLM,0.606,
+App Heating Issue,1,App Heating Issue,new: below floor,0.517,
+App Navigation Issues,1,App Navigation Issues,new: below floor,0.49,
+App Not Downloading,1,App Not Downloading,new: below floor,0.525,
+App Not Installing,1,App Not Downloading,merged,0.789,0.789
+App Not Opening,1,App Crashes,merged,0.68,0.635
+App Not Showing Offers,1,App Not Showing Offers,new: below floor,0.546,
+App Not Working Properly,1,App Crashes,merged,0.682,0.682
+App Performance,1,App Lags,merged,0.624,0.624
+App Quality,1,App Quality,new: below floor,0.583,
+App Stutters,1,App Lags,merged,0.712,0.712
+Application Lag,1,App Lags,merged,0.908,0.908
+Area Coverage,1,Area Coverage,new: below floor,0.321,
+Attached Delivery,1,Late Delivery,merged,0.67,0.643
+Auto Refresh Bug,1,Auto Refresh Bug,new: below floor,0.328,
+Automatic COD Conversion,1,Automatic COD Conversion,new: below floor,0.169,
+Automatic Coupon Reduction,1,Coupon Not Applied,merged,0.627,0.627
+Automatic Debit Issue,1,Automatic Debit Issue,new: below floor,0.499,
+Bad Agent Assignment,1,Agent Response,merged,0.633,0.633
+Bad Burger Quality,1,Bad Burger Quality,new: below floor,0.529,
+Bad Customer Care,1,Poor Customer Support,merged,0.77,0.77
+Bad Customer Support,1,Poor Customer Support,merged,0.916,0.916
+Bad Delivery,1,Delivery Issues,merged,0.792,0.792
+Bad Delivery Agent Behavior,1,Rude Delivery Agents,merged,0.727,0.727
+Bad Delivery Boy,1,Abusive Delivery Boy,merged,0.758,0.758
+Bad Delivery Boy Behaviour,1,Abusive Delivery Boy,merged,0.734,0.734
+Bad Delivery Staff Behavior,1,Poor Delivery Service,merged,0.695,0.657
+Bad Food Taste,1,Bad Food Taste,new: rejected by LLM,0.824,
+Bad Language Used,1,Bad Language Used,new: below floor,0.471,
+Bad Location Selection,1,Bad Location Selection,new: below floor,0.497,
+Bad Quality Product,1,Damaged Products,merged,0.635,0.635
+Bad Return Policy,1,Bad Return Policy,new: rejected by LLM,0.897,
+Bad SOPs,1,Bad SOPs,new: below floor,0.356,
+Bank Discount Issue,1,Misleading Discounts,merged,0.603,0.603
+Bargaining Refund,1,Unfair Refund Policy,merged,0.673,0.673
+Best Offers Missing,1,Lack of Offers,merged,0.73,0.73
+Block Screen,1,Block Screen,new: below floor,0.357,
+Bolt Feature Fraud,1,Bolt Feature Fraud,new: below floor,0.421,
+Broken Bike,1,Broken Bike,new: below floor,0.441,
+Broken Commitment Promise,1,Broken Commitment Promise,new: below floor,0.592,
+Broken Compensation Promise,1,No Compensation,merged,0.716,0.716
+Broken Help Section,1,Broken Help Section,new: below floor,0.479,
+Broken On-Time Guarantee,1,Broken On-Time Guarantee,new: below floor,0.428,
+Broken Promise,1,Broken Commitment Promise,merged,0.77,0.77
+Broken Promises,1,Broken Commitment Promise,merged,0.797,0.782
+Burnt Roti,1,Burnt Roti,new: below floor,0.293,
+Call Center No Response,1,Call Center No Response,new: below floor,0.503,
+Call Connection Problem,1,Call Center No Response,merged,0.607,0.607
+Cancel Fee,1,Cancellation Fee Charged,merged,0.886,0.886
+Cancel Fee Deduction,1,Cancellation Fee Charged,merged,0.744,0.744
+Cancel Option After Acceptance,1,Missing Cancel Option,merged,0.724,0.724
+Cancel Order,1,Order Cancellation,merged,0.928,0.928
+Cancel Order Issue,1,Order Cancellation,merged,0.875,0.875
+Cancellation Failure,1,Cancellation Fee Charged,merged,0.649,0.649
+Cancellation Fee High,1,Cancellation Fee Charged,merged,0.888,0.888
+Cancellation Fee Issue,1,Cancellation Fee Charged,merged,0.933,0.933
+Cancellation Fee Policy,1,Cancellation Fee Charged,merged,0.825,0.825
+Cancellation Fees Applied Unnecessarily,1,Cancellation Fee Charged,merged,0.847,0.847
+Cancellation Fees Too High,1,Cancellation Fee Charged,merged,0.822,0.822
+Cancellation Fine,1,Cancellation Fee Charged,merged,0.703,0.703
+Cancellation Not Allowed,1,Missing Cancel Option,merged,0.674,0.674
+Cancellation Option Missing,1,Missing Cancel Option,merged,0.931,0.931
+Cancellation Policy,1,Order Cancellation Policy,merged,0.825,0.825
+Cancellation Refusal,1,Order Cancellation,merged,0.646,0.646
+Cancellation Scam,1,Cancellation Fee Charged,merged,0.68,0.68
+Cancellation Without Reason,1,Order Cancellation,merged,0.725,0.725
+Cancellation Without Refund,1,Cancellation Fee Charged,merged,0.721,0.721
+Cancelled Coupons,1,Coupon Not Applied,merged,0.695,0.695
+Cancelled Order Payment Issue,1,Order Cancellation,merged,0.707,0.707
+Careless Attitude,1,Careless Attitude,new: below floor,0.525,
+Careless Customer Care,1,Poor Customer Support,merged,0.67,0.67
+Careless Customer Support,1,Poor Customer Support,merged,0.83,0.83
+Careless Delivery,1,Delivery Issues,merged,0.67,0.67
+Cart Weight Limit,1,Cart Weight Limit,new: below floor,0.241,
+Cash Back Not Received,1,Cash Back Not Received,new: below floor,0.523,
+Cash on Delivery Issue,1,Cash on Delivery Option,merged,0.84,0.84
+Cash Option Missing,1,Cash on Delivery Option,merged,0.653,0.653
+Cash Payment Issue,1,Payment Issues,merged,0.786,0.786
+Cash Payment Option,1,Cash on Delivery Option,merged,0.759,0.759
+Changing Delivery Time,1,Incorrect Delivery Time Estimate,merged,0.676,0.669
+Charging Extra Fees,1,Extra Charge,merged,0.759,0.759
+Charging Full Amount,1,Charging Full Amount,new: below floor,0.571,
+Chatbot Ineffective,1,Ineffective Chatbot,merged,0.975,0.975
+Cheated After Payment,1,Payment Issues,merged,0.637,0.637
+Cheaters,1,Cheating,merged,0.718,0.718
+Cheating by Delivery Partner,1,Delivery Partner Issue,merged,0.671,0.671
+Cheating by Swiggy,1,Cheating by Swiggy,new: below floor,0.467,
+Closed Helpline,1,Closed Helpline,new: below floor,0.536,
+Combined Orders,1,Incorrect Order,merged,0.607,0.607
+Company Fraud,1,Company Fraud,new: rejected by LLM,0.906,
+Company Help,1,Company Help,new: below floor,0.53,
+Company Reputation,1,Company Reputation,new: below floor,0.579,
+Complaint Logging Unavailable,1,Unresolved Complaints,merged,0.6,0.6
+Connection Error,1,Connection Error,new: below floor,0.478,
+Conning People,1,Conning People,new: below floor,0.364,
+Contaminated Food,1,Contaminated Food,new: below floor,0.599,
+Copy Paste Answers,1,Copy Paste Answers,new: below floor,0.197,
+Copy-Paste Responses,1,Copy Paste Answers,merged,0.788,0.788
+Cost Cutting,1,Cost Cutting,new: below floor,0.408,
+Coupon Abuse,1,Coupon Not Applied,merged,0.699,0.699
+Coupon Cheating,1,Coupon Not Applied,merged,0.728,0.728
+Coupon Code Not Working,1,Coupon Not Applied,merged,0.874,0.874
+Coupon Fraud,1,Coupon Not Applied,merged,0.694,0.694
+Coupon Not Accepted,1,Coupon Not Applied,merged,0.898,0.898
+Cracked Eggs,1,Cracked Eggs,new: below floor,0.403,
+Customer Care,1,Customer Care,new: rejected by LLM,0.645,
+Customer Care Issues,1,Poor Customer Support,merged,0.843,0.687
+Customer Care Not Responding,1,No Customer Care Number,merged,0.692,0.647
+Customer Care Response Delay,1,Delayed Service,merged,0.655,0.655
+Customer Care Shouting,1,Customer Care Shouting,new: rejected by LLM,0.758,
+Customer Contact Removed,1,Customer Contact Removed,new: below floor,0.515,
+Customer Non-Friendly Policies,1,Customer Non-Friendly Policies,new: below floor,0.492,
+Customer Problem Resolution,1,Customer Problem Resolution,new: rejected by LLM,0.618,
+Customer Response,1,Customer Care,merged,0.62,0.62
+Customer Service Doesn't Pick Calls,1,Call Center No Response,merged,0.648,0.648
+Customer Service Failure,1,Customer Service Failure,new: rejected by LLM,0.71,
+Customer Suffering,1,Customer Suffering,new: rejected by LLM,0.682,
+Customer Support,1,Customer Care,merged,0.816,0.816
+Customer Support Ineffective,1,Poor Customer Support,merged,0.836,0.836
+Customer Support Issue,1,Poor Customer Support,merged,0.802,0.802
+Customer Support Jamming,1,Customer Support Jamming,new: below floor,0.585,
+Customer Support Lie,1,Poor Customer Support,merged,0.69,0.69
+Customer Support Not Going to Reply,1,Poor Customer Support,merged,0.676,0.676
+Customer Support Removed,1,Customer Contact Removed,merged,0.739,0.739
+Customer Support Unavailability,1,Poor Customer Support,merged,0.656,0.656
+Customer Support Unresponsive,1,Unresponsive Support,merged,0.825,0.825
+Cut Off Call,1,Cut Off Call,new: below floor,0.595,
+Damage to Order,1,Damage to Order,new: below floor,0.569,
+Damaged Goods,1,Damaged Products,merged,0.778,0.778
+Damaged Icecreams,1,Damaged Icecreams,new: below floor,0.502,
+Damaged Package,1,Damaged Products,merged,0.694,0.694
+Dead Products,1,Expired Products,merged,0.685,0.685
+Deception,1,Deception,new: below floor,0.573,
+Defective Power Bank,1,Defective Power Bank,new: below floor,0.369,
+Defective Product,1,Damaged Products,merged,0.71,0.71
+Defective Product Pickup,1,Defective Product Pickup,new: below floor,0.494,
+Delay in Delivery,1,Late Delivery,merged,0.829,0.829
+Delayed Cancellation,1,Order Cancellation,merged,0.708,0.708
+Delayed Delivery Time Estimate,1,Incorrect Delivery Time Estimate,merged,0.802,0.802
+Delayed Food Deliveries,1,Late Delivery,merged,0.792,0.711
+Delayed Refund Process,1,No Refund,merged,0.636,0.636
+Delayed Resolution,1,Delayed Resolution,new: below floor,0.576,
+Delayed Response,1,Delayed Service,merged,0.663,0.663
+Delays in Delivery,1,Late Delivery,merged,0.809,0.809
+Delivery Agent Unavailability,1,Delivery Agent Unavailability,new: rejected by LLM,0.616,
+Delivery Agent Uncertainty,1,Delivery Agent Unavailability,merged,0.753,0.753
+Delivery Boy Extortion,1,Abusive Delivery Boy,merged,0.654,0.654
+Delivery Boy Misbehavior,1,Abusive Delivery Boy,merged,0.77,0.77
+Delivery Boy Ran Away,1,Delivery Boy Ran Away,new: below floor,0.599,
+Delivery Boy Response,1,Delivery Boy Response,new: rejected by LLM,0.656,
+Delivery Boy's Inaction,1,Delivery Boy Response,merged,0.773,0.773
+Delivery Boys Eat Food,1,Delivery Boys Eat Food,new: below floor,0.599,
+Delivery Clubbing Delay,1,Late Delivery,merged,0.61,0.61
+Delivery Delays,1,Late Delivery,merged,0.812,0.812
+Delivery Doesn't Deliver Orders,1,Order Not Delivered,merged,0.854,0.854
+Delivery Guy Disappears,1,Delivery Boy Ran Away,merged,0.685,0.685
+Delivery Guy Doesn't Pickup,1,Delivery Guy Doesn't Pickup,new: rejected by LLM,0.613,
+Delivery Guy Refusal,1,Delivery Guy Doesn't Pickup,merged,0.661,0.661
+Delivery Guy Stops Calling,1,Delivery Guy Doesn't Pickup,merged,0.676,0.676
+Delivery Guys Fraud,1,Delivery Scam,merged,0.753,0.753
+Delivery Issue,1,Delivery Issue,new: rejected by LLM,0.964,
+Delivery Not Done,1,Delivery Issue,merged,0.808,0.808
+Delivery Partner Absent,1,Delivery Partner Issue,merged,0.781,0.781
+Delivery Partner Failure to Locate Restaurant,1,Delivery Partner Issue,merged,0.67,0.67
+Delivery Partner Problem,1,Delivery Partner Issue,merged,0.978,0.978
+Delivery Partner Refusal,1,Delivery Partner Issue,merged,0.805,0.805
+Delivery Partner Unprofessional,1,Delivery Partner Issue,merged,0.834,0.834
+Delivery Partner Unreachable,1,Delivery Partner Issue,merged,0.866,0.866
+Delivery Person Connection,1,Delivery Partner Issue,merged,0.655,0.655
+Delivery Person Overload,1,Delivery Person Overload,new: rejected by LLM,0.664,
+Delivery Person's Behavior,1,Delivery Person's Behavior,new: rejected by LLM,0.767,
+Delivery Scams,1,Delivery Scam,merged,0.96,0.96
+Delivery Service Failure,1,Poor Delivery Service,merged,0.801,0.801
+Delivery Time Estimate,1,Incorrect Delivery Time Estimate,merged,0.842,0.842
+Delivery Time Increase,1,Delivery Time Increase,new: rejected by LLM,0.676,
+Demand and Delay,1,Demand and Delay,new: below floor,0.593,
+Demand Money Again,1,Demand Money Again,new: below floor,0.523,
+Deny Camera Footage,1,Deny Camera Footage,new: below floor,0.321,
+Developer Logic,1,Developer Logic,new: below floor,0.365,
+Different Order Accepted,1,Incorrect Order,merged,0.722,0.722
+Different Prices,1,Incorrect Price,merged,0.659,0.632
+Difficulty Finding Address,1,Incorrect Address,merged,0.717,0.717
+Difficulty Finding Restaurant,1,Difficulty Finding Restaurant,new: below floor,0.423,
+Dirty Delivery Associate,1,Dirty Delivery Associate,new: below floor,0.595,
+Dirty Food,1,Contaminated Food,merged,0.658,0.658
+Dirty Food Inside,1,Contaminated Food,merged,0.666,0.666
+Dirty Package,1,Dirty Package,new: rejected by LLM,0.663,
+Disconnected Call,1,Abandoned Call,merged,0.632,0.632
+Discount Misleading,1,Misleading Discounts,merged,0.963,0.963
+Disregard for Customer,1,Disregard for Customer,new: below floor,0.591,
+Distance-Based Charges,1,Distance-Based Charges,new: below floor,0.509,
+Distance Inflation,1,Price Inflation,merged,0.631,0.631
+Distracting Pop-Ups,1,Distracting Pop-Ups,new: below floor,0.372,
+Double Charge,1,Extra Charge,merged,0.745,0.745
+Double Charges,1,Extra Charge,merged,0.693,0.693
+Double Deduction,1,Double Deduction,new: below floor,0.399,
+Double Delivery Charge,1,High Delivery Charges,merged,0.74,0.74
+Double Order,1,Incorrect Order,merged,0.7,0.7
+Double Payment,1,Payment Issues,merged,0.606,0.606
+Double Payment Charged,1,Payment Issues,merged,0.603,0.603
+Double Standard,1,Double Standard,new: below floor,0.348,
+Driver Assignment Delay,1,Driver Assignment Delay,new: below floor,0.431,
+Drunk Delivery People,1,Drunk Delivery People,new: rejected by LLM,0.622,
+Drunk Riders,1,Drunk Riders,new: below floor,0.567,
+Duplicate Options,1,Duplicate Options,new: below floor,0.368,
+Early Payment Request,1,Early Payment Request,new: below floor,0.595,
+Email Support,1,Email Support,new: below floor,0.463,
+Email System Fails,1,Email System Fails,new: rejected by LLM,0.647,
+Email Update Issue,1,Email System Fails,merged,0.629,0.629
+Every Order Has Issues,1,Every Order Has Issues,new: rejected by LLM,0.629,
+Excessive Delivery Charges,1,High Delivery Charges,merged,0.847,0.847
+Excessive Delivery Time,1,Delivery Time Increase,merged,0.772,0.772
+Excessive Fees,1,Excessive Platform Fee,merged,0.778,0.778
+Excessive MSG,1,Excessive MSG,new: below floor,0.362,
+Excessive Oiliness,1,Excessive Oiliness,new: below floor,0.324,
+Excessive Penalty Charge,1,Excessive Penalty Charge,new: below floor,0.495,
+Excuses Given,1,Excuses Given,new: below floor,0.445,
+Exorbitant Prices,1,Exorbitant Prices,new: below floor,0.595,
+Expensive Delivery,1,High Delivery Charges,merged,0.703,0.703
+Expensive Delivery Cost,1,High Delivery Charges,merged,0.72,0.72
+Expensive Prices,1,High Prices,merged,0.819,0.819
+Expired Bakery Items,1,Expired Products,merged,0.713,0.713
+Expired Coupon,1,Coupon Not Applied,merged,0.72,0.72
+Expired Food Items,1,Expired Products,merged,0.747,0.747
+Expired Food Products,1,Expired Products,merged,0.87,0.87
+Expired Item,1,Expired Products,merged,0.826,0.826
+Expired Items,1,Expired Products,merged,0.86,0.86
+Expired Meat Product,1,Expired Products,merged,0.778,0.778
+Expired Milk,1,Expired Products,merged,0.658,0.658
+Expired Product,1,Expired Products,merged,0.948,0.948
+Exploitative,1,Exploitative,new: below floor,0.36,
+Exploitative Pricing,1,Exploitative Pricing,new: rejected by LLM,0.743,
+Express Scams,1,Delivery Scam,merged,0.713,0.713
+Extended Wait Times,1,Delayed Service,merged,0.61,0.61
+Extortionary Offers,1,Fake Offers,merged,0.604,0.604
+Extra Amount,1,Extra Charge,merged,0.619,0.619
+Extra Charge Issue,1,Extra Charge,merged,0.831,0.831
+Extra Charge on Cancellation,1,Cancellation Fee Charged,merged,0.821,0.821
+Extra Charges Added,1,Extra Charge,merged,0.903,0.903
+Extra Charges Taken,1,Extra Charge,merged,0.86,0.86
+Extra Delivery Charge,1,High Delivery Charges,merged,0.762,0.762
+Extra Fees,1,Extra Charge,merged,0.73,0.73
+Extra Gst Charges,1,GST Charges,merged,0.9,0.9
+Extreme Delays,1,Delayed Service,merged,0.656,0.656
+Failed Coupon Initiation,1,Coupon Not Applied,merged,0.701,0.701
+Failed Delivery,1,Delivery Issue,merged,0.817,0.817
+Failed Issue Resolution,1,Failed Issue Resolution,new: below floor,0.566,
+Failed Order,1,Order Not Delivered,merged,0.69,0.69
+Failed Refund,1,No Refund,merged,0.785,0.785
+Fake Apology,1,Fake Apology,new: below floor,0.486,
+Fake Assurance,1,Fake Assurance,new: below floor,0.58,
+Fake Charges,1,Hidden Charges,merged,0.731,0.731
+Fake Coupon Scam,1,Coupon Not Applied,merged,0.661,0.661
+Fake Delivery Assignment,1,Delivery Scam,merged,0.66,0.66
+Fake Delivery Boy,1,Abusive Delivery Boy,merged,0.709,0.67
+Fake Delivery Charges,1,High Delivery Charges,merged,0.726,0.726
+Fake Delivery Times,1,Late Delivery,merged,0.705,0.666
+Fake Estimate Time,1,Incorrect Delivery Time Estimate,merged,0.656,0.656
+Fake Hotels,1,Fake Hotels,new: below floor,0.452,
+Fake Price Display,1,Fake Price Display,new: below floor,0.585,
+Fake Refund ID,1,No Refund,merged,0.639,0.639
+Fake Restaurants,1,Fake Restaurants,new: rejected by LLM,0.698,
+Fake Service,1,Fake Service,new: rejected by LLM,0.636,
+Fake Vouchers,1,Fake Vouchers,new: below floor,0.513,
+False Commitment,1,Broken Commitment Promise,merged,0.723,0.723
+False Delivery Confirmation,1,Delivery Issue,merged,0.666,0.666
+False Delivery Information,1,Delivery Scam,merged,0.618,0.618
+False Delivery Time Promise,1,Incorrect Delivery Time Estimate,merged,0.681,0.681
+False Excuses,1,Excuses Given,merged,0.844,0.844
+False Information,1,False Information,new: below floor,0.582,
+False Offer,1,Fake Offers,merged,0.786,0.786
+False Priority Treatment,1,False Priority Treatment,new: below floor,0.381,
+False Promotion,1,False Advertising,merged,0.631,0.631
+False Refund Promise,1,No Refund,merged,0.683,0.683
+False Updates,1,Lack Of Updates,merged,0.613,0.613
+Falsely Marked Delivered,1,Falsely Marked Delivered,new: below floor,0.581,
+Far Delivery Outlet,1,Far Delivery Outlet,new: below floor,0.564,
+Fast Delivery,1,Timely Delivery,merged,0.832,0.832
+Faulty Food Orders,1,Faulty Food Orders,new: rejected by LLM,0.681,
+Financial Loss,1,Financial Loss,new: below floor,0.482,
+Food Contamination,1,Contaminated Food,merged,0.933,0.933
+Food Delivery,1,Food Delivery,new: rejected by LLM,0.657,
+Food Delivery Delays,1,Delayed Food,merged,0.801,0.801
+Food Delivery Failure,1,Faulty Food Orders,merged,0.791,0.661
+Food Delivery Issues,1,Food Delivery Issues,new: rejected by LLM,0.873,
+Food Eaten By Delivery,1,Delivery Boys Eat Food,merged,0.854,0.666
+Food Not Good,1,Bad Food,merged,0.818,0.818
+Food Not Satisfying,1,Food Not Prepared,merged,0.71,0.71
+Food Out of Stock,1,Food Out of Stock,new: below floor,0.566,
+Food Package Tampered,1,Contaminated Food,merged,0.611,0.611
+Food Packages Damaged,1,Faulty Food Orders,merged,0.632,0.632
+Food Packaging Problem,1,Food Not Prepared,merged,0.726,0.639
+Food Poisoning,1,Contaminated Food,merged,0.777,0.777
+Food Quality Issue,1,Faulty Food Orders,merged,0.655,0.655
+Food Quality Not Noted,1,Food Quality Not Noted,new: below floor,0.57,
+Food Quantity,1,Food Quantity,new: below floor,0.559,
+Food Safety Issue,1,Contaminated Food,merged,0.709,0.709
+Food Taken Without Payment,1,Food Taken Without Payment,new: below floor,0.581,
+Food Temperature,1,Cold Food,merged,0.693,0.693
+Forced Acceptance,1,Forced Acceptance,new: below floor,0.408,
+Forced Add-Ons,1,Forced Add-Ons,new: below floor,0.342,
+Forced Rating,1,Forced Rating,new: below floor,0.426,
+Foreign Object,1,Foreign Object,new: below floor,0.29,
+Fraud App,1,App Cheats Customers,merged,0.75,0.627
+Fraud Company,1,Company Fraud,merged,0.869,0.861
+Fraud Delivery Agents,1,Delivery Scam,merged,0.705,0.705
+Fraud Delivery Partner,1,Delivery Partner Issue,merged,0.723,0.723
+Fraud Service,1,Fraud Service,new: rejected by LLM,0.673,
+Fraudulent Activities,1,Fraudulent Practices,merged,0.865,0.865
+Fraudulent App,1,App Cheats Customers,merged,0.81,0.671
+Fraudulent Charges,1,Fraudulent Practices,merged,0.723,0.712
+Fraudulent Order Listing,1,Fraudulent Order Listing,new: rejected by LLM,0.632,
+Fraudulent Orders,1,Fraudulent Order Listing,merged,0.849,0.849
+Free Cash Not Working,1,Cash Back Not Received,merged,0.661,0.661
+Freezing App,1,App Crashes,merged,0.711,0.711
+Frequent Updates,1,Frequent Updates,new: rejected by LLM,0.634,
+Fresh Food,1,Fresh Food,new: rejected by LLM,0.719,
+Frozen Food Not Packed,1,Food Not Prepared,merged,0.647,0.647
+FSSAI Complaints,1,FSSAI Complaints,new: below floor,0.517,
+Fungal Contamination,1,Fungal Contamination,new: below floor,0.572,
+Fungus in Cashew Nuts,1,Fungus in Cashew Nuts,new: below floor,0.508,
+Getting Lost,1,Getting Lost,new: below floor,0.431,
+Glitch in Application,1,Glitch in Application,new: below floor,0.575,
+Glitch Problem,1,Glitch in Application,merged,0.784,0.784
+Good Service Not Received,1,Poor Delivery Service,merged,0.713,0.653
+Greediness,1,Greediness,new: below floor,0.501,
+Grocery Delivery Time,1,Delivery Time Increase,merged,0.666,0.666
+GST Adjustment,1,GST Charges,merged,0.683,0.683
+GST Charge,1,GST Charges,merged,0.959,0.959
+GST Fraud,1,GST Fraud,new: rejected by LLM,0.729,
+Harassment For Refund,1,Unfair Refund Policy,merged,0.624,0.624
+Heavy Delay,1,Delayed Service,merged,0.61,0.61
+Help Line Unavailable,1,Broken Help Section,merged,0.729,0.729
+Helpful Support,1,Helpful Support,new: below floor,0.559,
+Helpless Support,1,Lack of Human Support,merged,0.619,0.609
+Hidden Delivery Charges,1,Hidden Charges,merged,0.707,0.707
+Hidden Delivery Fee,1,High Delivery Charges,merged,0.618,0.618
+Hidden Favourites Button,1,Hidden Favourites Button,new: below floor,0.272,
+Hidden GST Charges,1,GST Charges,merged,0.869,0.869
+Hidden Tax Charges,1,Hidden Charges,merged,0.725,0.725
+High Cancel Fee,1,Cancellation Fee Charged,merged,0.794,0.794
+High Delivery Cost,1,High Delivery Charges,merged,0.836,0.836
+High Delivery Price,1,High Delivery Charges,merged,0.83,0.83
+High Delivery Rates,1,High Delivery Charges,merged,0.802,0.802
+High Food Cost,1,High Prices,merged,0.634,0.634
+High GST Charges,1,High GST Charges,new: rejected by LLM,0.91,
+High Instamart Fees,1,High Instamart Fees,new: below floor,0.559,
+High Packaging Charges,1,High Delivery Charges,merged,0.825,0.825
+High Platform Fee,1,Excessive Platform Fee,merged,0.882,0.882
+High Service Rates,1,High Service Rates,new: rejected by LLM,0.634,
+High Tax,1,High Tax,new: below floor,0.594,
+High Tax Charges,1,High Tax,merged,0.817,0.817
+Higher Charges,1,Extra Charge,merged,0.699,0.699
+Higher Prices Charged,1,High Prices,merged,0.711,0.711
+Higher Total Bill,1,Higher Total Bill,new: below floor,0.443,
+Hungry Delivery Partner,1,Hungry Delivery Partner,new: rejected by LLM,0.719,
+Ice Cream Preservation,1,Missing Ice Cream,merged,0.619,0.619
+Ignored Pre-Cooking Instructions,1,Ignored Pre-Cooking Instructions,new: below floor,0.497,
+Ignored Special Instructions,1,Ignored Pre-Cooking Instructions,merged,0.627,0.627
+Image Zooming Issue,1,Image Zooming Issue,new: below floor,0.414,
+Impossible Black Membership Cancellation,1,Impossible Black Membership Cancellation,new: below floor,0.492,
+Inability to Cancel Order,1,Order Cancellation,merged,0.848,0.848
+Inaccurate Chatbot Responses,1,Ineffective Chatbot,merged,0.72,0.72
+Inaccurate Delivery Time,1,Incorrect Delivery Time Estimate,merged,0.876,0.876
+Inaccurate Delivery Time Estimates,1,Incorrect Delivery Time Estimate,merged,0.946,0.946
+Inaccurate Delivery Timings,1,Incorrect Delivery Time Estimate,merged,0.837,0.837
+Inaccurate Map,1,Inaccurate Map,new: below floor,0.478,
+Inaccurate Order Status,1,Incorrect Order,merged,0.674,0.674
+Inaccurate Price Comparison,1,Incorrect Price,merged,0.754,0.754
+Inaccurate Pricing Comparison,1,Incorrect Price,merged,0.697,0.697
+Inaccurate Support Response,1,Unresponsive Support,merged,0.656,0.656
+Inadequate Change Facility,1,Inadequate Change Facility,new: below floor,0.449,
+Inadequate Compensation,1,No Compensation,merged,0.75,0.75
+Inadequate Customer Compensation,1,Inadequate Customer Compensation,new: rejected by LLM,0.716,
+Inadequate Delivery Boy,1,Delivery Boy Ran Away,merged,0.753,0.605
+Inadequate Delivery Partners,1,Delivery Partner Issue,merged,0.741,0.741
+Inadequate Delivery Time Warning,1,Delivery Issues,merged,0.645,0.645
+Inadequate Delivery Tracking,1,Delivery Issues,merged,0.735,0.735
+Inadequate Packaging,1,Poor Packaging,merged,0.908,0.908
+Inappropriate Language,1,Bad Language Used,merged,0.74,0.74
+Incompetent Delivery Boy,1,Delivery Boy Ran Away,merged,0.707,0.631
+Incompetent Delivery Person,1,Incompetent Delivery Person,new: rejected by LLM,0.732,
+Incomplete Options,1,Duplicate Options,merged,0.638,0.638
+Incomplete Refunds,1,No Refund,merged,0.739,0.739
+Inconsiderate Policies,1,Inconsiderate Policies,new: rejected by LLM,0.62,
+Inconsistent Cancellation Policy,1,Order Cancellation,merged,0.75,0.629
+Inconsistent Charges Across Phones,1,Inconsistent Charges Across Phones,new: below floor,0.506,
+Inconsistent Delivery Speed,1,Incorrect Delivery Time Estimate,merged,0.716,0.716
+Inconsistent Delivery Time,1,Incorrect Delivery Time Estimate,merged,0.834,0.834
+Inconsistent Food Quality,1,Food Quality Not Noted,merged,0.772,0.772
+Inconsistent Menu Option,1,Inconsistent Menu Option,new: below floor,0.553,
+Inconsistent Partner Policy,1,Inconsistent Partner Policy,new: below floor,0.507,
+Inconvenient Food Timing,1,Delayed Food,merged,0.812,0.812
+Incorrect Address Display,1,Incorrect Address,merged,0.851,0.851
+Incorrect Address Entry,1,Incorrect Address,merged,0.918,0.918
+Incorrect Address Selection,1,Incorrect Address,merged,0.789,0.789
+Incorrect Address Update,1,Incorrect Address,merged,0.853,0.853
+Incorrect Availability,1,Incorrect Availability,new: below floor,0.466,
+Incorrect Cake,1,Incorrect Cake,new: below floor,0.414,
+Incorrect Cancellation Policy,1,Order Cancellation,merged,0.765,0.649
+Incorrect Change,1,Incorrect Change,new: below floor,0.49,
+Incorrect Charge,1,Inconsistent Charges Across Phones,merged,0.619,0.619
+Incorrect Contact Number,1,Incorrect Address,merged,0.624,0.624
+Incorrect Coupon Display,1,Coupon Not Applied,merged,0.722,0.722
+Incorrect Debit,1,Automatic Debit Issue,merged,0.788,0.788
+Incorrect Delivery Confirmation,1,Delivery Issue,merged,0.734,0.734
+Incorrect Delivery Date,1,Incorrect Delivery Time Estimate,merged,0.751,0.751
+Incorrect Delivery Distance,1,Incorrect Delivery Location,merged,0.805,0.805
+Incorrect Delivery Issue,1,Incorrect Delivery Location,merged,0.898,0.803
+Incorrect Delivery Order Allocation,1,Delivery Issue,merged,0.711,0.711
+Incorrect Delivery Person,1,Incompetent Delivery Person,merged,0.841,0.841
+Incorrect Delivery Prioritization,1,Incorrect Delivery Prioritization,new: below floor,0.599,
+Incorrect Delivery Priority,1,Incorrect Delivery Prioritization,merged,0.843,0.843
+Incorrect Delivery Route,1,Incorrect Delivery Location,merged,0.804,0.804
+Incorrect Delivery Time Estimation,1,Incorrect Delivery Time Estimate,merged,0.956,0.956
+Incorrect Delivery Time Updates,1,Incorrect Delivery Time Estimate,merged,0.779,0.779
+Incorrect Dispatch Information,1,Incorrect Dispatch Information,new: below floor,0.472,
+Incorrect Distance Calculation,1,Incorrect Distance Display,merged,0.736,0.736
+Incorrect Distance Charges,1,Distance-Based Charges,merged,0.727,0.727
+Incorrect Distance Estimate,1,Incorrect Distance Display,merged,0.668,0.668
+Incorrect Food Items,1,Faulty Food Orders,merged,0.755,0.755
+Incorrect Food Quality,1,Food Quality Not Noted,merged,0.802,0.802
+Incorrect Food Quantity,1,Food Quantity,merged,0.86,0.86
+Incorrect Food Status,1,Faulty Food Orders,merged,0.715,0.715
+Incorrect GST Calculation,1,GST Charges,merged,0.683,0.669
+Incorrect GST Charge,1,GST Charges,merged,0.874,0.874
+Incorrect GST Charges,1,GST Charges,merged,0.91,0.91
+Incorrect Hotel Prices,1,Incorrect Price,merged,0.673,0.673
+Incorrect Information,1,False Information,merged,0.705,0.705
+Incorrect Item Delivery,1,Delivery Issue,merged,0.738,0.738
+Incorrect Live Location,1,Incorrect Live Location,new: below floor,0.587,
+Incorrect Location,1,Incorrect Live Location,merged,0.738,0.738
+Incorrect Location Selection,1,Bad Location Selection,merged,0.86,0.86
+Incorrect Map Position,1,Inaccurate Map,merged,0.811,0.811
+Incorrect Menu Offer,1,Inconsistent Menu Option,merged,0.688,0.688
+Incorrect Order Clustering,1,Clustering Orders,merged,0.79,0.79
+Incorrect Order Fulfillment,1,Incorrect Order,merged,0.688,0.688
+Incorrect Order Payment Details,1,Payment Issues,merged,0.651,0.651
+Incorrect Order Placement,1,Incorrect Order,merged,0.87,0.87
+Incorrect Order Price,1,Incorrect Price,merged,0.833,0.833
+Incorrect Order Processing,1,Incorrect Order,merged,0.835,0.835
+Incorrect Order Time,1,Incorrect Order,merged,0.721,0.721
+Incorrect Order Time Estimate,1,Incorrect Delivery Time Estimate,merged,0.741,0.741
+Incorrect Order Total,1,Incorrect Order,merged,0.776,0.776
+Incorrect Payment Method,1,Payment Issues,merged,0.754,0.754
+Incorrect Preparation,1,Incorrect Preparation,new: below floor,0.449,
+Incorrect Price Display,1,Incorrect Price,merged,0.839,0.839
+Incorrect Product Display,1,Incorrect Product Display,new: below floor,0.599,
+Incorrect Products,1,Incorrect Product Display,merged,0.729,0.729
+Incorrect Refund,1,No Refund,merged,0.793,0.793
+Incorrect Refund Message,1,No Refund,merged,0.696,0.689
+Incorrect Replies,1,Incorrect Replies,new: below floor,0.495,
+Incorrect Restaurant Availability,1,Difficulty Finding Restaurant,merged,0.721,0.721
+Incorrect Restaurant Information,1,Difficulty Finding Restaurant,merged,0.649,0.649
+Incorrect Restaurant Number,1,Difficulty Finding Restaurant,merged,0.614,0.614
+Incorrect Restaurant Timings,1,Incorrect Restaurant Timings,new: below floor,0.561,
+Incorrect Route Taken,1,Incorrect Route Taken,new: below floor,0.481,
+Incorrect Service Area,1,Incorrect Service Area,new: below floor,0.558,
+Incorrect Status Update,1,Incorrect Status Update,new: below floor,0.594,
+Incorrect Stock Listing,1,Incorrect Stock Listing,new: below floor,0.578,
+Incorrect Stock Status,1,Incorrect Stock Listing,merged,0.769,0.769
+Incorrect Store Selection,1,Incorrect Store Selection,new: below floor,0.558,
+Incorrect Time Estimate,1,Incorrect Delivery Time Estimate,merged,0.772,0.772
+Incorrect Time Update,1,Incorrect Time Update,new: below floor,0.562,
+Incorrect Wait Time,1,Incorrect Wait Time,new: below floor,0.587,
+Incorrect Weather Forecast,1,Incorrect Weather Forecast,new: below floor,0.452,
+Incorrect Weather Information,1,Incorrect Weather Forecast,merged,0.829,0.829
+Increased Delivery Time,1,Delivery Time Increase,merged,0.954,0.954
+Increased Prices,1,Exorbitant Prices,merged,0.737,0.616
+Increasing Platform Fee,1,Excessive Platform Fee,merged,0.891,0.891
+Ineffective Chat Support,1,Ineffective Chatbot,merged,0.738,0.738
+Ineffective Feedback Mechanism,1,Ineffective Feedback Mechanism,new: below floor,0.392,
+Ineffective Problem Solving,1,Ineffective Problem Solving,new: below floor,0.441,
+Ineffective Refund Process,1,No Refund,merged,0.657,0.657
+Inefficient Complaint Handling,1,Unresolved Complaints,merged,0.662,0.662
+Inefficient Support Process,1,Inefficient Support Process,new: below floor,0.579,
+Inequitable Treatment of Loyal Customers,1,Inequitable Treatment of Loyal Customers,new: below floor,0.585,
+Infinite Loop of Delivery,1,Infinite Loop of Delivery,new: below floor,0.593,
+Infinite Loop Response,1,Infinite Loop of Delivery,merged,0.65,0.65
+Inhuman Restaurant Owners,1,Inhuman Restaurant Owners,new: below floor,0.552,
+Insufficient Funds,1,Insufficient Funds,new: below floor,0.513,
+Insufficient Manpower,1,Insufficient Manpower,new: below floor,0.529,
+Insufficient Quantity,1,Insufficient Quantity,new: below floor,0.575,
+Invalid Email Address,1,Incorrect Address,merged,0.654,0.654
+Irresponsible Service,1,Irresponsible Service,new: below floor,0.574,
+Irresponsive Customer Care,1,Irresponsive Customer Care,new: rejected by LLM,0.739,
+Irritating Notifications,1,Irritating Notifications,new: below floor,0.51,
+Items Out of Stock,1,Food Out of Stock,merged,0.771,0.771
+Lack of Action,1,Lack of Action,new: rejected by LLM,0.729,
+Lack of Cancellation Info,1,Missing Cancel Option,merged,0.696,0.696
+Lack Of Communication,1,Lack Of Communication,new: rejected by LLM,0.601,
+Lack of Consideration for Travel Time,1,Lack of Consideration for Travel Time,new: below floor,0.372,
+Lack of Control,1,Lack of Control,new: rejected by LLM,0.731,
+Lack of Coupon,1,Coupon Not Applied,merged,0.652,0.652
+Lack of Coupons,1,Lack of Coupons,new: below floor,0.553,
+Lack of Courtesies,1,Lack of Courtesies,new: below floor,0.563,
+Lack of Credible Notifications,1,Lack of Credible Notifications,new: rejected by LLM,0.605,
+Lack of Customer Retention,1,Lack of Customer Retention,new: rejected by LLM,0.61,
+Lack of Customer Service,1,Customer Service Failure,merged,0.771,0.771
+Lack of Customer Service Platform,1,Poor Customer Support,merged,0.616,0.615
+Lack of Delivery Executives,1,Lack of Delivery Executives,new: rejected by LLM,0.681,
+Lack of Delivery Info,1,Delivery Issues,merged,0.75,0.75
+Lack Of Design,1,Lack Of Design,new: below floor,0.58,
+Lack of Discount,1,Lack of Coupons,merged,0.752,0.752
+Lack of Discounts,1,Lack of Coupons,merged,0.779,0.779
+Lack of Flat Off Coupons,1,Lack of Coupons,merged,0.878,0.878
+Lack Of Follow Up,1,Lack Of Follow Up,new: below floor,0.538,
+Lack of Food Packaging,1,Poor Packaging,merged,0.696,0.696
+Lack of Halal Certification,1,Lack of Halal Certification,new: below floor,0.453,
+Lack of Help,1,Lack of Action,merged,0.655,0.655
+Lack of Help Option,1,Broken Help Section,merged,0.687,0.687
+Lack of Human Customer Service,1,Irresponsive Customer Care,merged,0.625,0.625
+Lack of Human Touch,1,Lack of Human Touch,new: below floor,0.57,
+Lack of Inquiry Numbers,1,Lack of Inquiry Numbers,new: below floor,0.438,
+Lack of Order Notification,1,Lack of Credible Notifications,merged,0.63,0.63
+Lack of Personalization,1,Lack of Personalization,new: below floor,0.539,
+Lack of Privileges,1,Lack of Privileges,new: below floor,0.589,
+Lack of Quality Control,1,Lack of Quality Control,new: rejected by LLM,0.684,
+Lack of Quantity Details,1,Insufficient Quantity,merged,0.704,0.704
+Lack of Reasonable Preparation Time,1,Lack of Reasonable Preparation Time,new: below floor,0.594,
+Lack of Response to Complaints,1,Unresolved Complaints,merged,0.762,0.762
+Lack Of Responsibilities,1,Lack Of Responsibilities,new: rejected by LLM,0.909,
+Lack of Service Improvement,1,Lack of Service Improvement,new: rejected by LLM,0.766,
+Lack Of Solution,1,Lack Of Solution,new: rejected by LLM,0.649,
+Lack of Store Hours Update,1,Lack of Store Hours Update,new: below floor,0.556,
+Lack of Time Compensation,1,Lack of Time Compensation,new: below floor,0.596,
+Lack of Tracking Facility,1,Lack of Tracking Facility,new: below floor,0.469,
+Lack of Training,1,Lack of Training,new: rejected by LLM,0.66,
+Lack of Trust,1,Lack of Trust,new: rejected by LLM,0.672,
+Lack of Trustworthiness,1,Lack of Trustworthiness,new: rejected by LLM,0.862,
+Lack of Value,1,Lack of Value,new: rejected by LLM,0.603,
+Lack Of Variety,1,Lack Of Variety,new: rejected by LLM,0.683,
+Last Minute Order Cancellation,1,Order Cancellation,merged,0.869,0.869
+Late Arrival,1,Late Delivery,merged,0.802,0.802
+Late Delivery Agent,1,Late Delivery,merged,0.813,0.813
+Late Delivery Assignment,1,Late Delivery,merged,0.817,0.817
+Late Delivery Assignments,1,Late Delivery,merged,0.787,0.787
+Late Delivery Boy,1,Late Delivery,merged,0.78,0.78
+Late Delivery Boy Assignment,1,Late Delivery,merged,0.7,0.642
+Late Delivery Marked,1,Late Delivery,merged,0.837,0.837
+Late Delivery Partner Assignment,1,Delivery Partner Issue,merged,0.735,0.735
+Late Delivery Refusal,1,Late Delivery,merged,0.76,0.76
+Late Delivery Times,1,Late Delivery,merged,0.914,0.914
+Late Delivery Timing,1,Late Delivery,merged,0.898,0.898
+Late Food,1,Delayed Food,merged,0.821,0.821
+Late Night Delivery,1,Late Delivery,merged,0.852,0.852
+Late Night Delivery Fraud,1,Delivery Scam,merged,0.656,0.656
+Late Night Delivery Issue,1,Late Delivery,merged,0.722,0.707
+Late Night Delivery Issues,1,Late Delivery,merged,0.713,0.713
+Late Night Delivery Refusal,1,Late Delivery,merged,0.624,0.624
+Late Night Fee,1,Late Night Fee,new: below floor,0.548,
+Late Night Ordering,1,Late Night Ordering,new: below floor,0.572,
+Late Night Orders,1,Late Night Fee,merged,0.931,0.623
+Late Night Restaurant Availability,1,Late Night Restaurant Availability,new: rejected by LLM,0.66,
+Late Night Service,1,Late Night Fee,merged,0.705,0.705
+Late Order,1,Late Delivery,merged,0.688,0.612
+Late Order Assignment,1,Late Order Assignment,new: below floor,0.586,
+Late Order Collection,1,Late Order Assignment,merged,0.612,0.612
+Late Order Pickup,1,Late Delivery,merged,0.663,0.663
+Late Order Processing,1,Late Order Assignment,merged,0.739,0.739
+Late Payment Confirmation,1,Advance Payment Scam,merged,0.735,0.62
+Late Service,1,Delayed Service,merged,0.835,0.835
+Late Services,1,Delayed Service,merged,0.756,0.756
+Less Discounts,1,Misleading Discounts,merged,0.72,0.72
+Limited Chatbot Functionality,1,Ineffective Chatbot,merged,0.74,0.74
+Limited Delivery Hours,1,Delivery Time Increase,merged,0.657,0.657
+Limited Offers,1,Lack of Offers,merged,0.642,0.642
+Limited Service Availability,1,Incorrect Availability,merged,0.61,0.61
+Location Changes,1,Bad Location Selection,merged,0.667,0.667
+Location Error,1,Incorrect Live Location,merged,0.631,0.631
+Location Issue,1,Bad Location Selection,merged,0.735,0.735
+Location Not Working,1,Incorrect Live Location,merged,0.649,0.649
+Location Specific Issue,1,Bad Location Selection,merged,0.736,0.736
+Location Verification Issue,1,Bad Location Selection,merged,0.612,0.612
+Login App Failure,1,Login Problem,merged,0.718,0.718
+Login Error,1,Login Problem,merged,0.904,0.904
+Long Call Waiting,1,Long Wait Time,merged,0.631,0.631
+Long Customer Support,1,Irresponsive Customer Care,merged,0.684,0.605
+Long Customer Support Wait Time,1,Delayed Service,merged,0.647,0.62
+Long Delivery Times,1,Delivery Time Increase,merged,0.705,0.705
+Long Food Delivery Time,1,Delivery Time Increase,merged,0.739,0.641
+Long Hold Times,1,Long Hold Times,new: below floor,0.591,
+Long Order Acceptance,1,Forced Acceptance,merged,0.64,0.64
+Long Order Cancellation Process,1,Order Cancellation,merged,0.841,0.841
+Long Order Delay,1,Incorrect Wait Time,merged,0.64,0.64
+Long Order Processing Time,1,Long Order Processing Time,new: below floor,0.47,
+Long Order Time,1,Long Order Processing Time,merged,0.783,0.783
+Long Preparation Time,1,Lack of Reasonable Preparation Time,merged,0.723,0.723
+Long Wait for Refund,1,No Refund,merged,0.817,0.817
+Long Wait for Response,1,Long Wait Time,merged,0.702,0.702
+Long Wait Time for Nearby Restaurant,1,Long Wait Time for Nearby Restaurant,new: rejected by LLM,0.65,
+Long Waiting Periods,1,Long Wait Time,merged,0.615,0.615
+Longer Delivery Times,1,Delivery Time Increase,merged,0.816,0.816
+Loss of Trust,1,Loss of Trust,new: rejected by LLM,0.799,
+Lost Food,1,Food Stolen,merged,0.696,0.696
+Lost Food Value,1,Lost Food Value,new: rejected by LLM,0.604,
+Lost Money,1,Financial Loss,merged,0.709,0.709
+Low Compensation,1,No Compensation,merged,0.689,0.689
+Low Coupon,1,Lack of Coupons,merged,0.725,0.725
+Low Food Quality,1,Food Quality Not Noted,merged,0.809,0.809
+Low Quality Food,1,Food Quality Not Noted,merged,0.775,0.775
+Low Quality Product,1,Lack of Quality Control,merged,0.612,0.612
+Low Quantity,1,Insufficient Quantity,merged,0.688,0.688
+Low Refund,1,No Refund,merged,0.77,0.77
+Low Refund Amount,1,No Refund,merged,0.661,0.661
+Lower Prices Offered,1,Lower Prices Offered,new: below floor,0.597,
+Manipulative Compensation Request,1,No Compensation,merged,0.634,0.634
+Massive Delays,1,Delayed Service,merged,0.66,0.66
+Melted Ice Cream,1,Missing Ice Cream,merged,0.75,0.75
+Membership Loss,1,Membership Loss,new: below floor,0.572,
+Membership Misuse,1,Membership Loss,merged,0.625,0.625
+Membership Not Honored,1,Membership Loss,merged,0.642,0.642
+Menu Changes,1,Inconsistent Menu Option,merged,0.703,0.703
+Menu Not Opening,1,Menu Not Opening,new: below floor,0.538,
+Messy Items,1,Messy Items,new: below floor,0.507,
+Midnight Delivery,1,Late Delivery,merged,0.72,0.72
+Minimum Cart Value,1,Minimum Cart Value,new: below floor,0.548,
+Misallocated Order,1,Incorrect Order,merged,0.791,0.791
+Misattribution of Blame,1,Blame Shifting,merged,0.653,0.653
+Misbehaved Delivery Boy,1,Abusive Delivery Boy,merged,0.729,0.729
+Misbehaving Delivery Partners,1,Delivery Partner Issue,merged,0.844,0.844
+Miscommunication About Refund Timing,1,No Refund,merged,0.662,0.609
+Miscommunication Between Partner And Restaurant,1,Miscommunication Between Partner And Restaurant,new: below floor,0.552,
+Misleading App Name,1,Misleading App Name,new: rejected by LLM,0.602,
+Misleading Communication,1,Miscommunication,merged,0.744,0.744
+Misleading Consumers,1,False Advertising,merged,0.617,0.617
+Misleading Coupons,1,Misleading Discounts,merged,0.724,0.702
+Misleading Customer Support,1,Poor Customer Support,merged,0.744,0.744
+Misleading Deals,1,Misleading Discounts,merged,0.729,0.729
+Misleading Delivery Time,1,Incorrect Delivery Time Estimate,merged,0.801,0.801
+Misleading Demand Statement,1,Misleading Demand Statement,new: below floor,0.542,
+Misleading Distance Display,1,Incorrect Distance Display,merged,0.937,0.937
+Misleading Distance Information,1,Incorrect Distance Display,merged,0.688,0.688
+Misleading Estimated Times,1,Incorrect Delivery Time Estimate,merged,0.685,0.685
+Misleading Financial Information,1,Misleading Financial Information,new: below floor,0.595,
+Misleading Food Quality,1,Food Quality Not Noted,merged,0.789,0.789
+Misleading Information,1,False Information,merged,0.778,0.778
+Misleading Membership Offer,1,Misleading Membership Offer,new: below floor,0.58,
+Misleading Offer,1,Misleading Membership Offer,merged,0.743,0.743
+Misleading Priority Mode,1,False Priority Treatment,merged,0.656,0.656
+Misleading Product Images,1,Incorrect Product Display,merged,0.611,0.611
+Misleading Rating Request,1,Forced Rating,merged,0.624,0.624
+Misleading Restaurant Location,1,Difficulty Finding Restaurant,merged,0.693,0.693
+Misleading Sale Offers,1,Misleading Membership Offer,merged,0.739,0.739
+Misleading Sales,1,Misleading Discounts,merged,0.679,0.679
+Misleading Status Update,1,Incorrect Status Update,merged,0.901,0.901
+Misleading Timeline,1,Misleading Timeline,new: below floor,0.462,
+Misleading Timing,1,Misleading Timeline,merged,0.673,0.673
+Misleading Tracking,1,Lack of Tracking Facility,merged,0.662,0.662
+Mismatched Bills,1,Incorrect Billing,merged,0.619,0.619
+Mismatched Rates,1,Mismatched Rates,new: below floor,0.526,
+Misplaced Menu Section,1,Inconsistent Menu Option,merged,0.63,0.63
+Misrepresentation,1,Miscommunication,merged,0.63,0.63
+Misrepresented Capacity,1,Misrepresented Capacity,new: below floor,0.532,
+Missed Items,1,Missing Items,merged,0.868,0.868
+Missing Balance,1,Missing Balance,new: below floor,0.497,
+Missing Bill,1,Missing Bill,new: below floor,0.496,
+Missing Burger,1,Missing Burger,new: rejected by LLM,0.67,
+Missing Cake,1,Incorrect Cake,merged,0.795,0.795
+Missing Cash Discount,1,Missing Cash Discount,new: below floor,0.597,
+Missing Cash Offer,1,Missing Cash Discount,merged,0.749,0.749
+Missing Cash Option,1,Missing Cash Discount,merged,0.737,0.737
+Missing Cash Refund,1,Cash Back Not Received,merged,0.741,0.741
+Missing Change,1,Incorrect Change,merged,0.814,0.814
+Missing Chutney,1,Missing Chutney,new: below floor,0.434,
+Missing Cooking Request Status,1,Missing Cooking Request Status,new: below floor,0.492,
+Missing Customer Care Number,1,No Customer Care Number,merged,0.844,0.844
+Missing Customer Ratings,1,Missing Customer Ratings,new: below floor,0.516,
+Missing Delivery Boy,1,Delivery Boy Ran Away,merged,0.721,0.721
+Missing Discount Coupons,1,Missing Cash Discount,merged,0.746,0.746
+Missing Discount Offer,1,Missing Cash Discount,merged,0.779,0.779
+Missing Discounts,1,Missing Cash Discount,merged,0.811,0.811
+Missing Dosa,1,Missing Dosa,new: below floor,0.304,
+Missing Eatlists,1,Missing Eatlists,new: below floor,0.569,
+Missing Food,1,Lost Food Value,merged,0.705,0.705
+Missing Food Delivery,1,Food Delivery Issues,merged,0.849,0.849
+Missing Food Items,1,Missing Items,merged,0.76,0.76
+Missing Food Order,1,Faulty Food Orders,merged,0.81,0.81
+Missing Funds,1,Insufficient Funds,merged,0.758,0.758
+Missing Gift Card Details,1,Missing Gift Card Details,new: below floor,0.422,
+Missing Gravy,1,Missing Gravy,new: below floor,0.492,
+Missing Invoice,1,Missing Bill,merged,0.652,0.652
+Missing Item Refund,1,No Refund,merged,0.695,0.695
+Missing Items Again,1,Missing Items,merged,0.961,0.961
+Missing Main Course,1,Missing Main Course,new: below floor,0.421,
+Missing Non-Veg Filter,1,Missing Non-Veg Filter,new: below floor,0.318,
+Missing Offer,1,Lack of Offers,merged,0.659,0.659
+Missing Offer Availability,1,Lack of Offers,merged,0.684,0.684
+Missing Offer Details,1,Lack of Offers,merged,0.643,0.643
+Missing Option,1,Missing Option,new: below floor,0.552,
+Missing Order After Payment,1,Order Not Delivered,merged,0.646,0.646
+Missing Order Confirmation,1,Order Not Delivered,merged,0.641,0.641
+Missing Order Details,1,Incorrect Order,merged,0.67,0.67
+Missing Order Receipt,1,Order Not Delivered,merged,0.633,0.633
+Missing Orders,1,Missing Items,merged,0.649,0.649
+Missing Packing Material,1,Poor Packaging,merged,0.627,0.627
+Missing Pancakes,1,Missing Pancakes,new: below floor,0.506,
+Missing Photo Sharing Option,1,Missing Photo Sharing Option,new: below floor,0.475,
+Missing Product,1,Missing Items,merged,0.678,0.678
+Missing Public Review Section,1,Missing Public Review Section,new: below floor,0.436,
+Missing Response,1,No Response,merged,0.67,0.67
+Missing Restaurant Reviews,1,Difficulty Finding Restaurant,merged,0.632,0.615
+Missing Stock,1,Food Out of Stock,merged,0.622,0.622
+Misstated Policy,1,Misstated Policy,new: rejected by LLM,0.69,
+Mixed Customer Service,1,Mixed Customer Service,new: rejected by LLM,0.68,
+Money-Driven,1,Money-Driven,new: below floor,0.49,
+Money Lost Due to Error,1,Financial Loss,merged,0.654,0.654
+Money Not Credited,1,Money Not Credited,new: below floor,0.589,
+Money Not Fully Refunded,1,No Refund,merged,0.707,0.707
+Money Scam Attempt,1,Advance Payment Scam,merged,0.7,0.67
+Money Stolen,1,Money Theft,merged,0.903,0.903
+Money Taken,1,Money Taken,new: below floor,0.598,
+Money Wasted,1,Money Wasted,new: rejected by LLM,0.711,
+Multi Cart Option,1,Multi Cart Option,new: below floor,0.513,
+Multiple Accounts Issue,1,Account Linking Problem,merged,0.633,0.633
+Multiple Deliveries Clubbed,1,Multiple Deliveries Clubbed,new: below floor,0.54,
+Multiple Fees Charged,1,Cancellation Fee Charged,merged,0.613,0.613
+Multiple Orders,1,Multiple Orders,new: rejected by LLM,0.609,
+Multiple Orders Delivered,1,Multiple Orders Delivered,new: rejected by LLM,0.856,
+Multiple Orders Delivered Together,1,Multiple Orders Delivered,merged,0.978,0.978
+Multiple Orders Picked Up at Once,1,Multiple Orders Picked Up at Once,new: rejected by LLM,0.826,
+Multiple Unnecessary Calls,1,Multiple Unnecessary Calls,new: below floor,0.507,
+No Action Against Delivery Partner,1,Delivery Partner Issue,merged,0.807,0.807
+No Action On Complaints,1,Unresolved Complaints,merged,0.683,0.683
+No Action Taken,1,Lack of Action,merged,0.649,0.649
+No Agent Support,1,No Agent Support,new: below floor,0.551,
+No Alternate Solution,1,Lack Of Solution,merged,0.668,0.668
+No Assistance,1,No Response,merged,0.623,0.623
+No Black Invite,1,No Black Invite,new: below floor,0.426,
+No Call Support,1,Call Center No Response,merged,0.723,0.723
+No Cancelation Option,1,Missing Cancel Option,merged,0.885,0.885
+No Cash on Delivery,1,No Cash on Delivery,new: rejected by LLM,0.733,
+No Cash Payment Option,1,No Cash on Delivery,merged,0.657,0.657
+No Complaint Mechanism,1,No Complaint Mechanism,new: below floor,0.583,
+No Complaint Option,1,No Complaint Mechanism,merged,0.768,0.768
+No Contact,1,No Response,merged,0.613,0.613
+No Contact Number,1,No Customer Care Number,merged,0.738,0.738
+No Control Over Delivery Time,1,Delivery Issue,merged,0.712,0.694
+No Coupon Available,1,Coupon Not Applied,merged,0.807,0.807
+No Customer Executive Available,1,No Customer Executive Available,new: below floor,0.58,
+No Customer Satisfaction,1,No Customer Satisfaction,new: rejected by LLM,0.609,
+No Customer Service Option,1,No Customer Care Number,merged,0.693,0.693
+No Delivery Partner Assigned,1,Delivery Partner Issue,merged,0.787,0.787
+No Delivery Partner Contact,1,Delivery Partner Issue,merged,0.76,0.76
+No Delivery Partners Available,1,Delivery Partner Issue,merged,0.763,0.763
+No Delivery Person,1,Delivery Guy Doesn't Pickup,merged,0.741,0.687
+No Direct Contact,1,No Direct Contact,new: below floor,0.561,
+No Direct Number,1,No Direct Contact,merged,0.632,0.632
+No Discount Offered,1,Missing Cash Discount,merged,0.686,0.686
+No Discounts,1,Misleading Discounts,merged,0.606,0.606
+No Exchange,1,No Exchange,new: below floor,0.564,
+No Express Delivery,1,No Cash on Delivery,merged,0.693,0.649
+No Food Quality,1,Food Not Prepared,merged,0.772,0.66
+No Free Delivery,1,No Cash on Delivery,merged,0.647,0.647
+No Help From Customer Service,1,Customer Service Failure,merged,0.733,0.733
+No Helpline Support,1,Closed Helpline,merged,0.679,0.679
+No Image Upload,1,No Image Upload,new: below floor,0.462,
+No Immediate Help,1,No Immediate Help,new: below floor,0.533,
+No Live Update,1,Lack Of Updates,merged,0.646,0.646
+No Meaning,1,No Meaning,new: below floor,0.432,
+No Notification of Delay,1,Delayed Service,merged,0.639,0.639
+No Order Cancellation Option,1,Order Cancellation,merged,0.86,0.86
+No Order Received,1,Order Not Delivered,merged,0.855,0.855
+No Order Resolution,1,No Resolution,merged,0.74,0.74
+No Pancakes Sent,1,Missing Pancakes,merged,0.692,0.692
+No Proper Reply,1,No Response,merged,0.752,0.752
+No Proper Solution,1,Lack Of Solution,merged,0.718,0.718
+No Provision of Extras,1,No Provision of Extras,new: below floor,0.552,
+No Quality,1,Lack of Quality Control,merged,0.638,0.638
+No Reason Given,1,No Reason Given,new: below floor,0.483,
+No Refund Offered,1,No Refund,merged,0.878,0.878
+No Refund System,1,No Refund,merged,0.823,0.823
+No Replacement Offered,1,No Replacement,merged,0.911,0.911
+No Replacement Policy,1,Misstated Policy,merged,0.642,0.642
+No Reply from Customer Support,1,Poor Customer Support,merged,0.681,0.681
+No Resolution Process,1,No Resolution,merged,0.877,0.877
+No Response After Confirmation,1,No Response,merged,0.626,0.626
+No Response from Customer Care,1,No Customer Care Number,merged,0.686,0.686
+No Response from Support,1,No Response,merged,0.695,0.695
+No Response To Calls,1,Call Center No Response,merged,0.835,0.835
+No Response to Complaints,1,Unresolved Complaints,merged,0.665,0.665
+No Responses From Customer Support,1,Poor Customer Support,merged,0.697,0.697
+No Restaurants Available,1,Difficulty Finding Restaurant,merged,0.728,0.728
+No Return Refund Option,1,No Refund,merged,0.772,0.772
+No Returns Allowed,1,No Return Policy,merged,0.735,0.735
+No Rider Assignment Solution,1,No Rider Assignment Solution,new: below floor,0.46,
+No Rider Available,1,No Rider Available,new: below floor,0.553,
+No Service Provided,1,No Service Provided,new: below floor,0.557,
+No Solution Provided,1,Lack Of Solution,merged,0.609,0.609
+No Stock,1,No Stock,new: below floor,0.565,
+No Support,1,Unresponsive Support,merged,0.647,0.643
+No Support for Clients,1,No Agent Support,merged,0.609,0.609
+No Time Limits Cancellation,1,No Time Limits Cancellation,new: below floor,0.493,
+No Updates,1,Lack Of Updates,merged,0.846,0.846
+No Urgency In Resolution,1,Delayed Resolution,merged,0.617,0.617
+No Value,1,No Value,new: rejected by LLM,0.77,
+No Waterproof Bags,1,No Waterproof Bags,new: below floor,0.362,
+Non-Delivery,1,Delivery Issues,merged,0.709,0.675
+Non-Existent Restaurant,1,Difficulty Finding Restaurant,merged,0.757,0.757
+Non-Existent Support,1,Non-Existent Support,new: below floor,0.596,
+Non-Functional Help Chat,1,Non-Functional Help Chat,new: below floor,0.492,
+Non-Functional Help Desk,1,Non-Functional Help Chat,merged,0.637,0.637
+Non-Received Invoice,1,Non-Received Invoice,new: below floor,0.543,
+Notification Settings,1,Irritating Notifications,merged,0.629,0.629
+Offer Not Applied,1,Fake Offers,merged,0.601,0.601
+Offer Reduction,1,Offer Reduction,new: rejected by LLM,0.61,
+Old Number Requirement,1,Old Number Requirement,new: below floor,0.429,
+One-Sided Rules,1,One-Sided Rules,new: below floor,0.354,
+Order Acceptance Inconsistency,1,Incorrect Order,merged,0.623,0.623
+Order Acceptance Issue,1,Order Not Delivered,merged,0.622,0.622
+Order Amount Error,1,Order Amount Error,new: rejected by LLM,0.609,
+Order Cancellation Error,1,Order Cancellation,merged,0.852,0.852
+Order Cancellation Failure,1,Order Cancellation,merged,0.848,0.848
+Order Cancellation Issues,1,Order Cancellation,merged,0.923,0.923
+Order Cancellation Not Allowed,1,Order Cancellation,merged,0.863,0.863
+Order Cancellation Refusal,1,Order Cancellation,merged,0.832,0.832
+Order Cancellation Rejection,1,Order Cancellation,merged,0.884,0.884
+Order Cancellation Request,1,Order Cancellation,merged,0.913,0.913
+Order Cancellation Restrictions,1,Order Cancellation,merged,0.926,0.926
+Order Cancellation Without Consent,1,Order Cancellation,merged,0.835,0.835
+Order Cancellation without Refund,1,Order Cancellation,merged,0.865,0.865
+Order Changes,1,Incorrect Order,merged,0.644,0.644
+Order Confirmation Error,1,Order Amount Error,merged,0.677,0.677
+Order Confirmation Failure,1,Order Not Delivered,merged,0.646,0.646
+Order Delay,1,Incorrect Wait Time,merged,0.649,0.649
+Order Delay Issue,1,Incorrect Wait Time,merged,0.652,0.652
+Order Delayed,1,Delayed Service,merged,0.675,0.675
+Order Denial,1,Order Cancellation,merged,0.709,0.709
+Order Denied,1,Order Not Delivered,merged,0.619,0.619
+Order Details Ignored,1,Order Details Ignored,new: below floor,0.573,
+Order Fulfillment Error,1,Order Amount Error,merged,0.742,0.742
+Order ID Request,1,Order ID Request,new: below floor,0.532,
+Order Mess,1,Incorrect Order,merged,0.647,0.645
+Order Mismatch,1,Incorrect Order,merged,0.842,0.842
+Order Mistake,1,Incorrect Order,merged,0.898,0.898
+Order Modification Calls,1,Order Modification Calls,new: below floor,0.576,
+Order Not Picked,1,Order Not Delivered,merged,0.657,0.657
+Order Not Placing,1,Order Not Delivered,merged,0.685,0.685
+Order Not Processed,1,Order Not Delivered,merged,0.825,0.825
+Order Not Ready,1,Order Not Delivered,merged,0.71,0.71
+Order On Hold,1,Order On Hold,new: below floor,0.57,
+Order Placement Error,1,Incorrect Order,merged,0.734,0.734
+Order Placement Issue,1,Incorrect Order,merged,0.725,0.725
+Order Price Updates,1,Order Price Updates,new: below floor,0.533,
+Order Quantity,1,Order Amount Error,merged,0.693,0.647
+Order Refusal,1,Order Cancellation,merged,0.6,0.6
+Order Rejection,1,Order Cancellation,merged,0.613,0.613
+Order Replacement,1,No Replacement,merged,0.694,0.694
+Order Return Issue,1,Incorrect Order,merged,0.674,0.674
+Order Scam,1,Fraudulent Order Listing,merged,0.75,0.665
+Order Status Confusion,1,Incorrect Order,merged,0.649,0.649
+Ordering Issue,1,Incorrect Order,merged,0.858,0.858
+Orders Clubbed Together,1,Multiple Deliveries Clubbed,merged,0.673,0.673
+Orders Not Delivered,1,Order Not Delivered,merged,0.951,0.951
+Orders Not Fulfilled,1,Order Not Delivered,merged,0.804,0.804
+Out of Stock Item,1,Food Out of Stock,merged,0.728,0.728
+Out of Stock Items,1,Food Out of Stock,merged,0.761,0.761
+Overpriced Food,1,Overpriced Food,new: below floor,0.569,
+Overpriced Golden Membership,1,Overpriced Golden Membership,new: below floor,0.49,
+Overpriced Orders,1,High Prices,merged,0.682,0.601
+Overworked Delivery Person,1,Delivery Person Overload,merged,0.852,0.852
+Packing Rate Varies,1,Packing Rate Varies,new: below floor,0.471,
+Partial Order,1,Incorrect Order,merged,0.634,0.634
+Partner Assignment Delay,1,Partner Assignment Delay,new: below floor,0.538,
+Partner Not Available,1,Partner Not Available,new: below floor,0.579,
+Partner Refusal,1,Inconsistent Partner Policy,merged,0.641,0.641
+Partnership Conflict,1,Inconsistent Partner Policy,merged,0.654,0.654
+Pathetic Customer Care,1,Poor Customer Support,merged,0.737,0.737
+Pathetic Customer Support,1,Poor Customer Support,merged,0.822,0.822
+Pathetic Delivery,1,Poor Delivery Service,merged,0.637,0.63
+Pathetic Service,1,Pathetic Service,new: rejected by LLM,0.658,
+Pathetic Support Team,1,Pathetic Support Team,new: below floor,0.585,
+Pay Later App Issue,1,Pay Later App Issue,new: rejected by LLM,0.618,
+Payment Already Made,1,Payment Issues,merged,0.68,0.68
+Payment Confirmation Error,1,Payment Issues,merged,0.698,0.698
+Payment Confirmation Issue,1,Payment Issues,merged,0.751,0.751
+Payment Deduction Without Consent,1,Payment Deduction Without Consent,new: below floor,0.514,
+Payment Failures,1,Payment Issues,merged,0.818,0.818
+Payment Method Blocked,1,Payment Issues,merged,0.665,0.665
+Payment Method Glitch,1,Payment Issues,merged,0.73,0.73
+Payment Not Accepted,1,Payment Issues,merged,0.788,0.788
+Payment Not Reflected,1,Payment Issues,merged,0.724,0.724
+Payment Options Limited,1,Payment Options Limited,new: below floor,0.572,
+Payment Problem,1,Payment Issues,merged,0.947,0.947
+Payment Service,1,Payment Issues,merged,0.688,0.688
+Payment Taken Immediately,1,Early Payment Request,merged,0.725,0.725
+Penalty for Cancellation,1,Cancellation Fee Charged,merged,0.724,0.724
+Pending Refunds,1,No Refund,merged,0.709,0.709
+Plastic Packaging,1,Poor Packaging,merged,0.641,0.641
+Platform Fee,1,Excessive Platform Fee,merged,0.856,0.856
+Platform Fees,1,Excessive Platform Fee,merged,0.841,0.841
+Poor Acknowledgement,1,Poor Acknowledgement,new: below floor,0.452,
+Poor Address Highlighting,1,Poor Address Highlighting,new: below floor,0.522,
+Poor AI,1,Poor AI,new: below floor,0.421,
+Poor AI Support,1,Poor AI Support,new: rejected by LLM,0.827,
+Poor App,1,App Crashes,merged,0.632,0.632
+Poor Application,1,Poor Application,new: below floor,0.583,
+Poor Assistance,1,Poor Assistance,new: below floor,0.596,
+Poor Communication,1,Lack Of Communication,merged,0.88,0.88
+Poor Complaint Resolution,1,Unresolved Complaint,merged,0.783,0.783
+Poor Customer Care Response,1,Poor Customer Support,merged,0.814,0.814
+Poor Customer Care Service,1,Poor Customer Support,merged,0.825,0.825
+Poor Customer Response,1,Poor Customer Support,merged,0.789,0.789
+Poor Customer Service Response,1,Poor Customer Support,merged,0.803,0.803
+Poor Customer Understanding,1,Poor Customer Understanding,new: rejected by LLM,0.713,
+Poor Delivery Partner,1,Delivery Partner Issue,merged,0.805,0.805
+Poor Delivery Partners,1,Poor Delivery Service,merged,0.815,0.815
+Poor Delivery Quality,1,Poor Delivery Service,merged,0.844,0.844
+Poor Driver Allocation,1,Driver Assignment Delay,merged,0.661,0.661
+Poor Help,1,Poor Assistance,merged,0.746,0.746
+Poor Interface,1,Poor Interface,new: below floor,0.561,
+Poor Management,1,Poor Management,new: rejected by LLM,0.635,
+Poor Offers,1,Lack of Offers,merged,0.779,0.779
+Poor Presentation,1,Poor Presentation,new: below floor,0.466,
+Poor Quality,1,Poor Service Quality,merged,0.711,0.711
+Poor Quality App,1,Poor Quality App,new: rejected by LLM,0.831,
+Poor Quality of Food,1,Food Quality Not Noted,merged,0.793,0.793
+Poor Quality Service,1,Poor Service Quality,merged,0.961,0.961
+Poor Refund Process,1,No Refund,merged,0.721,0.721
+Poor Resolution,1,No Resolution,merged,0.868,0.868
+Poor Search Functionality,1,Search Bar Bug,merged,0.67,0.67
+Poor Service Experience,1,Poor Service Experience,new: rejected by LLM,0.807,
+Poor Services,1,Poor Service Experience,merged,0.811,0.811
+Poor Staff,1,Poor Staff,new: rejected by LLM,0.675,
+Poor Suggestion,1,Poor Suggestion,new: below floor,0.422,
+Poor Support Staff,1,Poor Customer Support,merged,0.824,0.67
+Poor Support System,1,Unresponsive Support,merged,0.759,0.759
+Poor User Experience,1,Poor User Experience,new: rejected by LLM,0.635,
+Poor Vendor Coordination,1,Poor Vendor Coordination,new: below floor,0.545,
+Pop-up Annoyance,1,Distracting Pop-Ups,merged,0.788,0.788
+Portal Order Status Inaccurate,1,Portal Order Status Inaccurate,new: below floor,0.515,
+Pre-Order Cancellation,1,Order Cancellation,merged,0.847,0.847
+Pre-Payment Issue,1,Payment Issues,merged,0.715,0.715
+Predefined Answers,1,Predefined Answers,new: below floor,0.437,
+Price Change Issue,1,Incorrect Price,merged,0.693,0.693
+Price Difference,1,Lower Prices Offered,merged,0.623,0.623
+Price Fluctuation,1,Price Fluctuation,new: below floor,0.556,
+Price Hike,1,High Prices,merged,0.608,0.608
+Price Hike Surprise,1,Price Hike Surprise,new: below floor,0.489,
+Price Increase,1,Price Hike Surprise,merged,0.689,0.627
+Price Manipulation,1,Exorbitant Prices,merged,0.628,0.628
+Prioritizing Other Orders,1,Multiple Orders,merged,0.7,0.7
+Prioritizing Profits Over Health,1,Prioritizing Profits Over Health,new: below floor,0.407,
+Product Damage,1,Damaged Products,merged,0.865,0.865
+Product Not Showing,1,Incorrect Product Display,merged,0.68,0.68
+Promotional Notifications,1,Promotional Notifications,new: below floor,0.525,
+Proper Customer Service,1,Proper Customer Service,new: rejected by LLM,0.778,
+Punctured Bike,1,Punctured Bike,new: below floor,0.551,
+Quality Check Failure,1,Lack of Quality Control,merged,0.647,0.647
+Rain Fee Charged Twice,1,Rain Fee,merged,0.795,0.795
+Rain Fee Charges,1,Rain Fee,merged,0.938,0.938
+Rain Fee Error,1,Rain Fee,merged,0.844,0.844
+Random Charges,1,Hidden Charges,merged,0.658,0.658
+Rapid Preparation Time,1,Rapid Preparation Time,new: rejected by LLM,0.697,
+Rating Not Beneficial,1,Forced Rating,merged,0.622,0.622
+Rating Problem,1,Forced Rating,merged,0.631,0.631
+Recording Not Allowed,1,Recording Not Allowed,new: below floor,0.529,
+Reduced Partners,1,Reduced Partners,new: below floor,0.524,
+Referral Code Visibility,1,Referral Code Visibility,new: below floor,0.236,
+Refund Failure,1,No Refund,merged,0.79,0.79
+Refund Not Available,1,No Refund,merged,0.784,0.784
+Refund Not Credited,1,No Refund,merged,0.763,0.763
+Refund Not Issued,1,No Refund,merged,0.754,0.754
+Refund Not Possible,1,No Refund,merged,0.757,0.757
+Refund Problem,1,No Refund,merged,0.799,0.789
+Refund Problems,1,No Refund,merged,0.795,0.768
+Refund Process Takes Long,1,No Refund,merged,0.619,0.619
+Refund Process Time,1,No Refund,merged,0.61,0.61
+Refund Promises,1,Fake Promises,merged,0.705,0.7
+Refund Refusal,1,Unfair Refund Policy,merged,0.735,0.734
+Refund Scam,1,No Refund,merged,0.735,0.735
+Refund System,1,No Refund,merged,0.758,0.701
+Refusal to Call Back,1,Refusal to Call Back,new: below floor,0.557,
+Refusal to Deliver on Time,1,Delivery Issue,merged,0.635,0.635
+Refusal to Repay Amount,1,Payment Issues,merged,0.62,0.62
+Refusal To Replace,1,Refusal To Replace,new: below floor,0.574,
+Refuse Payment,1,Payment Issues,merged,0.641,0.641
+Removed Chat Feature,1,Removed Chat Feature,new: below floor,0.535,
+Repeated Calls,1,Multiple Unnecessary Calls,merged,0.788,0.788
+Repeated Delays,1,Delayed Resolution,merged,0.628,0.628
+Repeated Problem,1,Repeated Problem,new: below floor,0.45,
+Reputation Damage,1,Reputation Damage,new: below floor,0.562,
+Restart Search Problem,1,Restart Search Problem,new: below floor,0.59,
+Restaurant Closed,1,Restaurant Closed,new: rejected by LLM,0.607,
+Restaurant Details,1,Restaurant Details,new: rejected by LLM,0.711,
+Restaurant Handling Issues,1,Restaurant Handling Issues,new: rejected by LLM,0.645,
+Restaurant Not Available,1,Difficulty Finding Restaurant,merged,0.8,0.8
+Restaurant Phone Not Picked Up,1,Restaurant Phone Not Picked Up,new: below floor,0.598,
+Restaurant Phone Not Working,1,Restaurant Phone Not Picked Up,merged,0.867,0.867
+Restaurant Policy Conflict,1,Miscommunication Between Partner And Restaurant,merged,0.729,0.66
+Restaurant Service Quality,1,Restaurant Service Quality,new: rejected by LLM,0.697,
+Restaurant Status Inconsistency,1,Restaurant Handling Issues,merged,0.656,0.656
+Restaurant Unavailability,1,Restaurant Handling Issues,merged,0.71,0.71
+Return Pickup Denied,1,Return Pickup Denied,new: below floor,0.587,
+Rider Misbehaviour,1,Rider Misbehaviour,new: below floor,0.547,
+Riders Keep Food,1,Riders Keep Food,new: below floor,0.517,
+Right to Cancel Order,1,Order Cancellation,merged,0.822,0.822
+Rotten and Stale Vegetables,1,Stale Food,merged,0.712,0.712
+Rotten Chicken,1,Rotten Chicken,new: below floor,0.575,
+Rotten Onions,1,Rotten Chicken,merged,0.666,0.666
+Rude Behaviour,1,Abusive Behaviour,merged,0.644,0.644
+Rude Customer Care,1,Customer Care Shouting,merged,0.798,0.755
+Rude Delivery Boys,1,Rude Delivery Agents,merged,0.745,0.745
+Rude Delivery Executive,1,Rude Delivery Agents,merged,0.801,0.801
+Rude Delivery Person,1,Rude Delivery Agents,merged,0.82,0.82
+Rude Delivery Personnel,1,Rude Delivery Agents,merged,0.869,0.869
+Rude Rider Behaviour,1,Rider Misbehaviour,merged,0.721,0.721
+Rude Support Staff,1,Rude Support Staff,new: rejected by LLM,0.606,
+Safety Concerns,1,Safety Concerns,new: below floor,0.402,
+Safety Policy Lack,1,Safety Policy Lack,new: rejected by LLM,0.722,
+Scam,1,Scam,new: rejected by LLM,0.713,
+Scam Sale,1,Delivery Scam,merged,0.797,0.728
+Scamming Customers,1,Scamming Customers,new: rejected by LLM,0.688,
+Scams by Delivery Partner,1,Delivery Scam,merged,0.875,0.875
+Scams from Company,1,Company Fraud,merged,0.757,0.732
+Scattered Food,1,Scattered Food,new: below floor,0.546,
+Security Concerns,1,Security Concerns,new: rejected by LLM,0.662,
+Self-Cancellation,1,Order Cancellation,merged,0.62,0.62
+Service Denial After Payment,1,Payment Issues,merged,0.612,0.612
+Service Not Timely,1,Delayed Service,merged,0.786,0.786
+Service Outage,1,Delayed Service,merged,0.627,0.627
+Service Unavailable,1,No Service Provided,merged,0.728,0.728
+Session Closure,1,Session Closure,new: below floor,0.331,
+Shared Deliveries,1,Multiple Orders Delivered,merged,0.685,0.668
+Short Cancellation Window,1,Missing Cancel Option,merged,0.629,0.629
+SIM Card Problem,1,SIM Card Problem,new: below floor,0.43,
+Slow Delivery Partner Assignment,1,Partner Assignment Delay,merged,0.79,0.79
+Slow Delivery Speed,1,Delivery Time Increase,merged,0.746,0.746
+Slow Delivery System,1,Slow Delivery System,new: rejected by LLM,0.725,
+Slow Delivery Times,1,Slow Delivery System,merged,0.886,0.886
+Slow Food Delivery,1,Food Delivery Issues,merged,0.827,0.823
+Slow Order,1,Long Order Processing Time,merged,0.659,0.659
+Slow Order Processing,1,Long Order Processing Time,merged,0.822,0.822
+Slow Orders,1,Long Order Processing Time,merged,0.636,0.636
+Slow Process,1,Slow Process,new: below floor,0.578,
+Slow Refund,1,No Refund,merged,0.741,0.741
+Small App Size,1,Small App Size,new: below floor,0.528,
+Small Portion Size,1,Small Portion Size,new: below floor,0.495,
+Sorting Options Missing,1,Missing Option,merged,0.601,0.601
+Spoiled Biryani,1,Spoiled Biryani,new: below floor,0.29,
+Spoiled Ice Cream,1,Missing Ice Cream,merged,0.73,0.73
+Spoiled Items,1,Spoiled Items,new: below floor,0.545,
+Stale Breads,1,Stale Food,merged,0.746,0.746
+Stale Food Products,1,Stale Food,merged,0.894,0.894
+Station Exit Requirement,1,Station Exit Requirement,new: below floor,0.271,
+Stock Market Listing,1,Incorrect Stock Listing,merged,0.682,0.682
+Stolen Foods,1,Food Stolen,merged,0.95,0.95
+Store Unavailability,1,Store Unavailability,new: below floor,0.423,
+Store Unavailable,1,Incorrect Store Selection,merged,0.643,0.643
+Stuck Order Status,1,Order On Hold,merged,0.635,0.623
+Sudden Cancellation,1,Cancellation Fee Charged,merged,0.636,0.636
+Support Mistake,1,Non-Existent Support,merged,0.656,0.656
+Support Team Incompetence,1,Pathetic Support Team,merged,0.65,0.65
+Support Team Misbehavior,1,Pathetic Support Team,merged,0.697,0.697
+Support Team Response,1,Support Team Response,new: rejected by LLM,0.631,
+Support Team Unhelpful,1,Support Team Response,merged,0.711,0.711
+Support Unhelpful,1,Non-Existent Support,merged,0.675,0.675
+Surge Pricing,1,Surge Charges,merged,0.684,0.684
+Swiggy Money Expired,1,Swiggy Money Expired,new: below floor,0.531,
+Swings in Delivery,1,Delivery Issues,merged,0.631,0.631
+System Change Requirement,1,System Change Requirement,new: below floor,0.494,
+Temporary Service Issues,1,Temporary Service Issues,new: below floor,0.571,
+Terrible Customer Support,1,Customer Service Failure,merged,0.884,0.684
+Third Party Involvement,1,Third Party Involvement,new: below floor,0.352,
+Threat to Uninstall App,1,App Uninstallation,merged,0.817,0.817
+Ticket System Failure,1,Ticket System Failure,new: below floor,0.567,
+Time Extension,1,Time Extension,new: below floor,0.544,
+Timing Issues,1,Incorrect Restaurant Timings,merged,0.677,0.677
+Too Much Ads,1,Too Many Ads,merged,0.964,0.964
+Toy Not Working Properly,1,Toy Not Working Properly,new: below floor,0.419,
+Tracking Confusion,1,Lack of Tracking Facility,merged,0.648,0.648
+Tracking System Failure,1,Lack of Tracking Facility,merged,0.637,0.637
+Train Delivery Option,1,Train Delivery Option,new: below floor,0.523,
+Trash Level Service,1,Trash Level Service,new: below floor,0.395,
+Trick Users,1,Trick Users,new: below floor,0.437,
+Unaccepted Payment Method,1,Unaccepted Payment Method,new: below floor,0.585,
+Unaffordable for Workers,1,Unaffordable for Workers,new: below floor,0.388,
+Unanswered Calls,1,Abandoned Call,merged,0.656,0.656
+Unanswered Support Emails,1,Unanswered Support Emails,new: rejected by LLM,0.728,
+Unattentive Delivery Partner,1,Delivery Partner Issue,merged,0.682,0.682
+Unauthorized Access,1,Unauthorized Access,new: below floor,0.526,
+Unauthorized Order,1,Fraudulent Order Listing,merged,0.679,0.679
+Unavailable Support,1,Non-Existent Support,merged,0.665,0.665
+Unbothered Consaltancy Agents,1,Unbothered Consaltancy Agents,new: below floor,0.385,
+Unclear Menu,1,Inconsistent Menu Option,merged,0.677,0.677
+Unclear Order Status,1,Incorrect Order,merged,0.656,0.656
+Uncompetitive Rates,1,Uncompetitive Rates,new: below floor,0.59,
+Uncompetitive Service,1,Uncompetitive Service,new: rejected by LLM,0.601,
+Unconvenient Delivery Timing,1,Slow Delivery System,merged,0.793,0.753
+Uncooperative Customer Support,1,Poor Customer Support,merged,0.728,0.728
+Uncooperative Delivery Agent,1,Delivery Agent Unavailability,merged,0.797,0.797
+Uncooperative Support Staff,1,Rude Support Staff,merged,0.72,0.72
+Uncredited Payment,1,Uncredited Payment,new: below floor,0.595,
+Undelivered Food,1,Food Not Prepared,merged,0.609,0.609
+Undelivered Orders,1,Undelivered Orders,new: below floor,0.515,
+Undercooked Food,1,Food Not Prepared,merged,0.614,0.614
+Undercooked Pizza,1,Undercooked Pizza,new: below floor,0.428,
+Unexpected Cancellation,1,Order Cancellation,merged,0.678,0.678
+Unexpected Charge,1,Extra Charge,merged,0.633,0.633
+Unexpected Error,1,Unexpected Error,new: below floor,0.575,
+Unexpected Order,1,Incorrect Order,merged,0.855,0.855
+Unexplained Error,1,Unexpected Error,merged,0.846,0.846
+Unexplained Removal,1,Unexplained Removal,new: below floor,0.355,
+Unfair Advertising,1,False Advertising,merged,0.781,0.781
+Unfair Cancel Fee Policy,1,Cancellation Fee Charged,merged,0.754,0.754
+Unfair Cancellation Policy,1,Unfair Cancellation Policy,new: rejected by LLM,0.713,
+Unfair Charge,1,Excessive Penalty Charge,merged,0.671,0.671
+Unfair Charge After Cancellation,1,Cancellation Fee Charged,merged,0.756,0.756
+Unfair Comparison,1,Unfair Comparison,new: below floor,0.541,
+Unfair Conditions,1,Unfair Conditions,new: rejected by LLM,0.631,
+Unfair Deduction,1,Double Deduction,merged,0.698,0.698
+Unfair Delivery Charge,1,High Delivery Charges,merged,0.73,0.73
+Unfair Earnings Adjustment,1,Unfair Earnings Adjustment,new: below floor,0.529,
+Unfair Fee Charges,1,Excessive Penalty Charge,merged,0.668,0.654
+Unfair Fines,1,Unfair Conditions,merged,0.638,0.638
+Unfair Labor Practices,1,Unfair Labor Practices,new: rejected by LLM,0.657,
+Unfair Membership Fees,1,Unfair Membership Fees,new: rejected by LLM,0.662,
+Unfair Order Cancellation Policy,1,Unfair Cancellation Policy,merged,0.909,0.823
+Unfair Platform Fee,1,Excessive Platform Fee,merged,0.874,0.874
+Unfair Practices,1,Unfair Practices,new: rejected by LLM,0.776,
+Unfair Rain Charges,1,Rain Fee,merged,0.665,0.665
+Unfriendly User Interface,1,Poor Interface,merged,0.652,0.652
+Unfulfilled Coupon Promise,1,Coupon Not Applied,merged,0.668,0.668
+Unfulfilled Orders,1,Undelivered Orders,merged,0.628,0.625
+Unfulfilled Promise,1,Fake Promises,merged,0.723,0.723
+Unfulfilled Promises,1,Broken Commitment Promise,merged,0.781,0.655
+Ungrateful Behaviour,1,Ungrateful Behaviour,new: below floor,0.475,
+Unhealthy Food,1,Bad Food,merged,0.702,0.702
+Unhealthy Food Options,1,Unhealthy Food Options,new: below floor,0.584,
+Unhelpful Chat Bots,1,Ineffective Chatbot,merged,0.711,0.711
+Unhelpful Chatbot,1,Ineffective Chatbot,merged,0.866,0.866
+Unhelpful Delivery Partner,1,Delivery Partner Issue,merged,0.808,0.808
+Unhelpful Email Request,1,Unanswered Support Emails,merged,0.616,0.616
+Unhelpful Help Section,1,Broken Help Section,merged,0.781,0.781
+Unhelpful Refund Policy,1,Bad Return Policy,merged,0.91,0.689
+Unhelpful Response,1,Unhelpful Response,new: below floor,0.558,
+Unhelpful Staff,1,Rude Support Staff,merged,0.767,0.621
+Unhelpful Support Team,1,Pathetic Support Team,merged,0.694,0.694
+Unhelpful Swiggy Team,1,Unhelpful Swiggy Team,new: below floor,0.528,
+Uninformed Order Cancellation,1,Order Cancellation,merged,0.846,0.846
+Unintentional Order,1,Incorrect Order,merged,0.793,0.793
+Unintentional Order Cancellation,1,Order Cancellation,merged,0.879,0.879
+Unjustified Pricing,1,Unfair Pricing,merged,0.836,0.836
+Unjustified Reasons,1,Unjustified Reasons,new: below floor,0.577,
+Unnecessary Cancellations,1,Order Cancellation,merged,0.647,0.647
+Unnecessary Delay,1,Incorrect Wait Time,merged,0.709,0.709
+Unnecessary Order Acceptance,1,Forced Acceptance,merged,0.642,0.642
+Unnecessary Order Cancellation,1,Order Cancellation,merged,0.9,0.9
+Unnecessary Payment Request,1,Payment Issues,merged,0.701,0.701
+Unordered Food,1,Faulty Food Orders,merged,0.607,0.607
+Unprocessed Payment,1,Unaccepted Payment Method,merged,0.672,0.672
+Unprofessional Attitude,1,Careless Attitude,merged,0.672,0.672
+Unprofessional Delivery Person,1,Incompetent Delivery Person,merged,0.841,0.841
+Unreachable Customer Service,1,Customer Service Failure,merged,0.824,0.824
+Unreachable Delivery Partner,1,Delivery Partner Issue,merged,0.843,0.843
+Unreachable Partner,1,Partner Not Available,merged,0.616,0.616
+Unreachable Restaurant,1,Difficulty Finding Restaurant,merged,0.652,0.652
+Unrealistic Delivery Time,1,Delivery Time Increase,merged,0.745,0.73
+Unrealistic Delivery Time Estimates,1,Incorrect Delivery Time Estimate,merged,0.769,0.769
+Unrealistic Time Display,1,Unrealistic Time Display,new: below floor,0.524,
+Unrefunded Payment,1,Unaccepted Payment Method,merged,0.616,0.616
+Unreliable Delivery Partners,1,Delivery Partner Issue,merged,0.76,0.745
+Unreliable Delivery Times,1,Slow Delivery System,merged,0.773,0.752
+Unresolved Food Quality Issue,1,Food Quality Not Noted,merged,0.718,0.718
+Unresolved Problem,1,Unresolved Issues,merged,0.917,0.859
+Unrespected Resolution,1,Delayed Resolution,merged,0.821,0.654
+Unresponsive Customer Executive,1,Irresponsive Customer Care,merged,0.805,0.805
+Unresponsive Delivery Agent,1,Delivery Agent Unavailability,merged,0.732,0.732
+Unresponsive Delivery Boy,1,Abusive Delivery Boy,merged,0.723,0.653
+Unresponsive Delivery Executive,1,Incompetent Delivery Person,merged,0.719,0.677
+Unresponsive Delivery Guy,1,Incompetent Delivery Person,merged,0.709,0.709
+Unresponsive Delivery Partners,1,Delivery Partner Issue,merged,0.758,0.758
+Unresponsive Delivery Team,1,Lack of Delivery Executives,merged,0.7,0.659
+Unresponsive Email Support,1,Unresponsive Support,merged,0.765,0.745
+Unresponsive Restaurant,1,Restaurant Handling Issues,merged,0.682,0.682
+Unresponsive Staff,1,Unresponsive Support,merged,0.729,0.665
+Unresponsive Team,1,Unresponsive Support,merged,0.69,0.69
+Unresponsiveness,1,Unresponsive Support,merged,0.797,0.797
+Unreturned Money,1,Demand Money Again,merged,0.605,0.605
+Unstable GST,1,Unstable GST,new: rejected by LLM,0.656,
+Unsuccessful Payment Refund,1,No Refund,merged,0.674,0.674
+Unsupportive Helpline,1,Closed Helpline,merged,0.738,0.738
+Unused Gift Balance,1,Unused Gift Balance,new: below floor,0.536,
+Unwanted Ads,1,Too Many Ads,merged,0.687,0.687
+Unwanted Notifications,1,Irritating Notifications,merged,0.878,0.878
+Upselling Pressure,1,Upselling Pressure,new: below floor,0.28,
+Urgent Delivery Denied,1,Order Not Delivered,merged,0.638,0.638
+Useless AI Bots,1,Poor AI,merged,0.647,0.647
+Useless App,1,Useless App,new: rejected by LLM,0.639,
+Useless Bot,1,Useless Bot,new: below floor,0.585,
+Useless Coupon,1,Coupon Not Applied,merged,0.71,0.64
+Useless Customer Help,1,Poor Customer Support,merged,0.704,0.704
+Useless Customer Service,1,Poor Customer Support,merged,0.706,0.673
+Useless Subscription,1,Useless Subscription,new: rejected by LLM,0.62,
+Useless Virtual Agent,1,Useless Virtual Agent,new: below floor,0.532,
+Vegetable Availability Issue,1,Vegetable Availability Issue,new: below floor,0.485,
+Vehicle Problem,1,Vehicle Problem,new: below floor,0.464,
+Wallet Money Not Refunded,1,Cash Back Not Received,merged,0.671,0.671
+Waste Food,1,Stale Food,merged,0.611,0.611
+Waste of Express Service,1,Waste of Express Service,new: below floor,0.468,
+Waste of Money,1,Money Wasted,merged,0.78,0.78
+Wasting Time Issue,1,Wasted Time,merged,0.703,0.703
+Wednesday Offer Scam,1,Fake Offers,merged,0.689,0.648
+Weight Shortage,1,Weight Shortage,new: below floor,0.546,
+Wet Packaging,1,Poor Packaging,merged,0.69,0.69
+Working Webpage,1,Working Webpage,new: below floor,0.296,
+Worms in Eggs,1,Worms in Eggs,new: below floor,0.595,
+Worst Cancellation Policy,1,Worst Cancellation Policy,new: rejected by LLM,0.812,
+Worst Customer Care,1,Worst Customer Care,new: rejected by LLM,0.765,
+Worst Delivery Experience,1,Worst Delivery Experience,new: rejected by LLM,0.7,
+Worst Support System,1,Inefficient Support Process,merged,0.623,0.623
+Wrong Address,1,Incorrect Address,merged,0.97,0.97
+Wrong Delivery Driver,1,Incompetent Delivery Person,merged,0.658,0.658
+Wrong Delivery Information,1,Delivery Issue,merged,0.772,0.772
+Wrong Food Delivery,1,Food Delivery Issues,merged,0.88,0.88
+Wrong Gravy Received,1,Missing Gravy,merged,0.783,0.783
+Wrong Hotel Recommendation,1,Wrong Hotel Recommendation,new: rejected by LLM,0.636,
+Wrong Item Sent,1,Wrong Item Sent,new: below floor,0.459,
+Wrong Items Sent,1,Wrong Item Sent,merged,0.934,0.934
+Wrong Location,1,Incorrect Live Location,merged,0.723,0.723
+Wrong Order Delivery,1,Order Not Delivered,merged,0.817,0.817
+Wrong Order Pickup,1,Incorrect Order,merged,0.686,0.686
+Wrong Order Timing,1,Incorrect Restaurant Timings,merged,0.715,0.715
+Wrong Orders,1,Incorrect Order,merged,0.86,0.86
+Wrong Product,1,Incorrect Product Display,merged,0.706,0.706
+Wrong Product Delivered,1,Order Not Delivered,merged,0.641,0.641
+Wrong Product Sent,1,Wrong Item Sent,merged,0.854,0.854
+Wrong Timelines,1,Misleading Timeline,merged,0.817,0.817
+Zero Commitment for Delivery Time,1,Zero Commitment for Delivery Time,new: below floor,0.551,
+Zomato Competitor Advantage,1,Zomato Competitor Advantage,new: below floor,0.321,

@@ -1,0 +1,101 @@
+﻿phrase,canonical,mentions,similarity,correct
+Long Order Cancellation Process,Order Cancellation,1,0.841,Y
+Unfair Cancellation Charges,Unfair Charges,3,0.729,N
+No Refund System,No Refund,1,0.823,Y
+Food Packaging Problem,Food Package Tampered,1,0.728,N
+High Packaging Charges,High Delivery Charges,1,0.825,N
+Delayed Refund,No Refund,8,0.753,N
+Cancellation Fees Applied Unnecessarily,Cancellation Fee,1,0.809,Y
+Delayed Cancellation,Cancellation Problem,1,0.748,N
+Delivery Delay,Late Delivery,3,0.816,Y
+Unhelpful Customer Care,Unresponsive Customer Care,6,0.822,N
+Ineffective Support,Lack of Support,2,0.747,N
+App Not Opening,App Not Working,1,0.834,Y
+Delivery Time Increase,Incorrect Delivery Time,1,0.704,N
+Poor Communication,Lack Of Communication,1,0.88,N
+No Delivery Person,Delivery Person Connection,1,0.713,N
+Order Cancellation Error,Order Cancellation,1,0.852,Y
+No Order Cancellation,Order Cancellation,3,0.931,Y
+Delayed Deliveries,Late Delivery,4,0.834,Y
+Lack of Discount,Lack of Coupon,1,0.72,N
+Incorrect Restaurant Information,Incorrect Restaurant Status,1,0.839,N
+Bad Delivery Boy,Abusive Delivery Boy,1,0.758,N
+Expensive Delivery Cost,High Delivery Charges,1,0.72,Y
+High Delivery Rates,High Delivery Charges,1,0.802,Y
+False Delivery Information,False Delivery Confirmation,1,0.826,N
+Unhelpful Customer Service,Unresponsive Customer Care,2,0.733,N
+Ineffective Customer Support,Poor Customer Support,6,0.857,Y
+Missed Items,Missing Items,1,0.868,Y
+Wrong Order Pickup,Late Order Pickup,1,0.786,N
+Excessive Cancellation Fee,Cancellation Fee,2,0.873,Y
+Fraudulent Charges,Unfair Charges,1,0.718,N
+Multiple Orders Delivered Together,Duplicate Orders,1,0.734,N
+Delays in Delivery,Late Delivery,1,0.809,Y
+Excessive Delivery Charges,High Delivery Charges,1,0.847,Y
+Incorrect Delivery Priority,Incorrect Delivery Prioritization,1,0.843,Y
+Customer Support Removed,Customer Contact Removed,1,0.739,Y
+Penalty for Cancellation,Cancellation Fee,1,0.758,Y
+Late Delivery Agent,Late Delivery,1,0.813,Y
+Lack of Flat Off Coupons,Lack of Coupon,1,0.8,Y
+Incorrect Information,False Information,1,0.705,Y
+Refund Not Credited,No Refund,1,0.763,Y
+Undercooked Pizza,Undercooked Food,1,0.767,Y
+Misleading Sales,Misleading Consumers,1,0.748,Y
+Order Not Received,Order Not Delivered,3,0.904,Y
+Pending Refunds,Delayed Refund Process,1,0.721,Y
+Cancellation Fee High,Cancellation Fee,1,0.886,Y
+Lack of Coupons,Lack of Coupon,1,0.942,Y
+Late Deliveries,Late Delivery,11,0.904,Y
+Poor Application,Poor App,1,0.781,Y
+Unfair Delivery Charge,High Delivery Charges,1,0.73,N
+Portal Order Status Inaccurate,Inaccurate Order Status,1,0.773,Y
+Non-Received Invoice,Missing Invoice,1,0.769,Y
+Wrong Product Sent,Wrong Item Sent,1,0.854,Y
+Unsuccessful Payment Refund,Incorrect Refund Amount,1,0.727,N
+Partial Order,Double Order,1,0.708,N
+Rude Delivery Boy,Rude Delivery Agents,2,0.704,Y
+Rotten and Stale Vegetables,Stale Food,1,0.712,Y
+No Action Against Delivery Partner,Unassigned Delivery Partner,1,0.762,N
+Cancellation Option Missing,Missing Cancel Option,1,0.931,Y
+Late Order Processing,Late Order Assignment,1,0.739,N
+Order Confirmation Failure,Failed Order,1,0.762,N
+Restaurant Status Inconsistency,Incorrect Restaurant Status,1,0.909,Y
+Poor Customer Service,Poor Customer Support,34,0.882,Y
+Fraudulent Activities,Fraudulent Practices,1,0.865,Y
+Miscommunication About Refund Timing,Delayed Refund Process,1,0.743,N
+Incorrect Delivery Charge,High Delivery Charges,2,0.727,N
+Rude Rider Behaviour,Rude Behaviour,1,0.728,Y
+Order Denied,Failed Order,1,0.748,N
+Unresponsive Delivery Team,Unresponsive Delivery Partner,1,0.785,Y
+No Call Support,Call Center No Response,1,0.723,N
+Unfair Fee Charges,Unfair Charges,1,0.796,Y
+Poor Support System,Unresponsive Support,1,0.759,N
+Incorrect Products,Incorrect Product Display,1,0.729,N
+Restaurant Phone Not Working,Restaurant Phone Not Picked Up,1,0.867,N
+No Resolution Process,No Resolution,1,0.877,Y
+Refund Process Takes Long,Delayed Refund Process,1,0.814,Y
+Price Difference,Different Prices,1,0.84,Y
+Delivery Agent Uncertainty,Delivery Agent Unavailability,1,0.753,N
+Delivery Partner Unprofessional,Unresponsive Delivery Partner,1,0.768,N
+Extended Wait Times,Long Delay,1,0.754,Y
+Removed Chat Feature,Abandoned Chat,1,0.708,N
+Incorrect Delivery Order Allocation,Incorrect Delivery Fee,1,0.708,N
+Fraudulent Orders,Fraudulent Order Listing,1,0.849,N
+Incorrect Time Estimate,Incorrect Estimated Time,1,0.952,Y
+Food Not Satisfying,Food Not Prepared,1,0.71,N
+Price Hike,Increased Prices,1,0.704,Y
+Order Cancellation Refusal,Cancellation Refusal,1,0.848,Y
+Wrong Food Delivery,Food Delivery Issues,1,0.88,N
+Double Delivery Charge,High Delivery Charges,1,0.74,N
+No Returns Allowed,No Return Policy,1,0.735,Y
+Stale Breads,Stale Food,1,0.746,Y
+Late Food,Delayed Food,1,0.821,Y
+Incorrect Address Display,Incorrect Address,1,0.851,Y
+Order Modification Calls,Order Changes,1,0.772,N
+Poor Customer Care,Poor Customer Support,8,0.853,Y
+Order Cancellation Without Consent,Order Cancellation,1,0.835,N
+Extra Charge on Cancellation,Cancellation Fee,1,0.78,Y
+Delivery Scams,Delivery Scam,1,0.96,Y
+Rude Delivery Personnel,Rude Delivery Agents,1,0.869,Y
+Expensive Delivery,High Delivery Charges,1,0.703,Y
+Delivery Boy Misbehavior,Abusive Delivery Boy,1,0.77,Y

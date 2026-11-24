@@ -1,0 +1,101 @@
+﻿phrase,canonical,mentions,similarity,correct
+Slow Process,Long Order Preparation Time,1,0.423,N
+Delayed Order,Late Delivery,6,0.576,Y
+Unresponsive Team,App Not Taking Issues Seriously,1,0.38,N
+Late Cancellation Request,Refund Not Processed,1,0.686,N
+Annoying Ad Tricks,Scam Attempt,1,0.259,N
+Unexpected Charge Increase,Excessive Delivery Charge,1,0.472,N
+Open Menu Problem,Inaccessible Invoice,1,0.309,N
+Unreliable Notifications,No Warning Provided,1,0.367,N
+Untransparent Pricing Policy,Unstable Pricing,1,0.54,N
+Delivery Men Unresponsive,Rude Delivery Partner,1,0.525,N
+Different Item Received,Wrong Item Delivered,1,0.8,Y
+Incorrect Order,Refund Not Processed,26,0.256,N
+Picking Now,No Warning Provided,1,0.268,N
+Policy Not Fair,Membership Not Beneficial,1,0.252,N
+Bad Customer Support,Unhelpful Customer Support,3,0.803,Y
+Membership Fees Charged,Cancellation Fee,1,0.538,N
+Bad Food Not Noted,Stale Food,1,0.569,N
+Unfair Platform Fees,Excessive Delivery Charge,1,0.414,N
+Poor Customer Response,Unhelpful Customer Support,1,0.562,Y
+Payment Not Accepted,Cash On Delivery Not Available,1,0.575,N
+Order Proceeding Problem,Incorrect Order Status,1,0.659,N
+Failed Delivery Promise,Late Delivery,1,0.59,Y
+Lack of Cancellation Option,Refund Not Processed,1,0.687,N
+Poor Quality Product,Poor Packaging,1,0.683,N
+Delays,Late Delivery,1,0.578,N
+Late Delivery Partner,Late Delivery,1,0.832,Y
+No Customer Support,Rude Delivery Partner,16,0.332,N
+Difficult Restaurant Search,Address Selection Problem,1,0.525,N
+Refusal To Refund,Refund Not Processed,1,0.749,Y
+Bug in App,App Crashes At Checkout,1,0.686,N
+Extra Amount,Excessive Delivery Charge,1,0.296,N
+Grocery Delivery Issues,Cash On Delivery Not Available,1,0.539,N
+Missing Photo Sharing Option,Allow Image Attachments,1,0.362,Y
+Restaurant Unavailable,Cash On Delivery Not Available,2,0.353,N
+Recording Not Allowed,App Not Taking Issues Seriously,1,0.299,N
+Inconsiderate Company Policies,Rude Delivery Partner,1,0.425,N
+No Call from Delivery Partner,Insufficient Delivery Staff,1,0.589,N
+Language Issue,Wrong Item Delivered,1,0.254,N
+Missing Food,Late Delivery,2,0.534,N
+Incomplete Order,Wrong Item Delivered,4,0.261,N
+Misleading Pricing,Excessive Delivery Charge,2,0.395,N
+Late Delivery Assignment,Late Delivery,1,0.817,Y
+Not Recommended,Membership Not Beneficial,3,0.269,N
+Incorrect Orders,Wrong Item Delivered,1,0.808,Y
+Unreachable Customer Service,Inaccessible Invoice,1,0.713,N
+False Information,Incorrect Order Status,1,0.26,N
+Poor Support,Unhelpful Customer Support,5,0.509,Y
+Waste of Money,Refund Not Processed,7,0.38,N
+Cancelled Order Issue,Incorrect Order Status,1,0.622,N
+Disappointment,Delivery Person Lost,1,0.328,N
+No Delivery Agent Assigned,Insufficient Delivery Staff,1,0.708,Y
+Legal Action Threatened,Scam Attempt,1,0.369,N
+Bad Food,Stale Food,4,0.599,N
+Unfair Refund Offer,Discount Coupon Issue,1,0.624,N
+Bad Service,Rude Delivery Partner,15,0.3,N
+Unexpected Payment Increase,Order Prices Update,1,0.471,N
+Order Cancelled Without Refund,Incorrect Order Status,2,0.65,N
+Service Not Available,Inaccessible Invoice,1,0.38,N
+App Charges Twice,Excessive Delivery Charge,1,0.474,N
+Rude Support Agent,Unhelpful Customer Support,1,0.601,N
+Spoiled Food Order,Stale Food,1,0.618,Y
+Restaurant Fault,Stale Food,1,0.446,N
+Misunderstood Order Status,Incorrect Order Status,1,0.893,Y
+Too Much Ads,Excessive Delivery Charge,1,0.325,N
+Low Refund Offered,Refund Not Processed,1,0.608,N
+Food Quality Issue,Stale Food,1,0.508,N
+Urgent Delivery Denied,Unacceptable Delivery Experience,1,0.58,N
+Delayed Service,Late Delivery,2,0.573,N
+Delivery Partner Absent,Cash On Delivery Not Available,1,0.606,N
+No Service,No Response From Swiggy,1,0.353,N
+Disrespectful Service,Rude Delivery Partner,1,0.48,N
+Slow Delivery System,Late Delivery,1,0.626,Y
+Fraudulent Activities,Scam Attempt,1,0.48,Y
+Delivery Not Allowed,Excessive Delivery Charge,1,0.619,N
+Delayed Food Delivery,Late Delivery,1,0.713,Y
+Far Outlet Location,Address Selection Problem,1,0.175,N
+Negative Reviews,App Not Taking Issues Seriously,1,0.513,N
+App Performance Deteriorated,App Crashes At Checkout,2,0.436,N
+IPO Disappointment,Incorrect Order Status,1,0.256,N
+App Should Be Closed,App Crashes At Checkout,1,0.571,N
+Looping Response,No Response From Swiggy,1,0.252,N
+No Discount For First Order,Discount Coupon Issue,1,0.621,Y
+Extra Surge Charge,Excessive Delivery Charge,1,0.483,Y
+Misleading Consumer,Wrong Item Delivered,1,0.394,N
+Disregard for Genuine Mistakes,Unhelpful Customer Support,1,0.352,N
+Unprofessional Delivery Partner,Rude Delivery Partner,2,0.746,N
+GST Not Included,GST Charges,1,0.723,Y
+Refunds Pending,Refund Not Processed,1,0.751,Y
+Switch to Zomato,App Not Taking Issues Seriously,1,0.196,N
+Refund Processed,Refund Not Processed,2,0.908,N
+Urgency Not Considered,Unacceptable Delivery Experience,1,0.379,N
+Late Cancellation Fee,Cancellation Fee,3,0.88,Y
+Poor Assistance,Unhelpful Customer Support,1,0.428,Y
+Unhelpful Agent,Unhelpful Customer Support,1,0.445,Y
+Insufficient Packaging,Poor Packaging,1,0.805,Y
+Order Not Received On Time,Late Delivery,1,0.589,Y
+Fraud Delivery Agents,Wrong Item Delivered,1,0.511,Y
+Damaged Product,Poor Packaging,3,0.453,N
+Money Taken Unfairly,Scam Attempt,1,0.386,N
+Increased Food Item Rate,Excessive Delivery Charge,1,0.395,N
