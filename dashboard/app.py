@@ -97,7 +97,7 @@ with tab_issues:
     st.dataframe(
         view[["topic", "total", "per_100", "daily"]], hide_index=True, width="stretch", height=380,
         column_config={
-            "topic": st.column_config.TextColumn("Topic", width="large"),
+            "topic": st.column_config.TextColumn("Topic", width="medium"),
             "total": st.column_config.NumberColumn("Mentions", format="%d"),
             "per_100": st.column_config.NumberColumn("Per 100 actionable reviews", format="%.1f"),
             "daily": st.column_config.LineChartColumn("Daily mentions, 1–9 Oct", y_min=0),
@@ -119,9 +119,8 @@ with tab_issues:
                  alt.Tooltip("actionable:Q", title="Actionable reviews that day"),
                  alt.Tooltip("share:Q", title="Share", format=".1%")])
     chart = (base.mark_line(color=ACCENT, strokeWidth=2)
-             + base.mark_point(color=ACCENT, filled=True, size=70)).properties(
-        height=260, title=alt.Title(f"{choice}: {int(row['total'])} mentions over 9 days", anchor="start",
-                                    color="#0b0b0b", fontSize=14))
+             + base.mark_point(color=ACCENT, filled=True, size=70)).properties(height=260)
+    st.markdown(f"**{choice}: {int(row['total'])} mentions over 9 days**")
     st.altair_chart(style(chart), width="stretch")
     st.caption("Shown as a share, not a count: on a day with more reviews, every issue gets more mentions.")
 
@@ -202,8 +201,8 @@ with tab_eval:
         tooltip=[alt.Tooltip("version:N", title="Version"), alt.Tooltip("position:N", title="Batch position"),
                  alt.Tooltip("actionable_rate:Q", title="Actionable", format=".1%"),
                  alt.Tooltip("reviews:Q", title="Reviews", format=",")]
-    ).properties(height=280, title=alt.Title("v1's label depended on where a review sat in its batch",
-                                             anchor="start", color="#0b0b0b", fontSize=14))
+    ).properties(height=280)
+    a.markdown("**v1's label depended on where a review sat in its batch**")
     a.altair_chart(style(pos_chart), width="stretch")
     a.caption("Reviews are labelled in batches of 4. Reviews without a rescue keyword, so this is the model alone.")
 
@@ -218,8 +217,8 @@ with tab_eval:
         tooltip=[alt.Tooltip("version:N", title="Version"), alt.Tooltip("stars:N", title="Rating"),
                  alt.Tooltip("actionable_rate:Q", title="Actionable", format=".1%"),
                  alt.Tooltip("reviews:Q", title="Reviews", format=",")]
-    ).properties(height=280, title=alt.Title("v2's labels follow the review: complaints are low-star",
-                                             anchor="start", color="#0b0b0b", fontSize=14))
+    ).properties(height=280)
+    b.markdown("**v2's labels follow the review: complaints are low-star**")
     b.altair_chart(style(star_chart), width="stretch")
     b.caption("Same reviews. v1 labelled about a third actionable at every rating.")
 
@@ -260,9 +259,8 @@ with tab_eval:
                   + band_base.mark_point(color=ACCENT, filled=True, size=110).encode(x="precision:Q")
                   + band_base.mark_text(align="left", dx=10, dy=-10, color=INK_2, fontSize=12).encode(
                       x="precision:Q", text=alt.Text("precision:Q", format=".0%"))
-                  ).properties(height=200, title=alt.Title(
-                      "Low-similarity merges were mostly wrong (v3, floor 0.60)", anchor="start",
-                      color="#0b0b0b", fontSize=14))
+                  ).properties(height=200)
+    st.markdown("**Low-similarity merges were mostly wrong (v3, floor 0.60)**")
     st.altair_chart(style(band_chart), width="stretch")
     st.caption("Dot: share right in the labelled sample. Line: 95% interval. This is what prompted the 0.70 test.")
 
